@@ -1,0 +1,3 @@
+[submodule "themes/gallerydeluxe"]
+	path = themes/gallerydeluxe
+	url = https://github.com/bep/gallerydeluxe.git

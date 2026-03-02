@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="single-page">
+    <div class="container">
+        <header class="page-header">
+            <h1>{{ .Title }}</h1>
+            {{ if .Params.location }}
+            <p class="exhibition-meta">{{ .Params.location }}{{ end }}
+        </header>
+        <div class="content">
+            {{ .Content }}
+        </div>
+    </div>
+</section>
+{{ end }}

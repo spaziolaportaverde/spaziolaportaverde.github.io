@@ -1,0 +1,55 @@
+baseURL = 'https://previ.github.io/spaziolaportaverde.it/'
+languageCode = 'it-it'
+title = 'Spazio La Porta Verde'
+theme = 'gallerydeluxe'
+
+[params]
+    description = "Centro Culturale e Galleria d'Arte a Milano"
+    author = "Gabriella Ventavoli"
+    
+    [params.gallerydeluxe]
+        shuffle     = false
+        reverse     = true
+        enable_exif = false
+
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 10
+    [[menu.main]]
+        identifier = "chisiamo"
+        name = "Chi Siamo"
+        url = "/chi-siamo/"
+        weight = 20
+    [[menu.main]]
+        identifier = "finalita"
+        name = "Finalità"
+        url = "/finalita/"
+        weight = 30
+    [[menu.main]]
+        identifier = "spazio"
+        name = "Lo Spazio"
+        url = "/lo-spazio/"
+        weight = 40
+    [[menu.main]]
+        identifier = "mostre"
+        name = "Mostre"
+        url = "/mostre/"
+        weight = 50
+    [[menu.main]]
+        identifier = "novita"
+        name = "Novità"
+        url = "/novita/"
+        weight = 60
+    [[menu.main]]
+        identifier = "contatti"
+        name = "Contatti"
+        url = "/contatti/"
+        weight = 70
+
+[imaging]
+    resampleFilter = "CatmullRom"
+    quality        = 85
+    anchor         = "smart"

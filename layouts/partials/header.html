@@ -1,0 +1,24 @@
+<header class="site-header">
+    <div class="container">
+        <div class="header-inner">
+            <a href="/" class="logo">
+                <span class="logo-text">Spazio La Porta Verde</span>
+            </a>
+            <nav class="main-nav">
+                <button class="nav-toggle" aria-label="Menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <ul class="nav-menu">
+                    {{ $currentPage := . }}
+                    {{ range .Site.Menus.main }}
+                    <li class="nav-item{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{ end }}">
+                        <a href="{{ .URL }}">{{ .Name }}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>
