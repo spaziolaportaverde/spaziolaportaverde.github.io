@@ -1,6 +1,7 @@
 baseURL = 'https://previ.github.io/spaziolaportaverde.it/'
 languageCode = 'it-it'
 title = 'Spazio La Porta Verde'
+canonifyURLs = true
 
 [params]
     description = "Centro Culturale e Galleria d'Arte a Milano"
