@@ -10,6 +10,8 @@ draft: false
 
 Il 22 Febbraio il Centro Culturale La Porta Verde, in continuità con il precedente evento del 18 Gennaio dedicato alla tutela dell'ambiente: **foreste, aria, acqua**, prosegue con una nuova proposta espositiva incentrata sul valore della vita, in opposizione alla violenza che oggi viene drammaticamente perpetrata nei confronti delle **donne** e dell'**infanzia**.
 
+![Pietà](/images/mostre/2013-violenza-sulle-donne-e-linfanzia/pieta.jpg)
+
 L'arte di Gabriella Ventavoli propone in questa nuova mostra un connubio inusuale ma estremamente efficace, in cui si riconosce la sinergia tra l'espressione artistica forte, vibrante di emozione e l'intento di denuncia e testimonianza di eventi drammatici.
 
 In particolare è in mostra la triangolazione Ambiente-Donna-Violenza:

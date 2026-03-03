@@ -12,11 +12,11 @@ Quest'anno, il 2013, è stato dedicato dall'Europa all'ARIA. Il 6 giugno presso 
 
 ## Opere in Esposizione
 
-![Sorella Aria](/images/opere/Sorella Aria.jpg)
+![Sorella Aria](/images/mostre/2013-sorella-aria-e-volo-di-farfalleg/sorella_aria.jpg)
 
 ### SORELLA ARIA
 
-![Le ferite dell'aria](/images/opere/Le ferite dell'aria.jpg)
+![Le ferite dell'aria](/images/mostre/2013-sorella-aria-e-volo-di-farfalleg/ferite_aria.jpg)
 
 ### LE FERITE DELL'ARIA
 
@@ -24,7 +24,7 @@ In questa occasione sono messi in evidenza gli aspetti positivi di questo elemen
 
 Vediamo quindi dopo una prima opera che accenna alla contaminazione, quadri più ottimistici alludenti allo stretto legame tra l'aria, le piante e la vita sulla terra, e un'aria sorridente che danza e ospita le creature forse più leggiadre del mondo che le abitano: le farfalle.
 
-![Danza dell'aria](/images/opere/Danza dell'aria.jpg)
+![Danza dell'aria](/images/mostre/2013-sorella-aria-e-volo-di-farfalleg/danza_aria.jpg)
 
 ### DANZA DELL'ARIA
 
