@@ -17,7 +17,15 @@ L'8 Marzo 2014, Festa della Donna, nello Spazio La Porta Verde si è tenuto un i
 
 ## Opere in Esposizione
 
+![Calliope](/images/mostre/2014-la-donna-nellarte-nella-medicina-e-nel-sociale/calliope.jpg)
+
 - **Calliope** - La musa della poesia epica, ritenuta nel mondo classico la più importante e sempre in lotta con le catene che vorrebbero fermarla
+
+![Israa](/images/mostre/2014-la-donna-nellarte-nella-medicina-e-nel-sociale/israa.jpg)
+
 - **Israa** - Ispirata alla bambina siriana morta di stenti
+
+![La strage degli innocenti](/images/mostre/2014-la-donna-nellarte-nella-medicina-e-nel-sociale/strage_innocenti.jpg)
+
 - **La strage degli innocenti** - Sul tema della guerra civile
 - **Malala** - La giovane pakistana vittima della violenza per il suo impegno nell'istruzione

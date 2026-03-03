@@ -10,6 +10,8 @@ draft: false
 
 Si riconferma anche per l'edizione 2015 il grande successo di "Spoleto Arte" a cura del Prof. Vittorio Sgarbi. Inaugurata Sabato 27 Giugno con un evento di forte risonanza mediatica in un affollatissimo Palazzo Leti Sansi, nel cuore di Spoleto.
 
+![Logo Spoleto Arte](/images/mostre/2015-spoleto-arte/logo.png)
+
 La prestigiosa esposizione diretta e organizzata dal manager Salvo Nugnes, ha visto la partecipazione della straordinaria artista Amanda Lear, che nell'occasione ha esposto numerose sue tele appartenenti a diversi periodi della sua vita da pittrice.
 
 ## Citazione di Vittorio Sgarbi

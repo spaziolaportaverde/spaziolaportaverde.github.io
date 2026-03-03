@@ -28,7 +28,7 @@ Vediamo quindi dopo una prima opera che accenna alla contaminazione, quadri più
 
 ### DANZA DELL'ARIA
 
-![Volo di farfalle](/images/opere/Volo di farfalle.jpg)
+![Volo di farfalle](/images/mostre/2013-sorella-aria-e-volo-di-farfalleg/volo_farfalle.jpg)
 
 ### VOLO DI FARFALLE
 

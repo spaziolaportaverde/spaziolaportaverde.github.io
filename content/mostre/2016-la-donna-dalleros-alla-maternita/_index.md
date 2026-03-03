@@ -10,6 +10,8 @@ draft: false
 
 Dal 5 marzo all'8 aprile 2016, il Centro Culturale La Porta Verde ha ospitato la mostra "LA DONNA: DALL'EROS ALLA MATERNITÀ".
 
+![Locandina](/images/mostre/2016-la-donna-dalleros-alla-maternita/invito.jpg)
+
 L'artista Gabriella Ventavoli e il gruppo Noi Art hanno presentato numerose opere dedicate al complesso tema della femminilità.
 
 ## Gruppo Noi Art

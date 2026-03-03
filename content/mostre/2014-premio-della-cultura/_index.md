@@ -8,3 +8,7 @@ type: "premio"
 ---
 
 Un evento in cui la pittrice viene premiata per l'impegno sempre mostrato verso il rispetto e la protezione della natura.
+
+![Circolo della Stampa](/images/mostre/2014-premio-della-cultura/circolo_stampa.jpg)
+
+![Premio](/images/mostre/2014-premio-della-cultura/premio1.jpg)

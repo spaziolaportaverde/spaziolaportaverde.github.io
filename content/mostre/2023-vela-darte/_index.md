@@ -10,6 +10,8 @@ draft: false
 
 ## Opere in Esposizione
 
+![Premio Vele d'Arte](/images/mostre/2023-vela-darte/premio.jpg)
+
 - **Danze nel Mare**
 - **Fiori Marini**
 - **La Bellezza dal Mare**

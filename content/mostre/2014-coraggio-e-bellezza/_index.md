@@ -10,6 +10,8 @@ draft: false
 
 Nella galleria GRAAL di Pavia, dal 22 Marzo al 6 Aprile 2014, in concomitanza con il XXXIV Congresso Nazionale AIDM tenuto nei giorni 28, 29 e 30 marzo 2014, si è svolta una mostra personale della pittrice, dedicata al tema "Coraggio e Bellezza: Donne contro la Violenza".
 
+![Malala](/images/mostre/2014-coraggio-e-bellezza/malala.jpg)
+
 ## Citazione del Critico d'Arte Dr. Vicini
 
 Notevole è la ricchezza di spunti nell'opera di Gabriella Ventavoli. I suoi temi sono di forte impegno sociale e culturale: la violenza contro la donna e contro l'ambiente, la difesa della cultura e del diritto allo studio, l'emancipazione di tutti gli esseri umani attraverso la scuola.

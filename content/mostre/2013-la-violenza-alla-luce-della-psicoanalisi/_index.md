@@ -10,6 +10,8 @@ draft: false
 
 Il 23 novembre 2013, in occasione delle manifestazioni a favore dell'eliminazione della violenza sulla donna, culminanti il 25 novembre, giornata dedicata dall'ONU a questo tema, Gabriella Ventavoli e Gianmaria Occhi, hanno commentato alcune opere d'arte contemporanee e del passato, evidenziando, alla luce della psicoanalisi, gli aspetti relativi alla violenza sulle persone e sulla natura.
 
+![Farfalla ferita](/images/mostre/2013-la-violenza-alla-luce-della-psicoanalisi/farfalla.jpg)
+
 A questo proposito quali opere contemporanee sono state proiettate diapositive riproducenti opere della stessa Ventavoli, alcune delle quali esposte in sala, mentre per il passato sono stati commentati dipinti del Caravaggio e sculture di Michelangelo.
 
 ## Citazione di Sabrina Falzone

@@ -10,6 +10,8 @@ draft: false
 
 In occasione del grande evento EXPO a Milano la Galleria Sabrina Falzone presenta dal 21 al 30 maggio l'esposizione d'arte contemporanea sul tema "Fame e Spreco" che si lega al tema ufficiale dell'Expo Universale "Nutrire il Pianeta, Energia per la Vita".
 
+![La fame e la violenza](/images/mostre/2015-fame-e-spreco/fame_violenza.jpg)
+
 La scelta tematica mira a favorire un contesto di riflessione su due retroscena connessi al cibo, dove l'uno rappresenta il polo opposto dell'altro: da un lato la fame nel mondo e dall'altro lo spreco della società consumistica.
 
 Il progetto espositivo intende studiare da vicino le attuali problematiche socio-economiche in chiave artistica, mettendo in evidenza gli eccessi e le contraddizioni della società contemporanea.

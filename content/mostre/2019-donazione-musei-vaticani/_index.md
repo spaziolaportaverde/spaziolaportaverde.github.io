@@ -10,7 +10,11 @@ draft: false
 
 Gabriella Ventavoli ha donato la Natura Crocifissa a Papa Bergoglio per i Musei Vaticani. L'evento si inserisce nel tracciato dell'Enciclica papale "Laudato si'".
 
+![Museo Vaticano per l'Arte Contemporanea](/images/mostre/2019-donazione-musei-vaticani/museo_vaticano.png)
+
 ## L'Opera
+
+![La Crocifissione della Natura](/images/mostre/2019-donazione-musei-vaticani/crocifissione_natura.png)
 
 **La Crocifissione della Natura** - Acrilico su tela, cm 160×200, 2019
 
