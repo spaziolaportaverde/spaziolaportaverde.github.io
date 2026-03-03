@@ -5,6 +5,11 @@ description: "Mostra ispirata alle varie forme di contaminazione della natura"
 location: "Arezzo"
 year: 2013
 type: "collettiva"
+draft: false
 ---
 
-Questa mostra, ispirata alle varie forme di contaminazione della natura, si è svolta dal 18 al 31 Ottobre 2013 ad Arezzo, presso il Palazzetto della Fraternita dei Laici.
+Il 18 Ottobre 2013, in occasione delle 7.me Giornate Mediche dell'Ambiente, nelle quali ad Arezzo è stato promosso dalla sezione italiana dell'ISDE (International Society of Doctors for the Environment) un convegno sul tema: INQUINAMENTO ATMOSFERICO, Gabriella Ventavoli ha presentato nei locali del prestigioso Palazzetto della Fraternita dei Laici una raccolta di opere ispirate all'ambiente e alle innumerevoli forme di aggressione e di inquinamento presenti nella società contemporanea.
+
+## Citazione di Liletta Fornasari
+
+> "La 'pittura eterea' di Gabriella Ventavoli - Per comprendere il valore della pittura di Gabriella Ventavoli non si può prescindere da una obbligatoria considerazione iniziale relativa alla sua attività di medico e non a caso di medico ISDE. L'impegno da lei profuso in difesa dell'ambiente, da anni connesso all'analisi dell'interiorità umana, ha portato l'artista a creare un linguaggio caratterizzato da momenti di impalpabile sospensione attraverso l'uso molto bene pensato di fondi chiari."

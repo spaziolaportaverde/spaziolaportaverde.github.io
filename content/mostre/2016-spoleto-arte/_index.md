@@ -5,6 +5,15 @@ description: "Collettiva Spoleto Arte 2016"
 location: "Spoleto"
 year: 2016
 type: "collettiva"
+draft: false
 ---
 
-Collettiva Spoleto Arte 2016.
+## Opere in Esposizione
+
+- **Creatività**
+- **Il viola nella luce**
+- **La bellezza dal mare**
+- **La forza del sole**
+- **La leggerezza della luce**
+- **La luce al tramonto**
+- **La voce del sole**

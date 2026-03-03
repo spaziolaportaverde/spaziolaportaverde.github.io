@@ -5,6 +5,11 @@ description: "Premio della Critica Art Now"
 location: "Palermo"
 year: 2019
 type: "premio"
+draft: false
 ---
 
-Premio della Critica Art Now.
+## Opere Proposte
+
+- **Sognando Amazzonia**
+- **Il Trionfo della Natura**
+- **L'Olocausto della Natura**

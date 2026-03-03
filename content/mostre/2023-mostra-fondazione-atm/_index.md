@@ -12,19 +12,14 @@ draft: false
 
 ### Tele 50x70
 
-- **Danze nel Mare 1**
-- **Danze nel Mare 2**
-- **L'Anima del Mare**
-- **L'Occhio del Mare**
-- **La Grotta nel Mare**
-- **Pietà nel Mare**
+![Danze nel Mare 1](/images/mostre/2023-fondazione-atm/Danze%20nel%20mare%201.jpg)
+**Danze nel Mare 1**
 
-### Tele 100x150
+![Danze nel Mare 2](/images/mostre/2023-fondazione-atm/Danze%20nel%20mare%202.jpg)
+**Danze nel Mare 2**
 
-- **Poseidon e Armonia**
-- **La Sirena**
-- **Le Pescatrici di Perle**
+![L'Anima del Mare](/images/mostre/2023-fondazione-atm/L'anima%20del%20mare.jpg)
+**L'Anima del Mare**
 
-### Tele 140x180
-
-- **Il Dinamismo del Mare**
+![L'Occhio del Mare](/images/mostre/2023-fondazione-atm/L'occhio%20del%20mare.jpg)
+**L'Occhio del Mare**

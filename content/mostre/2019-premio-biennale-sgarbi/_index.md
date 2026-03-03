@@ -5,6 +5,9 @@ description: "Premio Biennale Sgarbi"
 location: "Venezia"
 year: 2019
 type: "premio"
+draft: false
 ---
 
-Premio Biennale Sgarbi.
+## Opere in Esposizione
+
+- **Il Mistero del Mare**
