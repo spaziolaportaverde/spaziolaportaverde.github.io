@@ -12,6 +12,16 @@ Il 28 maggio 2014 è stata inaugurata una personale della pittrice Gabriella Ven
 
 Con varie tonalità di azzurro, talvolta accompagnato da tenui sfumature di altri colori la pittrice esprime con efficacia i diversi momenti e aspetti di questo elemento, dallo stato gioioso quando sano e pulito a quello cupo e depresso quando aggredito dall'inquinamento.
 
+La mostra è stata curata dal Prof. Carlo Franza, illustre Storico dell'Arte Contemporanea, autore della critica e dei commenti relativi all'evento nonché della presentazione verbale nel corso dell'inaugurazione.
+
 ## Citazione del Prof. Carlo Franza
 
 > "L'attività espositiva legata all'ecosistema del pianeta e ai suoi quattro elementi, terra, acqua, fuoco e aria, rende giustizia e si fa lezione sia per coloro che sono chiamati a dirigere la politica del mondo, sia per gli intellettuali e gli uomini di buona volontà che nel mare hanno trovato l'inizio della vita."
+
+## Galleria Opere
+
+{{< gallery dir="images/mostre/2014-elegia-del-mare/galleria" >}}
+
+## Istantanee dell'Inaugurazione
+
+{{< gallery dir="images/mostre/2014-elegia-del-mare/istantanee" >}}

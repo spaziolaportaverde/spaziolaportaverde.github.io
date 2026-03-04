@@ -18,7 +18,3 @@ L'intervista ha affrontato temi legati all'impegno dell'artista per le tematiche
 
 
 [Video TGCom24](https://www.tgcom24.mediaset.it/2020/video/-arte-in-quarantena-gabriella-ventavoli-in-al-di-la-della-figura-_16593896.shtml)
-
-<video playsinline="true">
-<source src="blob:https://www.tgcom24.mediaset.it/ad129036-3b39-41b3-b542-54f660a61e54" type="">
-</video>
