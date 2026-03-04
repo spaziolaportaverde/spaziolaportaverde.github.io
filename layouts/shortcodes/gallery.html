@@ -1,0 +1,13 @@
+<div class="gallery-scroll">
+  <div class="gallery-track">
+    {{ $dir := .Get "dir" }}
+    {{ $files := readDir (printf "static/%s" $dir) }}
+    {{ range $files }}
+      {{ if and (not .IsDir) (findRE "\\.(jpg|jpeg|png|gif|webp)$" (lower .Name)) }}
+        <div class="gallery-item">
+          <img src="/{{ $dir }}/{{ .Name }}" alt="{{ .Name | replaceRE "\\.[^.]+$" "" }}">
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+</div>

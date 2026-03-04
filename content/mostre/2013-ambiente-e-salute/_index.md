@@ -18,41 +18,9 @@ Il 18 Ottobre 2013, in occasione delle 7.me Giornate Mediche dell'Ambiente, nell
 
 ## Galleria Opere
 
-<div class="gallery-scroll">
-  <div class="gallery-track">
-    <div class="gallery-item">
-      <img src="/images/mostre/2013-ambiente-e-salute/galleria/opera-1.jpg" alt="Opera 1">
-    </div>
-    <div class="gallery-item">
-      <img src="/images/mostre/2013-ambiente-e-salute/galleria/opera-2.jpg" alt="Opera 2">
-    </div>
-    <div class="gallery-item">
-      <img src="/images/mostre/2013-ambiente-e-salute/galleria/opera-3.jpg" alt="Opera 3">
-    </div>
-    <div class="gallery-item">
-      <img src="/images/mostre/2013-ambiente-e-salute/galleria/opera-4.jpg" alt="Opera 4">
-    </div>
-    <div class="gallery-item">
-      <img src="/images/mostre/2013-ambiente-e-salute/galleria/opera-5.jpg" alt="Opera 5">
-    </div>
-  </div>
-</div>
+{{< gallery dir="images/mostre/2013-ambiente-e-salute/galleria" >}}
 
 ## Istantanee dell'Evento
 
-<div class="gallery-scroll">
-  <div class="gallery-track">
-    <div class="gallery-item">
-      <img src="/images/mostre/2013-ambiente-e-salute/istantanee/foto-1.jpg" alt="Foto 1">
-    </div>
-    <div class="gallery-item">
-      <img src="/images/mostre/2013-ambiente-e-salute/istantanee/foto-2.jpg" alt="Foto 2">
-    </div>
-    <div class="gallery-item">
-      <img src="/images/mostre/2013-ambiente-e-salute/istantanee/foto-3.jpg" alt="Foto 3">
-    </div>
-    <div class="gallery-item">
-      <img src="/images/mostre/2013-ambiente-e-salute/istantanee/foto-4.jpg" alt="Foto 4">
-    </div>
-  </div>
-</div>
+{{< gallery dir="images/mostre/2013-ambiente-e-salute/istantanee" >}}
+
