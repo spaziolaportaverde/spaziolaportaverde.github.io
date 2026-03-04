@@ -7,4 +7,14 @@ year: 2015
 type: "collettiva"
 ---
 
-Una mostra collettiva per presentare i quattro elementi fondamentali da cui si pensava fosse costituito l'universo intero: il fuoco, l'aria, l'acqua e la terra. La pittrice Gabriella Ventavoli si è dedicata al tema dell'Acqua.
+Il 24 Gennaio 2015 è stata inaugurata una mostra collettiva ispirata al tema dei componenti fondamentali del mondo, nei tempi antichi identificati con il Fuoco, l'Aria, l'Acqua e la Terra. La pittrice Gabriella Ventavoli ha presentato la sua interpretazione dell'elemento **Acqua**.
+
+La mostra è stata presentata dal Prof. Carlo Franza.
+
+## Galleria Opere
+
+{{< gallery dir="images/mostre/2015-i-quattro-elementi-del-mondo/galleria" >}}
+
+## Istantanee dell'Inaugurazione
+
+{{< gallery dir="images/mostre/2015-i-quattro-elementi-del-mondo/istantanee" >}}
