@@ -12,6 +12,17 @@ Nella splendida cornice della grande sala del Palazzo Leti Sansi, a Spoleto, si 
 
 ## Opere in Esposizione
 
+![Attestato](/images/mostre/2018-spoleto-arte/attestato.jpg)
+Attestato di partecipazione
+
+![Dichiarazione critica](/images/mostre/2018-spoleto-arte/dichiarazione-critica.jpg)
+Dichiarazione critica
+
 - **La Dea dell'Acqua**
+![La Dea dell'Acqua](/images/mostre/2018-spoleto-arte/la-dea-dellacqua.jpg)
+
 - **L'Idolo Eterno**
+![L'Idolo Eterno](/images/mostre/2018-spoleto-arte/lidolo-eterno.jpg)
+
 - **Madre Natura**
+![Madre Natura](/images/mostre/2018-spoleto-arte/madre-natura.jpg)

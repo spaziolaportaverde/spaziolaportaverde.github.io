@@ -12,13 +12,32 @@ Nella splendida cornice della grande sala del Palazzo Leti Sansi, a Spoleto, si 
 
 ## Opere in Esposizione
 
+![Sala conferenze](/images/mostre/2017-spoleto-arte-premio-sgarbi/sala-conferenze.jpg)
+
+![Premio Sgarbi](/images/mostre/2017-spoleto-arte-premio-sgarbi/premio-sgarbi.jpg)
+
+![Spoleto Arte 2017](/images/mostre/2017-spoleto-arte-premio-sgarbi/spoleto-arte-2017.jpg)
+
 - **Trionfo della luce 1**
+![Trionfo della luce 1](/images/mostre/2017-spoleto-arte-premio-sgarbi/trionfo-della-luce-1.jpg)
+
 - **Trionfo della luce 2**
+![Trionfo della luce 2](/images/mostre/2017-spoleto-arte-premio-sgarbi/trionfo-della-luce-2.jpg)
+
 - **Trionfo della luce 3**
+![Trionfo della luce 3](/images/mostre/2017-spoleto-arte-premio-sgarbi/trionfo-della-luce-3.jpg)
+
 - **Come vele nel vento**
+![Come vele nel vento](/images/mostre/2017-spoleto-arte-premio-sgarbi/come-vele-nel-vento.jpg)
+
 - **La Sirena**
+![La Sirena](/images/mostre/2017-spoleto-arte-premio-sgarbi/la-sirena.jpg)
+
 - **La vita dal mare**
+![La vita dal mare](/images/mostre/2017-spoleto-arte-premio-sgarbi/la-vita-dal-mare.jpg)
+
 - **Le pescatrici di perle**
+![Le pescatrici di perle](/images/mostre/2017-spoleto-arte-premio-sgarbi/le-pescatrici-di-perle.jpg)
 
 ## Ospiti di Rilievo
 
