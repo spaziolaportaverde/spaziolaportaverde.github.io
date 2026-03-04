@@ -18,6 +18,7 @@ Ma l'infinita bellezza della Natura con le sue forze vitali trionferà ancora ne
 ## L'Opera Principale
 
 **Il Trionfo della Vita** - Acrilico su tela cm 140x500
+![Il Trionfo della Vita](/images/mostre/2021-il-trionfo-della-vita/il-trionfo-della-vita.jpg)
 
 Nell'opera "Il trionfo della vita" si celebra la forza inarrestabile della vita che dispiega la sua energia nelle ampie volute, nelle linee che si intrecciano in un caos apparente che è sorgente di creatività.
 
@@ -26,6 +27,16 @@ Nell'opera "Il trionfo della vita" si celebra la forza inarrestabile della vita 
 > "groviglio di energia grafica e cromatica che si manifesta nel pieno del suo crepitio generatore"
 
 ## Opere in Mostra
+
+![L'artista con il curatore dell'evento Salvo Nugnes e il Dr. Davide Mondo](/images/mostre/2021-il-trionfo-della-vita/dsc_3625.jpg)
+
+![L'artista commenta le opere](/images/mostre/2021-il-trionfo-della-vita/dsc_3656.jpg)
+
+![L'artista di fronte all'opera Sognando Amazzonia](/images/mostre/2021-il-trionfo-della-vita/dsc_3682.jpg)
+
+![L'artista di fronte all'opera principale Il trionfo della vita](/images/mostre/2021-il-trionfo-della-vita/dsc_3687.jpg)
+
+![Le opere Fuoco e ghiaccio e La Pandemia](/images/mostre/2021-il-trionfo-della-vita/dsc_3910.jpg)
 
 - **Sognando Amazzonia** - Sperando che Amazzonia, il polmone verde della terra rimanga tale: un paradiso di biodiversità
 - **Fuoco e Ghiaccio**

@@ -12,7 +12,20 @@ In concomitanza con la Mostra "Per amore del mare" che si svolge a partire dal 4
 
 ## Opere Installate
 
+![Il Mistero del Mare](/images/mostre/2023-mostra-metro-milano/tabellone-mistero-mare.jpg)
 - **Il Mistero del Mare**
+
+![L'Insostenibile Dinamismo del Mare](/images/mostre/2023-mostra-metro-milano/tabellone-dinamismo-mare.jpg)
 - **L'Insostenibile Dinamismo del Mare**
+
+![Le Pescatrici di Perle](/images/mostre/2023-mostra-metro-milano/tabellone-pescatrici-perle.jpg)
 - **Le Pescatrici di Perle**
+
+![Venere del Mare](/images/mostre/2023-mostra-metro-milano/tabellone-venere-mare.jpg)
 - **Venere del Mare**
+
+L'Artista a fianco di alcuni tabelloni
+
+![Tabellone con Artista 1](/images/mostre/2023-mostra-metro-milano/tabellone-artista-1.jpg)
+![Tabellone con Artista 2](/images/mostre/2023-mostra-metro-milano/tabellone-artista-2.jpg)
+![Tabellone con Artista 3](/images/mostre/2023-mostra-metro-milano/tabellone-artista-3.jpg)

@@ -15,9 +15,14 @@ Quest'anno la mostra è dedicata al coraggio, alla forza delle donne, in partico
 ## Opere in Esposizione
 
 **Rose rosse su di noi** - Acrilico su tela, cm 160x350, 2022
+![Rose rosse su di noi](/images/mostre/2022-rosse-rosse-su-di-noi/mosaico.jpg)
 
 Sullo sfondo appare il grande dipinto "Il trionfo della vita", che dà l'avvio alle altre opere, come "Rose rosse su di noi", in cui l'artista ha voluto rappresentare la forza della donna in continuità con quello di Madre Terra come il coraggio nel guidare la carica vitale che sorge dal corpo e dalla mente.
 
+![La forza della tenerezza](/images/mostre/2022-rosse-rosse-su-di-noi/foto-6.jpg)
+
 **La forza della tenerezza** - Opera che vince sulla violenza.
+
+![Le morti bianche](/images/mostre/2022-rosse-rosse-su-di-noi/foto-7.jpg)
 
 **Le morti bianche** - Opera che rappresenta il dolore che segna indelebilmente la vita di tanti.
