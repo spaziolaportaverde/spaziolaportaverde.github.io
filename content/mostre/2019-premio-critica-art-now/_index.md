@@ -8,8 +8,12 @@ type: "premio"
 draft: false
 ---
 
+## Premio della Critica Art Now
+
+Gabriella Ventavoli ha partecipato al Premio della Critica Art Now, un importante appuntamento per l'arte contemporanea italiana che si tiene a Palermo.
+
 ## Opere Proposte
 
-- **Sognando Amazzonia**
-- **Il Trionfo della Natura**
-- **L'Olocausto della Natura**
+- **Sognando Amazzonia** - Opera dedicata alla foresta amazzonica e alla sua fragilità
+- **Il Trionfo della Natura** - Celebrazione della bellezza naturale
+- **L'Olocausto della Natura** - Riflessione sulla distruzione ambientale

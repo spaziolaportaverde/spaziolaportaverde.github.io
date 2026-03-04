@@ -5,6 +5,15 @@ description: "Monografia MyArt 2018 - Progetto Italiani"
 location: "Palermo"
 year: 2018
 type: "pubblicazione"
+draft: false
 ---
 
 Monografia MyArt 2018 - Progetto "Italiani".
+
+## Pubblicazione
+
+Seconda monografia dedicata a Gabriella Ventavoli da EA Editore nell'ambito del progetto "Italiani", che continua a documentare l'evoluzione dell'arte italiana contemporanea.
+
+## Il Progetto "Italiani"
+
+Il progetto editoriale "Italiani" rappresenta un'importante iniziativa per la valorizzazione degli artisti italiani nel panorama culturale internazionale.

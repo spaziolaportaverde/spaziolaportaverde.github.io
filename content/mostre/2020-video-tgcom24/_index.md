@@ -5,6 +5,13 @@ description: "Intervista su TGCom24"
 location: "Milano"
 year: 2020
 type: "media"
+draft: false
 ---
 
 Intervista su TGCom24.
+
+## Media
+
+Gabriella Ventavoli è stata intervistata da TGCom24, il canale di news del gruppo Mediaset, per parlare del suo percorso artistico e del ruolo dell'arte nella società contemporanea.
+
+L'intervista ha affrontato temi legati all'impegno dell'artista per le tematiche ambientali e ai valori che guidano la sua produzione artistica.

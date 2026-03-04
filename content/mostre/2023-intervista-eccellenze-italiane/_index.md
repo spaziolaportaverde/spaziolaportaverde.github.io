@@ -10,4 +10,10 @@ draft: false
 
 Intervista per "Eccellenze Italiane 2023".
 
+## Eccellenze Italiane
+
+"Eccellenze Italiane" è un progetto che valorizza le personalità italiane che si sono distinte nel mondo dell'arte, della cultura, della scienza e dell'impresa.
+
+Gabriella Ventavoli è stata intervistata per il suo contributo all'arte contemporanea italiana e per l'impegno nel promuovere attraverso l'arte temi legati all'ambiente e ai diritti umani.
+
 {{< youtube AI65GeI9yus >}}

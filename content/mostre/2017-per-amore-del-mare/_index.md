@@ -25,3 +25,11 @@ Questo tema ha sollecitato l'interesse di chi è attento ai problemi legati all'
 - **Le meduse**
 - **L'isola di plastica**
 - **Se il mare brucia**
+
+## Immagini della Mostra
+
+![Locandina](/images/mostre/2017-per-amore-del-mare/invito.jpg)
+
+![Per Amore del Mare](/images/mostre/2017-per-amore-del-mare/per-amore-del-mare.jpg)
+
+![Titolo](/images/mostre/2017-per-amore-del-mare/titolo.jpg)
