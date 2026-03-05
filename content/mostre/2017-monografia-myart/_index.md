@@ -5,6 +5,8 @@ description: "Monografia MyArt 2017"
 location: "Palermo"
 year: 2017
 type: "pubblicazione"
+images:
+- myart.jpg
 draft: false
 ---
 

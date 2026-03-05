@@ -5,6 +5,15 @@ description: "Mostra-Premio Vele d'Arte"
 location: "Taranto"
 year: 2023
 type: "premio"
+images:
+- premio.jpg
+- trofeo.jpg
+- danze-nel-mare.jpg
+- fiori-marini.jpg
+- la-bellezza-dal-mare.jpg
+- la-grande-onda.jpg
+- mare-e-terra-in-armonia.jpg
+- oro-blu.jpg
 draft: false
 ---
 

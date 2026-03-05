@@ -5,6 +5,8 @@ description: "Esposizione nell'ambito della Pro Biennale"
 location: "Venezia"
 year: 2017
 type: "collettiva"
+images:
+- premio.jpg
 draft: false
 ---
 

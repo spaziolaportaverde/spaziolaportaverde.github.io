@@ -5,6 +5,8 @@ description: "Intervista su TGCom24"
 location: "Milano"
 year: 2020
 type: "media"
+images:
+- intervista.jpg
 draft: false
 ---
 

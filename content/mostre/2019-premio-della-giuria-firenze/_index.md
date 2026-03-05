@@ -5,6 +5,8 @@ description: "Premio della Giuria a Firenze"
 location: "Firenze"
 year: 2019
 type: "premio"
+images:
+- premio.jpg
 draft: false
 ---
 

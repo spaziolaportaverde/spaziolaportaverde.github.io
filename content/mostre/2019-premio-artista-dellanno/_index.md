@@ -5,6 +5,8 @@ description: "Premio Artista dell'Anno 2019"
 location: "Palermo"
 year: 2019
 type: "premio"
+images:
+- attestato.jpg
 draft: false
 ---
 

@@ -5,6 +5,9 @@ description: "Donazione dell'opera-Dittico La Bellezza dal Mare e La Vita dal Ma
 location: "Venezia"
 year: 2020
 type: "donazione"
+images:
+- bellezza_mare.jpg
+- vita_mare.jpg
 draft: false
 ---
 

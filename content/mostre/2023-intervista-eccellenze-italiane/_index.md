@@ -5,6 +5,8 @@ description: "Intervista per Eccellenze Italiane 2023"
 location: "Milano"
 year: 2023
 type: "media"
+images:
+- intervista.jpg
 draft: false
 ---
 

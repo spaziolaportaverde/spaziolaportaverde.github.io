@@ -5,6 +5,8 @@ description: "Donazione dell'opera La Pandemia al Liceo Artistico di Brera"
 location: "Milano"
 year: 2021
 type: "donazione"
+images:
+- pandemia.jpg
 draft: false
 ---
 

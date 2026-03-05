@@ -5,6 +5,8 @@ description: "Collettiva Spoleto Arte 2015"
 location: "Spoleto"
 year: 2015
 type: "collettiva"
+images:
+- logo.png
 draft: false
 ---
 

@@ -5,6 +5,9 @@ description: "Premio delle Arti - Grand Prix Absolue"
 location: "Milano"
 year: 2023
 type: "premio"
+images:
+- targa.jpg
+- artista.jpg
 draft: false
 ---
 

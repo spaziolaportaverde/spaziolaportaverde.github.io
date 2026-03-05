@@ -5,6 +5,10 @@ description: "Mostra dedicata al mare"
 location: "Milano"
 year: 2017
 type: "personale"
+images:
+- invito.jpg
+- per-amore-del-mare.jpg
+- titolo.jpg
 draft: false
 ---
 

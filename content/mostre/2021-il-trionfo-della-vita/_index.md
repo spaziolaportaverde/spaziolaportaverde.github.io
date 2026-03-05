@@ -5,6 +5,13 @@ description: "Mostra-evento che celebra la forza inarrestabile della vita"
 location: "Milano"
 year: 2021
 type: "personale"
+images:
+- il-trionfo-della-vita.jpg
+- dsc_3625.jpg
+- dsc_3656.jpg
+- dsc_3682.jpg
+- dsc_3687.jpg
+- dsc_3910.jpg
 draft: false
 ---
 

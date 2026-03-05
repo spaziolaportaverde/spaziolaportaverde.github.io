@@ -5,6 +5,8 @@ description: "Premio Modigliani 2018"
 location: "Spoleto"
 year: 2018
 type: "premio"
+images:
+- premio.jpg
 draft: false
 ---
 

@@ -5,6 +5,8 @@ description: "Monografia MyArt 2018 - Progetto Italiani"
 location: "Palermo"
 year: 2018
 type: "pubblicazione"
+images:
+- myart.jpg
 draft: false
 ---
 

@@ -5,6 +5,12 @@ description: "Collettiva Spoleto Arte 2018"
 location: "Spoleto"
 year: 2018
 type: "collettiva"
+images:
+- attestato.jpg
+- dichiarazione-critica.jpg
+- la-dea-dellacqua.jpg
+- lidolo-eterno.jpg
+- madre-natura.jpg
 draft: false
 ---
 

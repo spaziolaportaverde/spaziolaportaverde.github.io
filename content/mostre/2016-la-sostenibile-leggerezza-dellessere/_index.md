@@ -5,6 +5,8 @@ description: "Riflessione sulla leggerezza dell'esistenza"
 location: "Milano"
 year: 2016
 type: "personale"
+images:
+- locandina.jpg
 draft: false
 ---
 

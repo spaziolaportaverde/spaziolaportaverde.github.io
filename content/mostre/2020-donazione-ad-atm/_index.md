@@ -5,6 +5,8 @@ description: "Donazione dell'opera La Danza della Solidarietà alla Fondazione A
 location: "Milano"
 year: 2020
 type: "donazione"
+images:
+- danza_solidarieta.jpg
 draft: false
 ---
 

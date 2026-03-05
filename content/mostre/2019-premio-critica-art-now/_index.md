@@ -5,6 +5,8 @@ description: "Premio della Critica Art Now"
 location: "Palermo"
 year: 2019
 type: "premio"
+images:
+- premio.jpg
 draft: false
 ---
 

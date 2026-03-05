@@ -5,6 +5,10 @@ description: "Mostra dedicata alla Terra"
 location: "Milano"
 year: 2017
 type: "personale"
+images:
+- telero1.jpg
+- telero2.jpg
+- telero3.jpg
 draft: false
 ---
 

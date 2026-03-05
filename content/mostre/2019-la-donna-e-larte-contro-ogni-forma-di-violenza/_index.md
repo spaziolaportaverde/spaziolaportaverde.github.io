@@ -5,6 +5,25 @@ description: "Mostra dedicata alla donna e all'arte come strumento contro ogni f
 location: "Milano"
 year: 2019
 type: "personale"
+images:
+- locandina.jpg
+- sorellanza.jpg
+- quando-lamore-ferisce.jpg
+- la-danza-di-un-fiore.jpg
+- malala.jpg
+- calliope.jpg
+- donna-araba.jpg
+- giovane-donna.jpg
+- la-suonatrice-di-violino.jpg
+- farfalla-ferita.jpg
+- come-raggio-di-sole.jpg
+- palmira.jpg
+- fiore-del-coraggio.jpg
+- la-bellezza-del-pensiero.jpg
+- fiore-della-liberta.jpg
+- fiore-del-conforto.jpg
+- il-potere-dello-sguardo.jpg
+- fiore-della-gioia.jpg
 draft: false
 ---
 

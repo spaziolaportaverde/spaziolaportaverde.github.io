@@ -5,6 +5,8 @@ description: "Premio dedicato alla scultura"
 location: "Milano"
 year: 2016
 type: "premio"
+images:
+- premio.jpg
 draft: false
 ---
 

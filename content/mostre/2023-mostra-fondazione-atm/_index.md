@@ -5,6 +5,11 @@ description: "Esposizione presso la Fondazione ATM"
 location: "Milano"
 year: 2023
 type: "personale"
+images:
+- danze-nel-mare-1.jpg
+- danze-nel-mare-2.jpg
+- lanima-del-mare.jpg
+- locchio-del-mare.jpg
 draft: false
 ---
 

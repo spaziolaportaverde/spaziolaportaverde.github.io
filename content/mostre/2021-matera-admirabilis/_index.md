@@ -5,6 +5,13 @@ description: "Mostra nell'ambito del progetto Scenari all'Hotel Plus Florence"
 location: "Firenze"
 year: 2021
 type: "personale"
+images:
+- pietà-nel-mare.jpg
+- madonna-del-mare.jpg
+- madonna-universale.jpg
+- foto-1.jpg
+- foto-2.jpg
+- foto-3.jpg
 draft: false
 ---
 

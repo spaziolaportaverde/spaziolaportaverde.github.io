@@ -5,6 +5,14 @@ description: "Esposizione nelle stazioni della metropolitana di Milano"
 location: "Milano"
 year: 2023
 type: "personale"
+images:
+- tabellone-mistero-mare.jpg
+- tabellone-dinamismo-mare.jpg
+- tabellone-pescatrici-perle.jpg
+- tabellone-venere-mare.jpg
+- tabellone-artista-1.jpg
+- tabellone-artista-2.jpg
+- tabellone-artista-3.jpg
 draft: false
 ---
 

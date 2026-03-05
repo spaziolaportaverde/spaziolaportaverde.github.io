@@ -5,6 +5,10 @@ description: "Tra mare e cielo. Bagliori tra cieli imperfetti — mostra persona
 location: "Firenze"
 year: 2015
 type: "personale"
+images:
+- bagliori-tra-cieli-imperfetti.jpg
+- il-museo-dei-musei.jpg
+- tra-mare-e-cielo.jpg
 draft: false
 ---
 

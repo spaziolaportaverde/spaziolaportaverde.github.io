@@ -5,6 +5,8 @@ description: "Premio Eccellenze Museali"
 location: "Palermo"
 year: 2017
 type: "premio"
+images:
+- premio.jpg
 draft: false
 ---
 

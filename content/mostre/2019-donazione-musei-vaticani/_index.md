@@ -5,6 +5,9 @@ description: "Donazione dell'opera ai Musei Vaticani"
 location: "Città del Vaticano"
 year: 2019
 type: "donazione"
+images:
+- museo_vaticano.png
+- crocifissione_natura.png  
 draft: false
 ---
 

@@ -5,6 +5,10 @@ description: "Mostra dedicata al coraggio e alla forza delle donne"
 location: "Milano"
 year: 2022
 type: "personale"
+images:
+- mosaico.jpg
+- foto-6.jpg
+- foto-7.jpg
 draft: false
 ---
 

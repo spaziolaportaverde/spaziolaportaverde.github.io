@@ -5,6 +5,12 @@ description: "Mostra dedicata al mare e alla sacralità della vita"
 location: "Milano"
 year: 2023
 type: "personale"
+images:
+- le-pescatrici-di-perle.jpg
+- fondo-marino.jpg
+- il-mistero-del-mare.jpg
+- l-insostenibile-dinamismo-del-mare.jpg
+- venere-del-mare.jpg
 draft: false
 ---
 

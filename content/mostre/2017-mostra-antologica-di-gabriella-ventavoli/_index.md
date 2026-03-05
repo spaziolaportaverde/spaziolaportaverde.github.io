@@ -5,6 +5,9 @@ description: "Mostra antologica presso la Galleria Jelmoni di Piacenza"
 location: "Piacenza"
 year: 2017
 type: "personale"
+images:
+- inaugurazione.jpg
+- poseidon.jpg
 draft: false
 ---
 

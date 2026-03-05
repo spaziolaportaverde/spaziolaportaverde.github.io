@@ -5,6 +5,8 @@ description: "Mostra dedicata all'angoscia e dolore dell'umanità ferita"
 location: "Milano"
 year: 2022
 type: "personale"
+images:
+- crocifissione.jpg
 draft: false
 ---
 

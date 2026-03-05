@@ -5,6 +5,8 @@ description: "Serata dedicata ai poeti"
 location: "Milano"
 year: 2015
 type: "evento"
+images:
+- locandina.jpg
 draft: false
 ---
 

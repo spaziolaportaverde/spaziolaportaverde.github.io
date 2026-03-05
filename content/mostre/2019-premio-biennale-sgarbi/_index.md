@@ -5,6 +5,8 @@ description: "Premio Biennale Sgarbi"
 location: "Venezia"
 year: 2019
 type: "premio"
+images:
+- premio.jpg
 draft: false
 ---
 

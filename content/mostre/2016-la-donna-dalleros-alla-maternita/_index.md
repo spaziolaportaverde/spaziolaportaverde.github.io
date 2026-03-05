@@ -5,6 +5,8 @@ description: "Mostra dedicata al complesso tema della femminilità"
 location: "Milano"
 year: 2016
 type: "personale"
+images:
+- invito.jpg
 draft: false
 ---
 

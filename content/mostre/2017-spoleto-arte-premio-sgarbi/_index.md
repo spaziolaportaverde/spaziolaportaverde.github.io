@@ -5,6 +5,17 @@ description: "Spoleto Arte 2017 - Premio Sgarbi"
 location: "Spoleto"
 year: 2017
 type: "premio"
+images:
+- sala-conferenze.jpg
+- premio-sgarbi.jpg
+- spoleto-arte-2017.jpg
+- trionfo-della-luce-1.jpg
+- trionfo-della-luce-2.jpg
+- trionfo-della-luce-3.jpg
+- come-vele-nel-vento.jpg
+- la-sirena.jpg
+- la-vita-dal-mare.jpg
+- le-pescatrici-di-perle.jpg
 draft: false
 ---
 

@@ -5,6 +5,8 @@ description: "Premio nell'ambito di Expo 2015"
 location: "Milano"
 year: 2015
 type: "premio"
+images:
+- premio.jpg
 draft: false
 ---
 

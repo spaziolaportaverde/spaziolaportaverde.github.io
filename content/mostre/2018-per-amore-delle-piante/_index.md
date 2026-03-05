@@ -5,6 +5,8 @@ description: "Mostra dedicata al mondo verde e alla bellezza delle piante"
 location: "Milano"
 year: 2018
 type: "personale"
+images:
+- sognando_amazzonia.jpg
 draft: false
 ---
 
