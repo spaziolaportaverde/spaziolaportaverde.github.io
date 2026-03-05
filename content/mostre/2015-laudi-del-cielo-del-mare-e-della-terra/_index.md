@@ -5,6 +5,8 @@ description: "Mostra personale a Berlino dedicata ai vari aspetti della natura"
 location: "Berlino"
 year: 2015
 type: "personale"
+images:
+  - "plus-berlin.jpg"
 draft: false
 ---
 

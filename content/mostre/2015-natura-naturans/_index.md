@@ -5,6 +5,8 @@ description: "Mostra dedicata a Madre Natura e al suo equilibrio"
 location: "Milano"
 year: 2015
 type: "personale"
+images:
+  - "vista-1.jpg"
 draft: false
 ---
 

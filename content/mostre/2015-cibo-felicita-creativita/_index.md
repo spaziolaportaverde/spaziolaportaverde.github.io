@@ -5,6 +5,13 @@ description: "Serata dedicata al rapporto tra cibo, salute, felicità e creativi
 location: "Milano"
 year: 2015
 type: "evento"
+images:
+  - "pittrice-luce.jpg"
+  - "pittrice-opere-natura.jpg"
+  - "pittrice-primavera-luce.jpg"
+  - "presentazione-1.jpg"
+  - "presentazione-2.jpg"
+  - "partecipanti.jpg"
 draft: false
 ---
 

@@ -5,6 +5,8 @@ description: "Una mostra dedicata al mare, alla sua grande bellezza, alla sua fr
 location: "Milano"
 year: 2014
 type: "personale"
+images:
+  - "il-sonno-del-mare.jpg"
 draft: false
 ---
 

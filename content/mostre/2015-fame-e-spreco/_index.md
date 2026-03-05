@@ -5,6 +5,8 @@ description: "Mostra collettiva sensibile ai temi della fame nel mondo"
 location: "Milano"
 year: 2015
 type: "collettiva"
+images:
+  - "la-fame-e-la-violenza.jpg"
 draft: false
 ---
 

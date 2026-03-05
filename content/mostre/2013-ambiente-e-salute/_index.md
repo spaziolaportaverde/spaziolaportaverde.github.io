@@ -4,6 +4,8 @@ date: 2013-10-18
 description: "Mostra ispirata alle varie forme di contaminazione della natura"
 location: "Arezzo"
 year: 2013
+images:
+  - "palazzetto.jpg"
 type: "collettiva"
 draft: false
 ---

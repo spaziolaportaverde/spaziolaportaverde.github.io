@@ -1,0 +1,48 @@
+<div class="mostre-cards-grid">
+    {{ $mostreSection := .Site.GetPage "/mostre" }}
+    {{ range $mostreSection.Sections.ByDate.Reverse }}
+    <a href="{{ .Permalink }}" class="mostre-card">
+        <div class="mostre-card__image-wrapper">
+            {{ $img := "" }}
+            {{ if .Params.images }}
+            {{ $firstImg := index .Params.images 0 }}
+            {{/* Assuming images are in static/images/mostre/[slug]/istantanee/ or galleria/ */}}
+            {{/* We'll try to find the image in the most likely subfolders if only filename is given */}}
+            {{ $slug := .File.ContentBaseName }}
+            {{ $path1 := printf "images/mostre/%s/istantanee/%s" $slug $firstImg }}
+            {{ $path2 := printf "images/mostre/%s/galleria/%s" $slug $firstImg }}
+            {{ $path3 := printf "images/mostre/%s/%s" $slug $firstImg }}
+
+            {{ if (fileExists (printf "static/%s" $path1)) }}
+            {{ $img = $path1 | relURL }}
+            {{ else if (fileExists (printf "static/%s" $path2)) }}
+            {{ $img = $path2 | relURL }}
+            {{ else if (fileExists (printf "static/%s" $path3)) }}
+            {{ $img = $path3 | relURL }}
+            {{ else if (hasPrefix $firstImg "http") }}
+            {{ $img = $firstImg }}
+            {{ else if (hasPrefix $firstImg "/") }}
+            {{ $img = $firstImg | relURL }}
+            {{ end }}
+            {{ end }}
+
+            {{ if $img }}
+            <img src="{{ $img }}" alt="{{ .Title }}" class="mostre-card__image" loading="lazy">
+            {{ else }}
+            <div class="mostre-card__image-placeholder">
+                {{ substr .Title 0 1 }}
+            </div>
+            {{ end }}
+        </div>
+        <div class="mostre-card__content">
+            <div class="mostre-card__meta">
+                <span>{{ .Params.location | default "Milano" }}</span>
+                <span>{{ .Params.year | default (.Date.Format "2006") }}</span>
+            </div>
+            <h3 class="mostre-card__title">{{ .Title }}</h3>
+            <p class="mostre-card__description">{{ .Description | default .Summary | truncate 150 }}</p>
+            <div class="mostre-card__footer">Scopri di più</div>
+        </div>
+    </a>
+    {{ end }}
+</div>

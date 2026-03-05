@@ -5,6 +5,8 @@ description: "L'artista si misura sul tema della natura, del mondo e dei 4 eleme
 location: "Milano"
 year: 2015
 type: "personale"
+images:
+  - "l-ultima-cena-polittico.jpg"
 draft: false
 ---
 

@@ -4,6 +4,8 @@ date: 2013-01-18
 description: "Mostra dedicata all'ecologia, in occasione dell'inaugurazione dello spazio espositivo"
 location: "Milano"
 year: 2013
+images:
+  - "inaugurazione.jpg"
 type: "personale"
 draft: false
 ---

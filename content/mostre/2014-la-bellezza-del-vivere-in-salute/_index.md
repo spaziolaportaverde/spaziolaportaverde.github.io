@@ -5,6 +5,8 @@ description: "Esposizione artistica collettiva dell'associazione Nido di Rondine
 location: "Trieste"
 year: 2014
 type: "collettiva"
+images:
+  - "piazza-dell-unita.jpg"
 draft: false
 ---
 
