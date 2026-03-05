@@ -19,3 +19,8 @@ Il 23 novembre 2013, in occasione delle manifestazioni a favore dell'eliminazion
 ## Istantanee dell'Evento
 
 {{< gallery dir="images/mostre/2013-violenza-donna-natura/istantanee" >}}
+
+## Opere Esposte
+
+Le opere in mostra comprendevano dipinti già presentati nella precedente esposizione "Violenza sulle donne e l'infanzia" (febbraio 2013), accompagnate da proiezioni di ulteriori lavori dell'artista e da commenti alle opere di Caravaggio e Michelangelo.
+
