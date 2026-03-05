@@ -18,9 +18,9 @@ La mostra è stata allestita nei locali dell'hotel Filoxenia, a Trieste, ideata 
 La dott. Gabriella Ventavoli ha conferito due lauree: in scienze biologiche e in medicina. Si è poi specializzata in Psichiatria e Psicoanalisi. Dall'attività professionale medica ha tratto profonde riflessioni culturali ed artistiche. Gabriella Ventavoli dipinge non soltanto ciò che vede ma soprattutto ciò che pensa. Con mano sicura, usando il pennello fermamente, come in un soffio di vento crea le sue immagini a linee curve fornendole di magiche gradazioni cromatiche.
 {{< /critic-review >}}
 
-{{< quote author="Gabriella Ventavoli" >}}
+{{< critic-review author="Gabriella Ventavoli" >}}
 L'ambiente deve essere un valore, un luogo fisico e ideale della vita di tutti gli esseri umani, ma al quale gli uomini non sempre dimostrano la dovuta sensibilità ed attenzione.
-{{< /quote >}}
+{{< /critic-review >}}
 
 ## Istantanee dell'Evento
 
