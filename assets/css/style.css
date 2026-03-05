@@ -613,3 +613,63 @@ img {
     height: 100%;
     object-fit: cover;
 }
+
+/* Critic Review Shortcode */
+.critic-review {
+    position: relative;
+    margin: var(--spacing-lg) 0;
+    padding: var(--spacing-md) var(--spacing-md) var(--spacing-md) calc(var(--spacing-md) + 4px);
+    background: linear-gradient(135deg, #f8f4ed 0%, #f2ede3 100%);
+    border-left: 4px solid var(--color-accent);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+}
+
+.critic-review::before {
+    content: '\201C';
+    position: absolute;
+    top: -0.2em;
+    left: 0.3em;
+    font-family: var(--font-heading);
+    font-size: 6rem;
+    line-height: 1;
+    color: var(--color-accent);
+    opacity: 0.25;
+    pointer-events: none;
+}
+
+.critic-review__header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: var(--spacing-sm);
+}
+
+.critic-review__icon {
+    font-size: 1.1rem;
+    opacity: 0.6;
+}
+
+.critic-review__author {
+    font-family: var(--font-body);
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--color-accent);
+}
+
+.critic-review__body {
+    font-family: var(--font-heading);
+    font-size: 1.15rem;
+    font-style: italic;
+    line-height: 1.85;
+    color: #4a3f35;
+}
+
+.critic-review__body p {
+    margin-bottom: var(--spacing-sm);
+}
+
+.critic-review__body p:last-child {
+    margin-bottom: 0;
+}

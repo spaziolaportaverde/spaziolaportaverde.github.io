@@ -1,0 +1,10 @@
+<div class="critic-review">
+    <div class="critic-review__header">
+        <span class="critic-review__icon">✍</span>
+        <span class="critic-review__author">{{ with .Get "author" }}{{ . }}{{ else }}Presentazione Critica{{ end
+            }}</span>
+    </div>
+    <div class="critic-review__body">
+        {{ .Inner | markdownify }}
+    </div>
+</div>
