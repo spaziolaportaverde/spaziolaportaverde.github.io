@@ -96,7 +96,7 @@ SPAZIO LA PORTA VERDE ospita mostre ed eventi dedicati all'arte, all'ambiente e 
 
 ## 2013
 
-- **[La Violenza alla Luce della Psicoanalisi](/mostre/2013-la-violenza-alla-luce-della-psicoanalisi/)** (Milano, 2013)
+- **[La violenza alla luce della psicoanalisi](/mostre/2013-la-violenza-alla-luce-della-psicoanalisi/)** (Milano, 2013)
 - **[Ambiente e Salute](/mostre/2013-ambiente-e-salute/)** (Arezzo, 2013)
 - **[Sorella Aria e Volo di Farfalle](/mostre/2013-sorella-aria-e-volo-di-farfalleg/)** (Milano, 2013)
 - **[Violenza sulle Donne e l'Infanzia](/mostre/2013-violenza-donne-infanzia/)** (Milano, 2013)
