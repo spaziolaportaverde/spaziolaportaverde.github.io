@@ -1,0 +1,11 @@
+<div class="poetry-block">
+    {{ if or (.Get "title") (.Get "author") }}
+    <div class="poetry-block__header">
+        {{ with .Get "title" }}<span class="poetry-block__title">{{ . }}</span>{{ end }}
+        {{ with .Get "author" }}<span class="poetry-block__author">di {{ . }}</span>{{ end }}
+    </div>
+    {{ end }}
+    <div class="poetry-block__body">
+        {{ .Inner | markdownify }}
+    </div>
+</div>

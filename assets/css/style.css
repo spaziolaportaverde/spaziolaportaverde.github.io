@@ -784,3 +784,68 @@ img {
 .mostre-card:hover .mostre-card__footer::after {
     transform: translateX(5px);
 }
+
+/* Poetry Shortcode */
+.poetry-block {
+    position: relative;
+    margin: var(--spacing-xl) auto;
+    padding: var(--spacing-lg) var(--spacing-md);
+    max-width: 600px;
+    background: transparent;
+    border-top: 1px solid var(--color-border);
+    border-bottom: 1px solid var(--color-border);
+    text-align: center;
+}
+
+.poetry-block::before {
+    content: '❦';
+    position: absolute;
+    top: -16px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--color-background);
+    padding: 0 15px;
+    color: var(--color-accent);
+    font-size: 1.8rem;
+    line-height: 1;
+}
+
+.poetry-block__header {
+    margin-bottom: var(--spacing-md);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.poetry-block__title {
+    font-family: var(--font-heading);
+    font-size: 1.5rem;
+    color: var(--color-primary);
+    font-weight: 600;
+}
+
+.poetry-block__author {
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--color-text-light);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.poetry-block__body {
+    font-family: var(--font-heading);
+    font-size: 1.25rem;
+    line-height: 1.8;
+    color: var(--color-text);
+    font-style: italic;
+}
+
+.poetry-block__body p {
+    margin-bottom: var(--spacing-md);
+}
+
+.poetry-block__body p:last-child {
+    margin-bottom: 0;
+}

@@ -14,10 +14,12 @@ L'opera "Crocifissione dell'Umanità", acrilico su tela di cm 200x160, è stata 
 
 ## Citazione dell'artista
 
+{{< critic-review author="Gabriella Ventavoli" >}}
 > "Dopo aver assistito agli effetti deflagranti della guerra in corso è nata in me la volontà di realizzare un dipinto che possa rappresentare angoscia e dolore dell'umanità ferita a morte. Arte e poesia con la speranza mai sopita che si possa andare oltre la sfrenata predatorietà che genera distruzione e morte."
+{{< /critic-review >}}
 
-## Poesia
 
+{{< poem title="" author="Gabriella Ventavoli" >}}
 *Il respiro del vento*
 *lacerato dal fuoco*
 *delle bombe.*
@@ -40,5 +42,6 @@ L'opera "Crocifissione dell'Umanità", acrilico su tela di cm 200x160, è stata 
 *Uomini contro uomini*
 *dimentichi del soffio*
 *divino d'amore*
+{{< /poem >}}
 
 Da "Dipingere con le parole", di Gabriella Ventavoli, Albatros 2022
