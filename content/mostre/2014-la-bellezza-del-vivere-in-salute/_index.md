@@ -24,4 +24,4 @@ L'ambiente deve essere un valore, un luogo fisico e ideale della vita di tutti g
 
 ## Istantanee dell'Evento
 
-{{< gallery dir="images/mostre/2014-la-bellezza-del-vivere-in-salute" >}}
+{{< gallery dir="images/mostre/2014-la-bellezza-del-vivere-in-salute/istantanee" >}}
