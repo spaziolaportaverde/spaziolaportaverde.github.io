@@ -7,6 +7,12 @@ year: 2016
 type: "personale"
 images:
 - locandina.jpg
+- img_0245.jpg
+- img_0252.jpg
+- img_0253.jpg
+- img_0254.jpg
+- img_0255.jpg
+- img_0257.jpg
 draft: false
 ---
 
@@ -16,7 +22,7 @@ Abbiamo bisogno di continuare a sperare nel bene e nel bello, nella leggerezza c
 
 ## Artisti Esposti
 
-- **Gabriella Ventavoli**
+- **Gabriella Ventavoli** (NOIart)
 - **Fabio Adero**
 - **Alessandra Arecco**
 - **Gabriella Cavalca**
@@ -25,3 +31,21 @@ Abbiamo bisogno di continuare a sperare nel bene e nel bello, nella leggerezza c
 - **Liliana Ravalli**
 - **Eleonora Sardella**
 - **Anna Scali**
+
+## Galleria
+
+![Locandina](/images/mostre/2016-la-sostenibile-leggerezza-dellessere/locandina.jpg)
+
+![La pittrice Ventavoli di fronte ad alcune sue opere](/images/mostre/2016-la-sostenibile-leggerezza-dellessere/img_0252.jpg)
+
+![](/images/mostre/2016-la-sostenibile-leggerezza-dellessere/img_0253.jpg)
+
+![](/images/mostre/2016-la-sostenibile-leggerezza-dellessere/img_0254.jpg)
+
+**Alcuni momenti della presentazione**
+
+![](/images/mostre/2016-la-sostenibile-leggerezza-dellessere/img_0255.jpg)
+
+![](/images/mostre/2016-la-sostenibile-leggerezza-dellessere/img_0257.jpg)
+
+**Ospiti dell'evento**

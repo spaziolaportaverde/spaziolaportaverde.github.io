@@ -6,9 +6,7 @@ location: "Firenze"
 year: 2015
 type: "personale"
 images:
-- bagliori-tra-cieli-imperfetti.jpg
-- il-museo-dei-musei.jpg
-- tra-mare-e-cielo.jpg
+- danza-nel-mare.jpg
 draft: false
 ---
 

@@ -1,21 +1,55 @@
 ---
 title: "Surrealismo Sensoriale"
-date: 2016-07-01
-description: "Esplorazione del surrealismo nell'arte"
-location: "Bassano del Grappa"
+date: 2016-09-09
+description: "Surrealismo Sensoriale - Mostra a Bassano del Grappa"
+location: "Bassano del Grappa - Spazio Culturale Milano Art Gallery"
 year: 2016
 type: "collettiva"
 images:
-- surrealismo-sensoriale.jpg
+- bassano.jpg
+- locandina.jpg
+- img_0139.jpg
+- img_0282.jpg
+- img_0291.jpg
+- img_0298.jpg
 draft: false
 ---
 
-Esplorazione del surrealismo nell'arte.
+## Surrealismo Sensoriale
 
-## Il Surrealismo Contemporaneo
+Dal **9 al 23 Settembre 2016**
+**Spazio Culturale "MILANO ART GALLERY"**
+Via Portici Lunghi 37
+Bassano del Grappa
 
-Mostra collettiva dedicata al surrealismo, un movimento artistico che ha rivoluzionato l'arte del Novecento. Gli artisti partecipanti hanno presentato opere che esplorano il mondo onirico e l'inconscio.
+Nella prestigiosa sede dello Spazio Culturale "Milano Art Gallery" sita nel cuore del centro storico di Bassano del Grappa la pittrice Gabriella Ventavoli ha esposto un gruppo di opere ispirate alla natura, motivo ricorrente della sua produzione artistica.
 
-## Opere in Esposizione
+Così scrive di lei la critica d'arte **Elena Gollini**:
 
-Le opere in mostra hanno esplorato temi legati al sogno, all'immaginazione e alla percezione sensoriale, in una chiave contemporanea che reinterpreta i canoni del surrealismo storico.
+*Gabriella Ventavoli è artefice di una pittura, che pur restando all'interno del comparto di matrice figurale, si dilata e approda ad un'espressione più informale, rafforzando la rievocazione di immagini e tematiche, che dimostrano un'attenta ricerca verso l'introspezione stilistica più concettuale e simbolica. La componente figurativa, derivante dalla tradizione, è concepita in modo più dissolto e meno vincolante rispetto al dato reale e all'analisi strettamente descrittiva e le atmosfere compositive sono più libere e acquistano una valenza misteriosa ed enigmatica, che incuriosisce e stimola lo sguardo percettivo e la fantasia interpretativa dello spettatore. Sceglie le immagini da sviluppare dentro la narrazione pittorica, dopo averle filtrate attraverso i propri sentimenti, nell'incalzare delle emozioni, del pathos e degli stimoli interiori. E' una pittrice ricca di fantasia creativa e possiede uno spirito d'invenzione vivace e dinamico. Si lascia guidare da una vocazione all'arte di passionale trasporto, che si congiunge saldamente ad una consolidata padronanza del mezzo espressivo e comunicativo. La pittura diventa lo strumento prediletto di trasmissione del suo poetico messaggio esistenziale, che viene rafforzato tramite il colore. La tavolozza cromatica prende vita e si anima di luce e di energia vitale, che avvolge l'intera rappresentazione. **"Il colore è in me, non devo cercarlo per afferrarlo. So, che mi possiederà per sempre, lo so. Tale è il significato di questo meraviglioso momento: il colore e io saremo sempre una cosa sola. Io sono pittore"(Paul Klee).***
+
+## Immagini dell'Event
+
+![Bassano](/images/mostre/2016-surrealismo-sensoriale/bassano.jpg)
+
+![Locandina](/images/mostre/2016-surrealismo-sensoriale/locandina.jpg)
+
+---
+
+![L'artista con l'organizzatore Dott. Salvo Nugnes e visitatrici](/images/mostre/2016-surrealismo-sensoriale/img_0139.jpg)
+L'artista con l'organizzatore dell'evento, Dott. Salvo Nugnes, e alcune visitatrici
+
+---
+
+![Momenti della mostra](/images/mostre/2016-surrealismo-sensoriale/img_0282.jpg)
+Alcuni momenti della mostra
+
+---
+
+![Momenti della mostra](/images/mostre/2016-surrealismo-sensoriale/img_0291.jpg)
+Alcuni momenti della mostra
+
+---
+
+![Presentazione dell'artista](/images/mostre/2016-surrealismo-sensoriale/img_0298.jpg)
+Presentazione dell'artista da parte del Dott. Salvo Nugnes
