@@ -5,6 +5,8 @@ date: 2024-01-01
 
 Nata in Toscana, Gabriella Ventavoli vive e lavora nel capoluogo lombardo. È medico psicanalista, pittrice, scrittrice e poetessa. Dopo aver conseguito la maturità classica, si è laureata prima in Scienze Biologiche e successivamente anche in Medicina, manifestando sin da subito una spiccata versatilità e l'esigenza personale di una formazione sempre più completa ed esaustiva sotto il segno del desiderio di conoscenza congiuntamente ad una crescita culturale e spirituale.
 
+![Gabriella Ventavoli](/images/chi-siamo/gabriella-ventavoli.jpg)
+
 Sin dal 1976 Gabriella Ventavoli opera nell'ambito della pittura, avendo all'attivo numerose esposizioni sul territorio nazionale ed estero.
 
 ## Un Impegno Civile e Morale

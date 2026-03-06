@@ -896,3 +896,15 @@ img {
         box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
     }
 }
+
+/* Profile Image */
+.content img[src*="salvatore-previtera"] {
+    max-width: 400px;
+    height: auto;
+}
+
+/* Profile Image */
+.content img[src*="gabriella-ventavoli"] {
+    max-width: 400px;
+    height: auto;
+}

@@ -1,1 +1,1 @@
-<img src="{{ .Destination | relURL }}" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}" {{ end }} />
+<img src="{{ .Destination | relURL }}" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}" {{ end }}{{ with .Attributes }}{{ range $k, $v := . }} {{ $k }}="{{ $v }}"{{ end }}{{ end }} />

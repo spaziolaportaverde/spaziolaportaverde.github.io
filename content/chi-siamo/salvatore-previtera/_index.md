@@ -5,6 +5,8 @@ date: 2024-01-01
 
 Scienza, Tecnologia e Passione Umanistica
 
+![Salvatore Previtera](/images/chi-siamo/salvatore-previtera.jpg)
+
 Salvatore Previtera incarna perfettamente il dialogo tra rigore scientifico e sensibilità artistica. Formatosi presso la Scuola Normale Superiore di Pisa, dove ha conseguito la laurea in Chimica, ha costruito una carriera poliedrica che riflette la sua naturale curiosità intellettuale.
 
 Dopo un esordio dedicato alla ricerca nel campo della chimica organica dei polimeri, Salvatore ha saputo evolvere le proprie competenze verso le sfide della modernità, specializzandosi nell'automazione industriale e nell'informatica. Questo percorso tecnico, lontano dall'essere un limite, ha affinato la sua capacità di analizzare la complessità del mondo contemporaneo.
