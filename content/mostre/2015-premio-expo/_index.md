@@ -1,21 +1,21 @@
 ---
-title: "Premio Expo 2015"
+title: "Premio EXPO Milano per l'Arte e la Cultura"
 date: 2015-10-01
-description: "Premio nell'ambito di Expo 2015"
+description: "Premio EXPO Milano per l'Arte e la Cultura"
 location: "Milano"
 year: 2015
 type: "premio"
 images:
-- premio.jpg
+- targa-premo-expo.jpg
 draft: false
 ---
 
-Premio nell'ambito di Expo 2015.
+È stato assegnato, per meriti artistici acquisiti con la pittura nella continua sensibilizzazione ai problemi relativi alla salute del pianeta, il riconoscimento
 
-## Expo 2015 - Nutrire il Pianeta
+**"Premio EXPO Milano per l'Arte e la Cultura"**
 
-L'evento si è svolto in concomitanza con Expo 2015, l'esposizione universale dedicata al tema "Nutrire il Pianeta, Energia per la Vita". La mostra ha explorato il rapporto tra arte, sostenibilità alimentare e rispetto per l'ambiente.
+curato dal Prof. Carlo Franza, emerito critico d'arte.
 
-## Opere in Esposizione
+## Galleria
 
-Le opere presentate hanno affrontato temi legati all'alimentazione, all'agricoltura sostenibile e alla preservazione delle risorse naturali del pianeta.
+![Targa premio EXPO](/images/mostre/2015-premio-expo/targa-premo-expo.jpg)
