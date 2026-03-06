@@ -849,3 +849,46 @@ img {
 .poetry-block__body p:last-child {
     margin-bottom: 0;
 }
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-primary: #7eb39d;
+        --color-primary-dark: #2d5a4a;
+        --color-secondary: #5a6650;
+        --color-accent: #e0be75;
+        --color-text: #e8e6e1;
+        --color-text-light: #a8a6a1;
+        --color-background: #181c1a;
+        --color-white: #222724;
+        --color-border: #333a36;
+    }
+
+    .hero {
+        background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('../images/lo_spazio.jpeg');
+    }
+
+    .critic-review {
+        background: linear-gradient(135deg, #252a27 0%, #1e221f 100%);
+    }
+
+    .page-header {
+        background: linear-gradient(135deg, var(--color-background) 0%, #1e221f 100%);
+    }
+
+    img {
+        filter: brightness(0.9) contrast(1.1);
+    }
+
+    img:hover {
+        filter: brightness(1) contrast(1.1);
+    }
+
+    .mostre-card:hover {
+        box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4);
+    }
+
+    .feature-card:hover {
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    }
+}
