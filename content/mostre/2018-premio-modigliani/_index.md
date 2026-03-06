@@ -7,6 +7,7 @@ year: 2018
 type: "premio"
 images:
 - premio.jpg
+- corpo_sognato.jpg
 draft: false
 ---
 

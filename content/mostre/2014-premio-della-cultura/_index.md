@@ -5,6 +5,10 @@ description: "Evento in cui la pittrice viene premiata per l'impegno verso il ri
 location: "Milano"
 year: 2014
 type: "premio"
+images:
+- circolo_stampa.jpg
+- premio1.jpg
+draft: false
 ---
 
 Un evento in cui la pittrice viene premiata per l'impegno sempre mostrato verso il rispetto e la protezione della natura.

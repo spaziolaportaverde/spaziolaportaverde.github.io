@@ -1,12 +1,12 @@
 ---
-title: "Video TGCom24"
+title: "Spoleto Arte 2020 - Intervista TGCom24"
 date: 2020-01-01
-description: "Intervista su TGCom24"
-location: "Milano"
+description: "Spoleto Arte 2020"
+location: "Spoleto"
 year: 2020
-type: "media"
+type: "personale"
 images:
-- intervista.jpg
+- tgcom24_spoleto_arte.jpg
 draft: false
 ---
 

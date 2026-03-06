@@ -7,6 +7,14 @@ year: 2018
 type: "personale"
 images:
 - sognando_amazzonia.jpg
+- olivo.jpg
+- pino.jpg
+- limone.jpg
+- castagno.jpg
+- melo.jpg
+- mimosa.jpg
+- magnolia.jpg
+- platano.jpg
 draft: false
 ---
 

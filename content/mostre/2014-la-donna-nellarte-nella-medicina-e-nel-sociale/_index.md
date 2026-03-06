@@ -5,6 +5,10 @@ description: "Mostra per l'8 Marzo - Giornata Internazionale della Donna"
 location: "Milano"
 year: 2014
 type: "personale"
+images:
+- calliope.jpg
+- israa.jpg
+- strage_innocenti.jpg
 draft: false
 ---
 

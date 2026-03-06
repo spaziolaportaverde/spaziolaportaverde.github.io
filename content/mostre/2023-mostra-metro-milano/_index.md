@@ -10,9 +10,6 @@ images:
 - tabellone-dinamismo-mare.jpg
 - tabellone-pescatrici-perle.jpg
 - tabellone-venere-mare.jpg
-- tabellone-artista-1.jpg
-- tabellone-artista-2.jpg
-- tabellone-artista-3.jpg
 draft: false
 ---
 

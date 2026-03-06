@@ -6,7 +6,10 @@ location: "Venezia"
 year: 2019
 type: "premio"
 images:
-- premio.jpg
+- attestato-premio-biennale-sgarbi.jpg
+- calliope.jpg
+- la-teresa.jpg
+
 draft: false
 ---
 
@@ -16,6 +19,4 @@ Gabriella Ventavoli ha partecipato al Premio Biennale Sgarbi, un importante rico
 
 ## Opere in Esposizione
 
-- **Il Mistero del Mare**
-
-L'opera "Il Mistero del Mare" esplora la bellezza e il mistero dell'oceano, in continuità con il percorso artistico della pittrice dedicato al tema del mare.
+{{< gallery dir="images/mostre/2019-premio-biennale-sgarbi" >}}

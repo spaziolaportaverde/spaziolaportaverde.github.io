@@ -5,6 +5,8 @@ description: "Premio Artista dell'Anno 2015"
 location: "Milano"
 year: 2015
 type: "premio"
+images:
+- premio1.jpg
 draft: false
 ---
 

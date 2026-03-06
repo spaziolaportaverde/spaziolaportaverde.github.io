@@ -5,6 +5,11 @@ description: "Mostra incentrata sul valore della vita, in opposizione alla viole
 location: "Milano"
 year: 2013
 type: "personale"
+images:
+- bambina-e-farfalla.jpg
+- bambina-e-farfalla-2.jpg
+- bambina-e-farfalla-3.jpg
+- bambina-e-farfalla-4.jpg
 draft: false
 ---
 

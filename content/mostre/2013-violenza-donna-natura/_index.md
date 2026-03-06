@@ -5,6 +5,8 @@ description: "Mostra personale commentata alla luce della psicoanalisi, incentra
 location: "Milano"
 year: 2013
 type: "personale"
+images:
+- africa.jpg
 draft: false
 ---
 

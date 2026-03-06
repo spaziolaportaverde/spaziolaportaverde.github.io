@@ -5,6 +5,8 @@ description: "Intervista per Eccellenze Italiane 2024"
 location: "Milano"
 year: 2024
 type: "media"
+images:
+- eccellenze_italiane_arte_per_la_vita.jpg
 draft: false
 ---
 

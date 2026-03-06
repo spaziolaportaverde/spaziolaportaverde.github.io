@@ -6,6 +6,7 @@ location: "Milano"
 year: 2023
 type: "personale"
 images:
+- invito.jpg
 - danze-nel-mare-1.jpg
 - danze-nel-mare-2.jpg
 - lanima-del-mare.jpg
@@ -13,18 +14,20 @@ images:
 draft: false
 ---
 
+![Invito](/images/mostre/2023-mostra-fondazione-atm/invito.jpg)
+
 ## Opere in Esposizione
 
 ### Tele 50x70
 
-![Danze nel Mare 1](/images/mostre/2023-fondazione-atm/danze-nel-mare-1.jpg)
+![Danze nel Mare 1](/images/mostre/2023-mostra-fondazione-atm/danze-nel-mare-1.jpg)
 **Danze nel Mare 1**
 
-![Danze nel Mare 2](/images/mostre/2023-fondazione-atm/danze-nel-mare-2.jpg)
+![Danze nel Mare 2](/images/mostre/2023-mostra-fondazione-atm/danze-nel-mare-2.jpg)
 **Danze nel Mare 2**
 
-![L'Anima del Mare](/images/mostre/2023-fondazione-atm/lanima-del-mare.jpg)
+![L'Anima del Mare](/images/mostre/2023-mostra-fondazione-atm/lanima-del-mare.jpg)
 **L'Anima del Mare**
 
-![L'Occhio del Mare](/images/mostre/2023-fondazione-atm/locchio-del-mare.jpg)
+![L'Occhio del Mare](/images/mostre/2023-mostra-fondazione-atm/locchio-del-mare.jpg)
 **L'Occhio del Mare**

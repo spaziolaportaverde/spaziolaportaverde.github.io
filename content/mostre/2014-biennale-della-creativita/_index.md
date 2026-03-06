@@ -5,6 +5,8 @@ description: "Mostra collettiva di pittura e scultura"
 location: "Verona"
 year: 2014
 type: "collettiva"
+images:
+- mostra.jpg
 draft: false
 ---
 

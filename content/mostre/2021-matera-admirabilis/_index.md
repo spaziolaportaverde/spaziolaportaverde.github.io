@@ -6,7 +6,7 @@ location: "Firenze"
 year: 2021
 type: "personale"
 images:
-- pietà-nel-mare.jpg
+- pieta-nel-mare.jpg
 - madonna-del-mare.jpg
 - madonna-universale.jpg
 - foto-1.jpg
@@ -29,7 +29,5 @@ Ha preso il via, all'interno del prestigio Hotel Plus Florence un nuovo progetto
 - **Madonna universale** - Acrilico su tela cm 50x70
 
 Alcuni momenti della mostra:
+{{< gallery dir="images/mostre/2021-matera-admirabilis/istantanee" >}}
 
-![Foto 1](/images/mostre/2021-matera-admirabilis/foto-1.jpg)
-![Foto 2](/images/mostre/2021-matera-admirabilis/foto-2.jpg)
-![Foto 3](/images/mostre/2021-matera-admirabilis/foto-3.jpg)

@@ -5,6 +5,11 @@ description: "Mostra ispirata all'importanza dell'aria e delle sue affascinanti 
 location: "Milano"
 year: 2013
 type: "personale"
+images:
+- sorella_aria.jpg
+- ferite_aria.jpg
+- danza_aria.jpg
+- volo_farfalle.jpg
 draft: false
 ---
 

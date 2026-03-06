@@ -5,6 +5,8 @@ description: "Mostra presso la Galleria GRAAL di Pavia"
 location: "Pavia"
 year: 2014
 type: "personale"
+images:
+- malala.jpg
 draft: false
 ---
 

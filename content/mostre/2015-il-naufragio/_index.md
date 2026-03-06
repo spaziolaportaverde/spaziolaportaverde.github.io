@@ -5,6 +5,8 @@ description: "Mostra Il Naufragio"
 location: "Milano"
 year: 2015
 type: "personale"
+images:
+- naufragio.jpg
 draft: false
 ---
 

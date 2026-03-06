@@ -6,7 +6,9 @@ location: "Palermo"
 year: 2019
 type: "premio"
 images:
-- premio.jpg
+- sognando-amazzonia.jpg
+- il-trionfo-della-natura.jpg
+- olocausto-della-natura.jpg
 draft: false
 ---
 
@@ -17,5 +19,10 @@ Gabriella Ventavoli ha partecipato al Premio della Critica Art Now, un important
 ## Opere Proposte
 
 - **Sognando Amazzonia** - Opera dedicata alla foresta amazzonica e alla sua fragilità
+![Sognando Amazzonia](/images/mostre/2019-premio-critica-art-now/sognando-amazzonia.jpg)
+
 - **Il Trionfo della Natura** - Celebrazione della bellezza naturale
+![Il Trionfo della Natura](/images/mostre/2019-premio-critica-art-now/il-trionfo-della-natura.jpg)
+
 - **L'Olocausto della Natura** - Riflessione sulla distruzione ambientale
+![L'Olocausto della Natura](/images/mostre/2019-premio-critica-art-now/olocausto-della-natura.jpg)

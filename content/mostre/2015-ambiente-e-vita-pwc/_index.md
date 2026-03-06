@@ -5,6 +5,8 @@ description: "Mostra Ambiente e Vita presso PWC"
 location: "Milano"
 year: 2015
 type: "personale"
+images:
+- ambiente-e-vita-pwc.jpg
 draft: false
 ---
 
