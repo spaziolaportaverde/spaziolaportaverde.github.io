@@ -6,10 +6,7 @@ location: "Milano"
 year: 2013
 type: "personale"
 images:
-- bambina-e-farfalla.jpg
-- bambina-e-farfalla-2.jpg
-- bambina-e-farfalla-3.jpg
-- bambina-e-farfalla-4.jpg
+- creativita.jpg
 draft: false
 ---
 

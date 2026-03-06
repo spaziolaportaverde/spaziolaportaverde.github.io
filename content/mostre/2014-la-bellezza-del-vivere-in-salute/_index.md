@@ -6,7 +6,7 @@ location: "Trieste"
 year: 2014
 type: "collettiva"
 images:
-  - "piazza-dell-unita.jpg"
+  - "piazza.jpg"
 draft: false
 ---
 

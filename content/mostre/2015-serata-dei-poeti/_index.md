@@ -15,6 +15,8 @@ draft: false
 
 In occasione della mostra dal titolo "Natura naturans" promossa dallo "Spazio La Porta Verde", un centro culturale vivacissimo in una città come Milano, é stata organizzata una serata di poesia dal titolo "Il Gusto della Poesia" che trova coinvolti poeti italiani, i quali durante la serata hanno declamato alcune loro poesie e presentato al pubblico una parte dei loro testi editi e inediti.
 
+![Locandina](/images/mostre/2015-serata-dei-poeti/locandina.jpg)
+
 L'evento di giovedì 25 giugno 2015 dal titolo "Il Gusto della Poesia" ha visto coinvolti i poeti **Gabriella Ventavoli, Carlo Franza, Franca Maria Catri, Agostino Tomasuolo, Antonio Ricci, Walter Tresoldi, Claudio Zanini, Franco Maria Viganò, Fabiano Braccini, Giovanni Marelli.**
 
 In questa circostanza, alle pareti della galleria il pubblico ha potuto visionare opere della pittrice Gabriella Ventavoli sulla tematica "natura naturans" e altre esposte per la prima volta sul tema della luce, cui sarà dedicata una mostra tematica a Palazzo Borghese nell'autunno 2015.
@@ -222,16 +224,4 @@ nell'arcano destino della vita.
 
 ## Galleria
 
-![Locandina](/images/mostre/2015-serata-dei-poeti/locandina.jpg)
-
-**Preparandosi all'esposizione**
-
-![](/images/mostre/2015-serata-dei-poeti/dsc02726.jpg)
-
-**Il Prof. Franza introduce i poeti**
-
-![](/images/mostre/2015-serata-dei-poeti/dsc02733.jpg)
-
-**Un momento della lettura di poesie**
-
-![](/images/mostre/2015-serata-dei-poeti/dsc02741.jpg)
+{{< gallery dir="images/mostre/2015-serata-dei-poeti/istantanee" >}}

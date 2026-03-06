@@ -872,6 +872,10 @@ img {
         background: linear-gradient(135deg, #252a27 0%, #1e221f 100%);
     }
 
+    .critic-review__body {
+        color: #c8c4bc;
+    }
+
     .page-header {
         background: linear-gradient(135deg, var(--color-background) 0%, #1e221f 100%);
     }
