@@ -908,3 +908,9 @@ img {
     max-width: 400px;
     height: auto;
 }
+
+/* Profile Image */
+.content img[src*="roberto-previtera"] {
+    max-width: 400px;
+    height: auto;
+}

@@ -3,10 +3,14 @@ title: "Roberto Previtera"
 date: 2024-01-01
 ---
 
-Innovazione Digitale e Linguaggi Creativi
+Roberto Previtera è informatico di professione e, prima ancora, appassionato di tutto ciò che si trova all'intersezione tra tecnologia, pensiero e società.
 
-Roberto Previtera è un professionista del mondo digitale che ha fatto della tecnologia la sua principale chiave di lettura della realtà. Informatico di formazione e per vocazione, dedica la sua ricerca personale e professionale alla scienza dell’informazione, esplorando costantemente i confini di come i dati e la logica modellano il nostro futuro.
+![Roberto Previtera](images/chi-siamo/roberto-previtera.jpg)
 
-La sua competenza si estende profondamente nel campo della robotica, dove la precisione del codice incontra il movimento e l'interazione con il mondo fisico. Ma per Roberto, la tecnologia non è mai fine a se stessa: è uno strumento per espandere le capacità espressive dell'uomo.
+Il suo interesse per la scienza dell'informazione non si ferma al piano tecnico: Roberto guarda alla tecnologia con una doppia lente, quella dell'ingegnere che ne studia il funzionamento e quella del cittadino curioso degli effetti che essa produce nel mondo reale — nei rapporti umani, nelle istituzioni, nel modo in cui pensiamo e decidiamo.
 
-Questa visione si riflette nelle sue grandi passioni: la fotografia e la musica. Attraverso l'obiettivo fotografico e le strutture armoniche dei suoni, Roberto indaga l'estetica e la tecnica, trovando quel punto d'incontro unico dove il rigore dell'algoritmo sposa l'emozione dell'arte. Nell'associazione, il suo contributo è fondamentale per integrare la cultura scientifica con la narrazione visiva e sonora.
+Tra le esperienze che meglio rappresentano questo sguardo c'è la collaborazione con l'Università degli Studi di Milano-Bicocca per lo sviluppo di un piccolo robot didattico, [CoderBot](https://coderbot.org): un progetto in cui la tecnologia non era fine a sé stessa, ma strumento per avvicinare bambini e ragazzi al pensiero computazionale in modo concreto e giocoso.
+
+Fuori dallo schermo e dalla tastiera, Roberto coltiva due passioni che parlano un linguaggio diverso ma non meno preciso: la [fotografia](https://500px.com/p/previ), che gli permette di fermare il tempo e restituire senso a ciò che spesso passiamo senza vedere, e la musica, ascoltata con l'attenzione di chi sa che anche il silenzio tra le note racconta qualcosa.
+
+In Spazio La Porta Verde porta tutto questo: la curiosità tecnica, la sensibilità per le domande grandi e il piacere di condividerle.

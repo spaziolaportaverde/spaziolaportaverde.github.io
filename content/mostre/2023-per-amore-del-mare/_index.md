@@ -20,9 +20,9 @@ A partire dal 21 aprile fino al 18 maggio 2023 alcune opere saranno affisse negl
 
 La Porta Verde rappresenta lo spazio artistico perfetto per ricondurre l'arte a riscoprire ideali che possano coniugare etica ed estetica; e promuovere la diffusione dell'arte e dell'amore per essa.
 
-## Citazione di Vittorio Sgarbi
-
-> "... Non per questo, però, sarebbe assurdo considerare la Ventavoli una vorticista, perché nella sua pittura il vortice, inteso come groviglio di energia grafica e cromatica che si manifesta nel pieno del suo crepitio generatore, oppure come liberazione di dinamismi poietici..."
+{{< critic-review author="Vittorio Sgarbi" >}}
+... Non per questo, però, sarebbe assurdo considerare la Ventavoli una vorticista, perché nella sua pittura il vortice, inteso come groviglio di energia grafica e cromatica che si manifesta nel pieno del suo crepitio generatore, oppure come liberazione di dinamismi poietici...
+{{< /critic-review >}}
 
 ## Opere in Esposizione
 

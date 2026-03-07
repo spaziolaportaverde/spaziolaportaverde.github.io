@@ -29,9 +29,9 @@ Ma l'infinita bellezza della Natura con le sue forze vitali trionferà ancora ne
 
 Nell'opera "Il trionfo della vita" si celebra la forza inarrestabile della vita che dispiega la sua energia nelle ampie volute, nelle linee che si intrecciano in un caos apparente che è sorgente di creatività.
 
-## Citazione di Vittorio Sgarbi
-
-> "groviglio di energia grafica e cromatica che si manifesta nel pieno del suo crepitio generatore"
+{{< critic-review author="Vittorio Sgarbi" >}}
+groviglio di energia grafica e cromatica che si manifesta nel pieno del suo crepitio generatore
+{{< /critic-review >}}
 
 ## Opere in Mostra
 

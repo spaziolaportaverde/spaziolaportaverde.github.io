@@ -14,9 +14,9 @@ Il 18 Ottobre 2013, in occasione delle 7.me Giornate Mediche dell'Ambiente, nell
 
 ![Palazzetto della Fraternita](/images/mostre/2013-ambiente-e-salute/palazzetto.jpg)
 
-## Citazione di Liletta Fornasari
-
-> "La 'pittura eterea' di Gabriella Ventavoli - Per comprendere il valore della pittura di Gabriella Ventavoli non si può prescindere da una obbligatoria considerazione iniziale relativa alla sua attività di medico e non a caso di medico ISDE. L'impegno da lei profuso in difesa dell'ambiente, da anni connesso all'analisi dell'interiorità umana, ha portato l'artista a creare un linguaggio caratterizzato da momenti di impalpabile sospensione attraverso l'uso molto bene pensato di fondi chiari."
+{{< critic-review author="Liletta Fornasari" >}}
+La 'pittura eterea' di Gabriella Ventavoli - Per comprendere il valore della pittura di Gabriella Ventavoli non si può prescindere da una obbligatoria considerazione iniziale relativa alla sua attività di medico e non a caso di medico ISDE. L'impegno da lei profuso in difesa dell'ambiente, da anni connesso all'analisi dell'interiorità umana, ha portato l'artista a creare un linguaggio caratterizzato da momenti di impalpabile sospensione attraverso l'uso molto bene pensato di fondi chiari.
+{{< /critic-review >}}
 
 ## Galleria Opere
 
