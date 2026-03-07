@@ -30,4 +30,39 @@ document.addEventListener('DOMContentLoaded', function() {
         
         lastScroll = currentScroll;
     });
+
+    // Lightbox functionality
+    const lightbox = document.getElementById('gallery-lightbox');
+    const lightboxImg = lightbox.querySelector('.lightbox-img');
+    const lightboxClose = lightbox.querySelector('.lightbox-close');
+    
+    document.querySelectorAll('.gallery-item img').forEach(img => {
+        img.style.cursor = 'pointer';
+        img.addEventListener('click', () => {
+            lightboxImg.src = img.src;
+            lightbox.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        });
+    });
+    
+    if (lightboxClose) {
+        lightboxClose.addEventListener('click', closeLightbox);
+    }
+    
+    lightbox.addEventListener('click', (e) => {
+        if (e.target === lightbox) {
+            closeLightbox();
+        }
+    });
+    
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && lightbox.classList.contains('active')) {
+            closeLightbox();
+        }
+    });
+    
+    function closeLightbox() {
+        lightbox.classList.remove('active');
+        document.body.style.overflow = '';
+    }
 });
