@@ -6,6 +6,7 @@ canonifyURLs = true
 [params]
     description = "Centro Culturale e Galleria d'Arte a Milano"
     author = "Gabriella Ventavoli"
+    googleAnalytics = "G-H5NTQ3C2XQ"
 
 [imaging]
     resampleFilter = "CatmullRom"

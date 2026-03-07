@@ -6,7 +6,6 @@ location: "Milano"
 year: 2013
 images:
   - amazzonia.jpg
-  
 type: "personale"
 draft: false
 ---
