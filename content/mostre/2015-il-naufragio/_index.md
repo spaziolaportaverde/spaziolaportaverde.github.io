@@ -35,18 +35,4 @@ Scrive Carlo Franza:
 
 ## Galleria
 
-![Il Naufragio - Polittico](/images/mostre/2015-il-naufragio/polittico.jpg)
-
-![L'artista davanti all'opera: "Se l'odio ci travolge"](/images/mostre/2015-il-naufragio/dsc02899.jpg)
-
-![L'artista di fronte al polittico "Il Naufragio"](/images/mostre/2015-il-naufragio/dsc02902.jpg)
-
-![](/images/mostre/2015-il-naufragio/dsc02903.jpg)
-
-![](/images/mostre/2015-il-naufragio/dsc02904.jpg)
-
-![L'artista davanti all'opera: "Delicata e fragile come la nostra speranza"](/images/mostre/2015-il-naufragio/dsc02907.jpg)
-
-![L'artista con alcune colleghe dell'Associazione Donne Medico](/images/mostre/2015-il-naufragio/dsc02924.jpg)
-
-![L'artista con il Curatore, Prof. Carlo Franza](/images/mostre/2015-il-naufragio/dsc02933.jpg)
+{{< gallery dir="images/mostre/2015-il-naufragio" >}}

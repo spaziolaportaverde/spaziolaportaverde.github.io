@@ -4,7 +4,7 @@ date: 2015-10-01
 description: "Premio EXPO Milano per l'Arte e la Cultura"
 location: "Milano"
 year: 2015
-type: "premio"
+type: "riconoscimento"
 images:
 - targa-premo-expo.jpg
 draft: false
