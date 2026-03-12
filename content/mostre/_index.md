@@ -1,8 +1,8 @@
 ---
-title: "Mostre ed Eventi"
-date: 2024-01-01
+title: "Mostre"
+description: "Le mostre personali e collettive di Gabriella Ventavoli"
 ---
 
-SPAZIO LA PORTA VERDE ospita mostre ed eventi dedicati all'arte, all'ambiente e ai diritti umani.
+Le mostre personali e collettive organizzate dallo Spazio La Porta Verde.
 
-{{< mostre-cards >}}
+{{< mostre-cards exclude="premio,riconoscimento,media" >}}

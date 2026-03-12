@@ -1,6 +1,6 @@
 {{ $dir := .Get "dir" }}
 {{ $files := readDir (printf "static/%s" $dir) }}
-{{ $contentDir := replace $dir "images/mostre" "mostre" }}
+{{ $contentDir := replace $dir "images/" "" }}
 <div class="gallery-scroll">
   <div class="gallery-track">
     {{ range $files }}

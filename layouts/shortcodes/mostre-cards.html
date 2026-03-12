@@ -1,13 +1,39 @@
 <div class="mostre-cards-grid">
     {{ $mostreSection := .Site.GetPage "/mostre" }}
+    {{ $filterTypes := .Get "types" }}
+    {{ $excludeTypes := .Get "exclude" }}
+    {{ $filterTypesList := slice }}
+    {{ if $filterTypes }}
+        {{ $filterTypesList = split $filterTypes "," }}
+    {{ end }}
+    {{ $excludeTypesList := slice }}
+    {{ if $excludeTypes }}
+        {{ $excludeTypesList = split $excludeTypes "," }}
+    {{ end }}
     {{ range $mostreSection.Sections.ByDate.Reverse }}
+    {{ $currentType := .Params.type }}
+    {{ $show := true }}
+    {{ if $filterTypesList }}
+        {{ $show = false }}
+        {{ range $filterTypesList }}
+            {{ if eq (trim . " ") $currentType }}
+                {{ $show = true }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+    {{ if $excludeTypesList }}
+        {{ range $excludeTypesList }}
+            {{ if eq (trim . " ") $currentType }}
+                {{ $show = false }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+    {{ if $show }}
     <a href="{{ .Permalink }}" class="mostre-card">
         <div class="mostre-card__image-wrapper">
             {{ $img := "" }}
             {{ if .Params.images }}
             {{ $firstImg := index .Params.images 0 }}
-            {{/* Assuming images are in static/images/mostre/[slug]/istantanee/ or galleria/ */}}
-            {{/* We'll try to find the image in the most likely subfolders if only filename is given */}}
             {{ $slug := .File.ContentBaseName }}
             {{ $path1 := printf "images/mostre/%s/istantanee/%s" $slug $firstImg }}
             {{ $path2 := printf "images/mostre/%s/galleria/%s" $slug $firstImg }}
@@ -44,5 +70,6 @@
             <div class="mostre-card__footer">Scopri di più</div>
         </div>
     </a>
+    {{ end }}
     {{ end }}
 </div>
