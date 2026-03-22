@@ -19,6 +19,11 @@
 {{ $srcset := "" }}
 {{ $isLocal := and (not (hasPrefix $cleanSrc "http")) (not (hasPrefix $cleanSrc "//")) }}
 
+{{/* Do not generate srcset variants if the source is already a scaled variant */}}
+{{ if and $isLocal (findRE "-[0-9]+w\\." $cleanSrc) }}
+    {{ $isLocal = false }}
+{{ end }}
+
 {{ if $isLocal }}
     {{ $extSrc := replaceRE "^/+" "" $cleanSrc }}
     {{ $ext := index (findRE "\\.[^.]+$" $extSrc) 0 | default "" }}

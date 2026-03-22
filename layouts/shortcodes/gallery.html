@@ -4,7 +4,8 @@
 <div class="gallery-scroll">
   <div class="gallery-track">
     {{ range $files }}
-      {{ if and (not .IsDir) (findRE "\\.(jpg|jpeg|png|gif|webp)$" (lower .Name)) }}
+      {{ $isScaled := findRE "-[0-9]+w\\." .Name }}
+      {{ if and (not .IsDir) (findRE "\\.(jpg|jpeg|png|gif|webp)$" (lower .Name)) (not $isScaled) }}
         {{ $baseName := replaceRE "\\.[^.]+$" "" .Name }}
         {{ $captionFile := printf "content/%s/%s.txt" $contentDir $baseName }}
         {{ $caption := "" }}

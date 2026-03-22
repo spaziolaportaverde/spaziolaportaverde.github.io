@@ -33,6 +33,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Lightbox functionality
     const lightbox = document.getElementById('gallery-lightbox');
+    
+    if (!lightbox) return;
+
     const lightboxImg = lightbox.querySelector('.lightbox-img');
     const lightboxCaption = lightbox.querySelector('.lightbox-caption');
     const lightboxClose = lightbox.querySelector('.lightbox-close');
