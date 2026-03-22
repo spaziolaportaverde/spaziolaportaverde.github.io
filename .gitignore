@@ -18,3 +18,9 @@ Thumbs.db
 
 # Git
 .gemini/
+
+# processed images
+static/images/**/*-800w.*
+static/images/**/*-1200w.*
+static/images/**/*-1920w.*
+static/images/**/*-2400w.*

@@ -1,1 +1,1 @@
-<img src="{{ .Destination | relURL }}" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}" {{ end }}{{ with .Attributes }}{{ range $k, $v := . }} {{ $k }}="{{ $v }}"{{ end }}{{ end }} />
+{{ partial "responsive-image.html" (dict "src" .Destination "alt" .Text "Title" .Title "Attributes" .Attributes "sizes" "(max-width: 800px) 100vw, 800px") }}

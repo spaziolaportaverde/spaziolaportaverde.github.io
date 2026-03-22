@@ -1,43 +1,15 @@
 <div class="mostre-cards-grid">
-    {{ $mostreSection := .Site.GetPage "/mostre" }}
-    {{ $filterTypes := .Get "types" }}
-    {{ $excludeTypes := .Get "exclude" }}
-    {{ $filterTypesList := slice }}
-    {{ if $filterTypes }}
-        {{ $filterTypesList = split $filterTypes "," }}
-    {{ end }}
-    {{ $excludeTypesList := slice }}
-    {{ if $excludeTypes }}
-        {{ $excludeTypesList = split $excludeTypes "," }}
-    {{ end }}
-    {{ range $mostreSection.Sections.ByDate.Reverse }}
-    {{ $currentType := .Params.type }}
-    {{ $show := true }}
-    {{ if $filterTypesList }}
-        {{ $show = false }}
-        {{ range $filterTypesList }}
-            {{ if eq (trim . " ") $currentType }}
-                {{ $show = true }}
-            {{ end }}
-        {{ end }}
-    {{ end }}
-    {{ if $excludeTypesList }}
-        {{ range $excludeTypesList }}
-            {{ if eq (trim . " ") $currentType }}
-                {{ $show = false }}
-            {{ end }}
-        {{ end }}
-    {{ end }}
-    {{ if $show }}
+    {{ $gallerieSection := .Site.GetPage "/gallerie" }}
+    {{ range $gallerieSection.Sections.ByDate.Reverse }}
     <a href="{{ .Permalink }}" class="mostre-card">
         <div class="mostre-card__image-wrapper">
             {{ $img := "" }}
             {{ if .Params.images }}
             {{ $firstImg := index .Params.images 0 }}
             {{ $slug := .File.ContentBaseName }}
-            {{ $path1 := printf "images/mostre/%s/istantanee/%s" $slug $firstImg }}
-            {{ $path2 := printf "images/mostre/%s/galleria/%s" $slug $firstImg }}
-            {{ $path3 := printf "images/mostre/%s/%s" $slug $firstImg }}
+            {{ $path1 := printf "images/gallerie/%s/istantanee/%s" $slug $firstImg }}
+            {{ $path2 := printf "images/gallerie/%s/galleria/%s" $slug $firstImg }}
+            {{ $path3 := printf "images/gallerie/%s/%s" $slug $firstImg }}
 
             {{ if (fileExists (printf "static/%s" $path1)) }}
             {{ $img = $path1 }}
@@ -70,6 +42,5 @@
             <div class="mostre-card__footer">Scopri di più</div>
         </div>
     </a>
-    {{ end }}
     {{ end }}
 </div>

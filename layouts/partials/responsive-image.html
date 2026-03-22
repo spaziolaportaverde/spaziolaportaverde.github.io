@@ -1,0 +1,40 @@
+{{ $src := .src }}
+{{ $alt := .alt | default "" }}
+{{ $class := .class | default "" }}
+{{ $sizes := .sizes | default "(max-width: 800px) 100vw, 800px" }}
+
+{{/* Clean URLs to safely isolate local paths irrespective of dev/prod domains */}}
+{{ $cleanSrc := $src }}
+{{ $baseURL := site.BaseURL }}
+{{ if hasPrefix $cleanSrc $baseURL }}
+    {{ $cleanSrc = strings.TrimPrefix $baseURL $cleanSrc }}
+{{ end }}
+{{ if hasPrefix $cleanSrc "http://localhost:1313/" }}
+    {{ $cleanSrc = replaceRE "^http://localhost:1313(/spaziolaportaverde\\.it)?/" "/" $cleanSrc }}
+{{ end }}
+{{ if hasPrefix $cleanSrc "/spaziolaportaverde.it/" }}
+    {{ $cleanSrc = strings.TrimPrefix "/spaziolaportaverde.it" $cleanSrc }}
+{{ end }}
+
+{{ $srcset := "" }}
+{{ $isLocal := and (not (hasPrefix $cleanSrc "http")) (not (hasPrefix $cleanSrc "//")) }}
+
+{{ if $isLocal }}
+    {{ $extSrc := replaceRE "^/+" "" $cleanSrc }}
+    {{ $ext := index (findRE "\\.[^.]+$" $extSrc) 0 | default "" }}
+    
+    {{ if ne $ext "" }}
+        {{ $base := replace $cleanSrc $ext "" }}
+        {{ $src800 := printf "%s-800w%s" $base $ext }}
+        {{ $src1200 := printf "%s-1200w%s" $base $ext }}
+
+        {{ $srcset = printf "%s 800w, %s 1200w, %s 1920w" ($src800 | relURL) ($src1200 | relURL) ($cleanSrc | relURL) }}
+    {{ end }}
+{{ end }}
+
+<img src="{{ if $isLocal }}{{ $cleanSrc | relURL }}{{ else }}{{ $src }}{{ end }}" 
+     {{ if $srcset }}srcset="{{ $srcset }}"{{ end }} 
+     sizes="{{ $sizes }}" 
+     alt="{{ $alt }}" 
+     class="{{ $class }}" 
+     loading="lazy">

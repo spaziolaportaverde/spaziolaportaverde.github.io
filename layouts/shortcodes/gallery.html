@@ -11,8 +11,9 @@
         {{ if fileExists $captionFile }}
           {{ $caption = trim (readFile $captionFile) "\n" }}
         {{ end }}
+        {{ $imgPath := printf "%s/%s" $dir .Name }}
         <div class="gallery-item"{{ if $caption }} data-caption="{{ $caption | safeHTMLAttr }}"{{ end }}>
-          <img src="/{{ $dir }}/{{ .Name }}" alt="{{ $baseName }}">
+          {{ partial "responsive-image.html" (dict "src" $imgPath "alt" $baseName "class" "gallery-img" "sizes" "(max-width: 768px) 100vw, 50vw") }}
         </div>
       {{ end }}
     {{ end }}

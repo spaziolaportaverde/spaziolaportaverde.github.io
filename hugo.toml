@@ -40,15 +40,15 @@ canonifyURLs = true
         url = "mostre/"
         weight = 50
     [[menu.main]]
+        identifier = "gallerie"
+        name = "Gallerie"
+        url = "gallerie/"
+        weight = 52
+    [[menu.main]]
         identifier = "eventi"
         name = "Eventi"
         url = "eventi/"
         weight = 55
-    [[menu.main]]
-        identifier = "novita"
-        name = "Novità"
-        url = "novita/"
-        weight = 60
     [[menu.main]]
         identifier = "contatti"
         name = "Contatti"
