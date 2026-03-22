@@ -35,6 +35,14 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
+
+      - name: Process Images On-The-Fly
+        run: |
+          chmod +x scripts/process_images.sh
+          ./scripts/process_images.sh
+
       - name: Build
         run: hugo --minify
 
