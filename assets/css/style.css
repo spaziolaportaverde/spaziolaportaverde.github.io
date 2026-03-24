@@ -895,6 +895,16 @@ img {
     .feature-card:hover {
         box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
     }
+
+    .site-footer,
+    .site-footer .footer-info h3,
+    .site-footer .footer-social a {
+        color: #e8e6e1;
+    }
+
+    .site-footer .footer-info a {
+        color: var(--color-accent);
+    }
 }
 
 /* Profile Image */
@@ -941,6 +951,49 @@ img {
     max-height: 90%;
     object-fit: contain;
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    transition: transform 0.15s ease-out;
+    transform-origin: center center;
+    will-change: transform;
+}
+
+.lightbox-img.grabbable {
+    cursor: grab;
+}
+
+.lightbox-img.grabbing {
+    cursor: grabbing !important;
+    transition: none;
+}
+
+.lightbox-controls {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 15px;
+    z-index: 10001;
+}
+
+.lightbox-controls span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.15);
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+    user-select: none;
+    transition: all 0.3s ease;
+}
+
+.lightbox-controls span:hover {
+    background: var(--color-accent);
+    transform: scale(1.1);
 }
 
 .lightbox-close {
