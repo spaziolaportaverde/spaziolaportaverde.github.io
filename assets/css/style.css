@@ -378,6 +378,30 @@ main {
     color: var(--color-primary);
 }
 
+.page-header--with-bg {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: calc(var(--spacing-xl) * 1.2) var(--spacing-md);
+    position: relative;
+    overflow: hidden;
+}
+
+.page-header--with-bg::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    /* Uses the active theme's background slightly faded to simulate a watermark image */
+    background: var(--color-background);
+    opacity: 0.85;
+    z-index: 1;
+}
+
+.page-header--with-bg > * {
+    position: relative;
+    z-index: 2;
+}
+
 .page-content {
     padding: var(--spacing-lg) 0 var(--spacing-xl);
 }

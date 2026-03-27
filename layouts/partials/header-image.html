@@ -1,0 +1,47 @@
+{{ $bgImage := "" }}
+{{ if .Params.images }}
+    {{ $firstImg := index .Params.images 0 }}
+    
+    {{/* Extract the clean directory path (e.g. gallerie/visioni-d-acqua) */}}
+    {{ $dir := replaceRE "^/?" "" (replaceRE "/?$" "" .File.Dir) }}
+    {{/* Extract just the tail folder name */}}
+    {{ $slug := replaceRE ".*/" "" $dir }}
+    {{ $section := .Section }}
+    
+    {{ $path1 := printf "images/%s/istantanee/%s" $dir $firstImg }}
+    {{ $path2 := printf "images/%s/galleria/%s" $dir $firstImg }}
+    {{ $path3 := printf "images/%s/%s" $dir $firstImg }}
+    
+    {{/* Fallbacks if it relies purely on the slug instead of full dir */}}
+    {{ $path1b := printf "images/%s/%s/istantanee/%s" $section $slug $firstImg }}
+    {{ $path2b := printf "images/%s/%s/galleria/%s" $section $slug $firstImg }}
+    
+    {{ $path4 := printf "images/%s/%s" .Section $firstImg }}
+    {{ $path5 := printf "images/%s" $firstImg }}
+    
+    {{ if (fileExists (printf "static/%s" $path1)) }}
+        {{ $bgImage = $path1 }}
+    {{ else if (fileExists (printf "static/%s" $path2)) }}
+        {{ $bgImage = $path2 }}
+    {{ else if (fileExists (printf "static/%s" $path3)) }}
+        {{ $bgImage = $path3 }}
+    {{ else if (fileExists (printf "static/%s" $path1b)) }}
+        {{ $bgImage = $path1b }}
+    {{ else if (fileExists (printf "static/%s" $path2b)) }}
+        {{ $bgImage = $path2b }}
+    {{ else if (fileExists (printf "static/%s" $path4)) }}
+        {{ $bgImage = $path4 }}
+    {{ else if (fileExists (printf "static/%s" $path5)) }}
+        {{ $bgImage = $path5 }}
+    {{ else if (hasPrefix $firstImg "http") }}
+        {{ $bgImage = $firstImg }}
+    {{ else if (hasPrefix $firstImg "/") }}
+        {{ $bgImage = $firstImg }}
+    {{ end }}
+    
+    {{/* CRITICAL: Inline styles bypass canonifyURLs! Force an absolute domain path to retain the subfolder */}}
+    {{ if and ($bgImage) (not (hasPrefix $bgImage "http")) }}
+        {{ $bgImage = printf "%s/%s" (replaceRE "/+$" "" site.BaseURL) (replaceRE "^/+" "" $bgImage) }}
+    {{ end }}
+{{ end }}
+{{ return $bgImage }}
