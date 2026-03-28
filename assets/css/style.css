@@ -1,5 +1,5 @@
 :root {
-    color-scheme: light only;
+    color-scheme: light;
     --color-primary: #375542;
     --color-primary-dark: #213629;
     --color-secondary: #8a9a86;
@@ -250,17 +250,17 @@ main {
 
 .hero h1 {
     margin-bottom: var(--spacing-sm);
-    color: var(--color-white);
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    color: #ffffff !important;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6) !important;
 }
 
 .hero-tagline {
     font-family: var(--font-heading);
     font-size: 1.3rem;
     font-style: italic;
-    color: rgba(255, 255, 255, 0.9);
+    color: rgba(255, 255, 255, 0.95) !important;
     margin-bottom: var(--spacing-md);
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.5) !important;
 }
 
 .hero-description {
@@ -1197,4 +1197,40 @@ img {
 .lightbox-prev:hover,
 .lightbox-next:hover {
     opacity: 1;
+}
+
+/* ======================================
+   Dark Mode — explicit overrides
+   Ensures text on dark backgrounds stays
+   white regardless of browser dark mode.
+   ====================================== */
+@media (prefers-color-scheme: dark) {
+    /* Hero section: white text on dark overlay — keep it white */
+    .hero h1,
+    .hero .hero-tagline {
+        color: #ffffff !important;
+    }
+
+    .hero-description {
+        color: rgba(255, 255, 255, 0.92) !important;
+    }
+
+    /* Transparent header: stays white regardless */
+    .site-header.transparent-capable:not(.scrolled) .logo-text,
+    .site-header.transparent-capable:not(.scrolled) .nav-item a {
+        color: #ffffff !important;
+    }
+
+    /* Scrolled / solid header: dark text on light bg must stay dark */
+    .site-header.scrolled .logo-text,
+    .site-header.scrolled .nav-item a,
+    .logo-text,
+    .nav-item a {
+        color: var(--color-text) !important;
+    }
+
+    /* Critic / review block stays dark by design */
+    .critic-review__body {
+        color: #fff !important;
+    }
 }
