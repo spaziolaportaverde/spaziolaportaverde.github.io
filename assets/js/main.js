@@ -158,6 +158,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 if (parsed.dimensions) metaHtml += `<span>${parsed.dimensions}</span>`;
                 
                 let html = '<div class="gallery-label">';
+                html += `<button class="gallery-label__toggle" title="Mostra/Nascondi">−</button>`;
                 if (parsed.title) html += `<div class="gallery-label__title">${parsed.title}</div>`;
                 if (parsed.author) html += `<div class="gallery-label__author">${parsed.author}</div>`;
                 if (metaHtml) html += `<div class="gallery-label__meta">${metaHtml}</div>`;
@@ -165,6 +166,17 @@ document.addEventListener('DOMContentLoaded', function () {
                 html += '</div>';
                 
                 lightboxCaption.innerHTML = html;
+                lightboxCaption.classList.remove('caption-collapsed');
+
+                // Wire up the toggle button
+                const toggleBtn = lightboxCaption.querySelector('.gallery-label__toggle');
+                if (toggleBtn) {
+                    toggleBtn.addEventListener('click', (e) => {
+                        e.stopPropagation();
+                        const collapsed = lightboxCaption.classList.toggle('caption-collapsed');
+                        toggleBtn.textContent = collapsed ? '+' : '−';
+                    });
+                }
             } else {
                 lightboxCaption.innerHTML = `<div class="gallery-label"><div class="gallery-label__desc">${parsed.text}</div></div>`;
             }
