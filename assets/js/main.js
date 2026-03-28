@@ -19,17 +19,30 @@ document.addEventListener('DOMContentLoaded', function () {
     const header = document.querySelector('.site-header');
     let lastScroll = 0;
 
-    window.addEventListener('scroll', () => {
+    // Check if we have a hero to make header transparent
+    const hasHero = document.querySelector('.hero') !== null;
+    if (hasHero) {
+        header.classList.add('transparent-capable');
+    }
+
+    const checkScroll = () => {
         const currentScroll = window.pageYOffset;
 
-        if (currentScroll > 100) {
+        if (currentScroll > 50) {
+            header.classList.add('scrolled');
             header.style.boxShadow = '0 2px 30px rgba(0,0,0,0.1)';
         } else {
-            header.style.boxShadow = '0 2px 20px rgba(0,0,0,0.06)';
+            header.classList.remove('scrolled');
+            header.style.boxShadow = hasHero ? 'none' : '0 2px 20px rgba(0,0,0,0.06)';
         }
-
+        
         lastScroll = currentScroll;
-    });
+    };
+    
+    // Initial check
+    checkScroll();
+
+    window.addEventListener('scroll', checkScroll);
 
     // Lightbox functionality
     const lightbox = document.getElementById('gallery-lightbox');
@@ -87,6 +100,39 @@ document.addEventListener('DOMContentLoaded', function () {
         return txt.value;
     }
 
+    function parseCaption(text) {
+        if (!text) return null;
+        const lines = text.split('\n');
+        let meta = {};
+        let description = [];
+        let hasMeta = false;
+        
+        lines.forEach(line => {
+            const match = line.match(/^(Title|Titolo|Year|Anno|Technique|Tecnica|Dimensions|Dimensioni):\s*(.*)/i);
+            if (match) {
+                hasMeta = true;
+                meta[match[1].toLowerCase()] = match[2];
+            } else if (line.trim() !== '') {
+                description.push(line);
+            }
+        });
+
+        if (!hasMeta) {
+            return { text: text, isStructured: false };
+        }
+        
+        const title = meta.title || meta.titolo || '';
+        const year = meta.year || meta.anno || '';
+        const technique = meta.technique || meta.tecnica || '';
+        const dimensions = meta.dimensions || meta.dimensioni || '';
+        
+        return { 
+            title, year, technique, dimensions, 
+            description: description.join('<br>'), 
+            isStructured: true 
+        };
+    }
+
     function showImage(index) {
         if (currentGalleryItems.length === 0) return;
 
@@ -98,9 +144,33 @@ document.addEventListener('DOMContentLoaded', function () {
         const img = item.querySelector('img');
         lightboxImg.src = img.src;
         lightboxImg.alt = img.alt;
-        const caption = item.dataset.caption;
-        lightboxCaption.textContent = caption ? decodeHTML(caption) : '';
-        lightboxCaption.style.display = caption ? 'block' : 'none';
+        const captionRaw = item.dataset.caption;
+        
+        if (captionRaw) {
+            const decoded = decodeHTML(captionRaw);
+            const parsed = parseCaption(decoded);
+            
+            if (parsed.isStructured) {
+                let metaHtml = '';
+                if (parsed.year) metaHtml += `<span>${parsed.year}</span>`;
+                if (parsed.technique) metaHtml += `<span>${parsed.technique}</span>`;
+                if (parsed.dimensions) metaHtml += `<span>${parsed.dimensions}</span>`;
+                
+                let html = '<div class="gallery-label">';
+                if (parsed.title) html += `<div class="gallery-label__title">${parsed.title}</div>`;
+                if (metaHtml) html += `<div class="gallery-label__meta">${metaHtml}</div>`;
+                if (parsed.description) html += `<div class="gallery-label__desc">${parsed.description}</div>`;
+                html += '</div>';
+                
+                lightboxCaption.innerHTML = html;
+            } else {
+                lightboxCaption.innerHTML = `<div class="gallery-label"><div class="gallery-label__desc">${parsed.text}</div></div>`;
+            }
+            lightboxCaption.style.display = 'block';
+        } else {
+            lightboxCaption.innerHTML = '';
+            lightboxCaption.style.display = 'none';
+        }
 
         resetZoom();
     }

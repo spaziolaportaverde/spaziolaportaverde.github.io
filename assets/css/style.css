@@ -1,15 +1,15 @@
 :root {
-    --color-primary: #2d5a4a;
-    --color-primary-dark: #1e3d32;
-    --color-secondary: #8b9a7d;
+    --color-primary: #375542;
+    --color-primary-dark: #213629;
+    --color-secondary: #8a9a86;
     --color-accent: #c4a35a;
-    --color-text: #333333;
-    --color-text-light: #666666;
+    --color-text: #222222;
+    --color-text-light: #525252;
     --color-background: #faf9f7;
-    --color-white: #ffffff;
+    --color-white: #f9f9f9;
     --color-border: #e5e3df;
-    --font-heading: 'Cormorant Garamond', Georgia, serif;
-    --font-body: 'Montserrat', sans-serif;
+    --font-heading: 'Playfair Display', Georgia, serif;
+    --font-body: 'Inter', sans-serif;
     --spacing-xs: 0.5rem;
     --spacing-sm: 1rem;
     --spacing-md: 2rem;
@@ -96,6 +96,37 @@ h3 {
     background: var(--color-white);
     box-shadow: 0 2px 20px rgba(0, 0, 0, 0.06);
     padding: var(--spacing-sm) 0;
+    transition: background-color 0.4s ease, box-shadow 0.4s ease, padding 0.4s ease;
+}
+
+.site-header.transparent-capable:not(.scrolled) {
+    background: transparent;
+    box-shadow: none !important;
+}
+
+.site-header.transparent-capable:not(.scrolled) .logo-text,
+.site-header.transparent-capable:not(.scrolled) .nav-item a {
+    color: var(--color-white);
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+.site-header.transparent-capable:not(.scrolled) .nav-toggle span {
+    background: var(--color-white);
+}
+
+.site-header.transparent-capable:not(.scrolled) .nav-item a::after {
+    background: var(--color-white);
+}
+
+.site-header.transparent-capable:not(.scrolled) .logo-text:hover,
+.site-header.transparent-capable:not(.scrolled) .nav-item:hover a,
+.site-header.transparent-capable:not(.scrolled) .nav-item.active a {
+    color: var(--color-accent);
+}
+
+.site-header.transparent-capable:not(.scrolled) .nav-item:hover a::after,
+.site-header.transparent-capable:not(.scrolled) .nav-item.active a::after {
+    background: var(--color-accent);
 }
 
 .header-inner {
@@ -183,18 +214,19 @@ main {
 }
 
 .hero {
-    min-height: calc(100vh - 80px);
+    min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: var(--spacing-xl) var(--spacing-md);
+    padding: calc(80px + var(--spacing-md)) var(--spacing-md) var(--spacing-xl);
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/lo_spazio.jpeg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     position: relative;
     overflow: hidden;
+    margin-top: -80px;
 }
 
 .hero::before {
@@ -577,7 +609,8 @@ main {
 }
 
 .gallery-item img {
-    transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+    transition: transform 12s ease-out, filter 0.8s ease;
+    filter: brightness(0.95) blur(0.5px);
 }
 
 .gallery-item:hover {
@@ -586,7 +619,8 @@ main {
 }
 
 .gallery-item:hover img {
-    transform: scale(1.05);
+    transform: scale(1.08); /* Slow Ken Burns zoom */
+    filter: brightness(1) blur(0px); /* Soft focus snapping to sharpness */
 }
 
 img {
@@ -736,11 +770,13 @@ img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transition: transform 0.5s ease;
+    transition: transform 12s ease-out, filter 0.8s ease;
+    filter: brightness(0.95) blur(0.5px);
 }
 
 .mostre-card:hover .mostre-card__image {
-    transform: scale(1.05);
+    transform: scale(1.08); /* Slow Ken Burns zoom */
+    filter: brightness(1) blur(0px); /* Soft focus snapping to sharpness */
 }
 
 .mostre-card__image-placeholder {
@@ -1039,14 +1075,49 @@ img {
 .lightbox-caption {
     position: absolute;
     bottom: 30px;
-    left: 50%;
-    transform: translateX(-50%);
-    color: #fff;
-    font-size: 1rem;
-    text-align: center;
-    max-width: 80%;
-    text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+    right: 40px;
+    background: var(--color-white);
+    color: var(--color-text);
+    padding: var(--spacing-md);
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.25);
     display: none;
+    max-width: 350px;
+    text-align: left;
+    text-shadow: none;
+    border-radius: 2px;
+    z-index: 1010;
+}
+
+.gallery-label {
+    font-family: var(--font-body);
+}
+
+.gallery-label__title {
+    font-family: var(--font-heading);
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--color-primary);
+    margin-bottom: var(--spacing-xs);
+    line-height: 1.2;
+}
+
+.gallery-label__meta {
+    font-size: 0.85rem;
+    color: var(--color-text-light);
+    margin-bottom: var(--spacing-sm);
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-weight: 500;
+}
+
+.gallery-label__desc {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--color-text);
+    margin-top: var(--spacing-sm);
+    padding-top: var(--spacing-sm);
+    border-top: 1px solid var(--color-border);
 }
 
 .lightbox-prev,

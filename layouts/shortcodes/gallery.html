@@ -9,12 +9,21 @@
         {{ $baseName := replaceRE "\\.[^.]+$" "" .Name }}
         {{ $captionFile := printf "content/%s/%s.txt" $contentDir $baseName }}
         {{ $caption := "" }}
+        {{ $altText := replaceRE "[-_]" " " $baseName | title }}
         {{ if fileExists $captionFile }}
           {{ $caption = trim (readFile $captionFile) "\n" }}
+          {{ $match := findRE "(?im)^(Titolo|Title):\\s*(.+)" $caption 1 }}
+          {{ if gt (len $match) 0 }}
+            {{ $altText = trim (replaceRE "(?i)^(Titolo|Title):\\s*" "" (index $match 0)) "\r\n " }}
+          {{ else }}
+            {{ $lines := split $caption "\n" }}
+            {{ $first := trim (index $lines 0) "\r\n " }}
+            {{ if gt (len $first) 0 }}{{ $altText = $first }}{{ end }}
+          {{ end }}
         {{ end }}
         {{ $imgPath := printf "%s/%s" $dir .Name }}
         <div class="gallery-item"{{ if $caption }} data-caption="{{ $caption | safeHTMLAttr }}"{{ end }}>
-          {{ partial "responsive-image.html" (dict "src" $imgPath "alt" $baseName "class" "gallery-img" "sizes" "(max-width: 768px) 100vw, 50vw") }}
+          {{ partial "responsive-image.html" (dict "src" $imgPath "alt" $altText "class" "gallery-img" "sizes" "(max-width: 768px) 100vw, 50vw") }}
         </div>
       {{ end }}
     {{ end }}
