@@ -1221,12 +1221,27 @@ img {
         color: #ffffff !important;
     }
 
-    /* Scrolled / solid header: dark text on light bg must stay dark */
+    /* Scrolled header in dark mode: dark forest green background with light text
+       This ensures the transparent→solid fade is visible (dark gradient → dark solid) */
+    .site-header.scrolled,
+    .site-header:not(.transparent-capable) {
+        background: rgba(25, 40, 30, 0.97) !important;
+        box-shadow: 0 2px 30px rgba(0, 0, 0, 0.4) !important;
+    }
+
     .site-header.scrolled .logo-text,
+    .site-header:not(.transparent-capable) .logo-text {
+        color: #f0ede6 !important;
+    }
+
     .site-header.scrolled .nav-item a,
-    .logo-text,
-    .nav-item a {
-        color: var(--color-text) !important;
+    .site-header:not(.transparent-capable) .nav-item a {
+        color: #e0ddd5 !important;
+    }
+
+    .site-header.scrolled .nav-item a::after,
+    .site-header:not(.transparent-capable) .nav-item a::after {
+        background: #c4a35a !important;
     }
 
     /* Critic / review block stays dark by design */
