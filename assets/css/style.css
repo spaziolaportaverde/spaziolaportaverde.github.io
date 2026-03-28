@@ -100,14 +100,14 @@ h3 {
 }
 
 .site-header.transparent-capable:not(.scrolled) {
-    background: transparent;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.55) 0%, rgba(0, 0, 0, 0) 100%);
     box-shadow: none !important;
 }
 
 .site-header.transparent-capable:not(.scrolled) .logo-text,
 .site-header.transparent-capable:not(.scrolled) .nav-item a {
     color: var(--color-white);
-    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+    text-shadow: 0 1px 6px rgba(0, 0, 0, 0.8);
 }
 
 .site-header.transparent-capable:not(.scrolled) .nav-toggle span {
