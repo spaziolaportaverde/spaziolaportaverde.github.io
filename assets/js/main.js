@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function () {
         let hasMeta = false;
         
         lines.forEach(line => {
-            const match = line.match(/^(Title|Titolo|Year|Anno|Technique|Tecnica|Dimensions|Dimensioni):\s*(.*)/i);
+            const match = line.match(/^(Title|Titolo|Author|Autore|Year|Anno|Technique|Tecnica|Dimensions|Dimensioni):\s*(.*)/i);
             if (match) {
                 hasMeta = true;
                 meta[match[1].toLowerCase()] = match[2];
@@ -122,12 +122,13 @@ document.addEventListener('DOMContentLoaded', function () {
         }
         
         const title = meta.title || meta.titolo || '';
+        const author = meta.author || meta.autore || '';
         const year = meta.year || meta.anno || '';
         const technique = meta.technique || meta.tecnica || '';
         const dimensions = meta.dimensions || meta.dimensioni || '';
         
         return { 
-            title, year, technique, dimensions, 
+            title, author, year, technique, dimensions, 
             description: description.join('<br>'), 
             isStructured: true 
         };
@@ -158,6 +159,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 
                 let html = '<div class="gallery-label">';
                 if (parsed.title) html += `<div class="gallery-label__title">${parsed.title}</div>`;
+                if (parsed.author) html += `<div class="gallery-label__author">${parsed.author}</div>`;
                 if (metaHtml) html += `<div class="gallery-label__meta">${metaHtml}</div>`;
                 if (parsed.description) html += `<div class="gallery-label__desc">${parsed.description}</div>`;
                 html += '</div>';

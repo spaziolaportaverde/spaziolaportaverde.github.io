@@ -677,23 +677,26 @@ img {
 .critic-review {
     position: relative;
     margin: var(--spacing-lg) 0;
-    padding: var(--spacing-md) var(--spacing-md) var(--spacing-md) calc(var(--spacing-md) + 4px);
-    background: linear-gradient(135deg, #f8f4ed 0%, #f2ede3 100%);
-    border-left: 4px solid var(--color-accent);
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+    padding: var(--spacing-lg) var(--spacing-md) var(--spacing-lg) calc(var(--spacing-lg) + 10px);
+    background: linear-gradient(135deg, var(--color-primary-dark) 0%, var(--color-primary) 100%);
+    border-left: 6px solid var(--color-accent);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    overflow: hidden;
 }
 
 .critic-review::before {
     content: '\201C';
     position: absolute;
-    top: -0.2em;
-    left: 0.3em;
+    top: -0.1em;
+    left: 0.1em;
     font-family: var(--font-heading);
-    font-size: 6rem;
+    font-size: 9rem;
     line-height: 1;
     color: var(--color-accent);
-    opacity: 0.25;
+    opacity: 0.15;
     pointer-events: none;
+    text-shadow: none;
 }
 
 .critic-review__header {
@@ -701,28 +704,33 @@ img {
     align-items: center;
     gap: 0.5rem;
     margin-bottom: var(--spacing-sm);
+    position: relative;
+    z-index: 1;
 }
 
 .critic-review__icon {
-    font-size: 1.1rem;
-    opacity: 0.6;
+    font-size: 1.2rem;
+    color: var(--color-accent);
 }
 
 .critic-review__author {
     font-family: var(--font-body);
-    font-size: 0.75rem;
+    font-size: 0.85rem;
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 0.15em;
+    letter-spacing: 0.2em;
     color: var(--color-accent);
 }
 
 .critic-review__body {
     font-family: var(--font-heading);
-    font-size: 1.15rem;
+    font-size: 1.45rem;
     font-style: italic;
-    line-height: 1.85;
-    color: #4a3f35;
+    font-weight: 400;
+    line-height: 1.9;
+    color: var(--color-white);
+    position: relative;
+    z-index: 1;
 }
 
 .critic-review__body p {
@@ -1092,32 +1100,48 @@ img {
     font-family: var(--font-body);
 }
 
+/* Title: large, serif, prominent */
 .gallery-label__title {
     font-family: var(--font-heading);
-    font-size: 1.5rem;
-    font-weight: 600;
+    font-size: 1.45rem;
+    font-weight: 700;
     color: var(--color-primary);
-    margin-bottom: var(--spacing-xs);
+    margin-bottom: 4px;
     line-height: 1.2;
 }
 
-.gallery-label__meta {
-    font-size: 0.85rem;
-    color: var(--color-text-light);
+/* Author: italic serif, clearly visible under title */
+.gallery-label__author {
+    font-family: var(--font-heading);
+    font-size: 1rem;
+    font-style: italic;
+    color: var(--color-text);
     margin-bottom: var(--spacing-sm);
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-    font-weight: 500;
+    line-height: 1.3;
 }
 
+/* Year / Technique / Dimensions: de-emphasised, small caps feel */
+.gallery-label__meta {
+    font-size: 0.78rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--color-text-light);
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    margin-bottom: var(--spacing-sm);
+    padding-bottom: var(--spacing-sm);
+    border-bottom: 1px solid var(--color-border);
+}
+
+/* Description: flowing, readable */
 .gallery-label__desc {
     font-size: 0.95rem;
-    line-height: 1.6;
+    font-style: italic;
+    line-height: 1.7;
     color: var(--color-text);
     margin-top: var(--spacing-sm);
-    padding-top: var(--spacing-sm);
-    border-top: 1px solid var(--color-border);
 }
 
 .lightbox-prev,
