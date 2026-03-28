@@ -100,14 +100,15 @@ h3 {
 }
 
 .site-header.transparent-capable:not(.scrolled) {
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.55) 0%, rgba(0, 0, 0, 0) 100%);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.72) 0%, rgba(0, 0, 0, 0.35) 60%, rgba(0, 0, 0, 0) 100%);
     box-shadow: none !important;
+    padding-bottom: calc(var(--spacing-sm) * 1.5);
 }
 
 .site-header.transparent-capable:not(.scrolled) .logo-text,
 .site-header.transparent-capable:not(.scrolled) .nav-item a {
     color: var(--color-white);
-    text-shadow: 0 1px 6px rgba(0, 0, 0, 0.8);
+    text-shadow: 0 1px 8px rgba(0, 0, 0, 0.9), 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
 .site-header.transparent-capable:not(.scrolled) .nav-toggle span {
