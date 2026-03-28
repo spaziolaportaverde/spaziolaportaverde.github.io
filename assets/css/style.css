@@ -101,34 +101,34 @@ h3 {
 }
 
 .site-header.transparent-capable:not(.scrolled) {
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.72) 0%, rgba(0, 0, 0, 0.35) 60%, rgba(0, 0, 0, 0) 100%);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.72) 0%, rgba(0, 0, 0, 0.35) 60%, rgba(0, 0, 0, 0) 100%) !important;
     box-shadow: none !important;
     padding-bottom: calc(var(--spacing-sm) * 1.5);
 }
 
 .site-header.transparent-capable:not(.scrolled) .logo-text,
 .site-header.transparent-capable:not(.scrolled) .nav-item a {
-    color: var(--color-white);
-    text-shadow: 0 1px 8px rgba(0, 0, 0, 0.9), 0 0 20px rgba(0, 0, 0, 0.5);
+    color: #f9f9f9 !important;
+    text-shadow: 0 1px 8px rgba(0, 0, 0, 0.9), 0 0 20px rgba(0, 0, 0, 0.5) !important;
 }
 
 .site-header.transparent-capable:not(.scrolled) .nav-toggle span {
-    background: var(--color-white);
+    background: #f9f9f9 !important;
 }
 
 .site-header.transparent-capable:not(.scrolled) .nav-item a::after {
-    background: var(--color-white);
+    background: #f9f9f9 !important;
 }
 
 .site-header.transparent-capable:not(.scrolled) .logo-text:hover,
 .site-header.transparent-capable:not(.scrolled) .nav-item:hover a,
 .site-header.transparent-capable:not(.scrolled) .nav-item.active a {
-    color: var(--color-accent);
+    color: #c4a35a !important;
 }
 
 .site-header.transparent-capable:not(.scrolled) .nav-item:hover a::after,
 .site-header.transparent-capable:not(.scrolled) .nav-item.active a::after {
-    background: var(--color-accent);
+    background: #c4a35a !important;
 }
 
 .header-inner {
