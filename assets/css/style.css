@@ -1097,7 +1097,7 @@ img {
     transition: opacity 0.3s ease;
 }
 
-.lightbox-caption.caption-collapsed .gallery-label > *:not(.gallery-label__title) {
+.lightbox-caption.caption-collapsed .gallery-label > *:not(.gallery-label__title):not(.gallery-label__toggle) {
     display: none;
 }
 
