@@ -1,7 +1,13 @@
-#!/bin/bash
-# Generate scaled images for all pictures in static/images
+# Generate scaled images for all pictures in assets/images
+# 
+# NOTE: As of the recent optimization update, this script is now LEGACY and 
+# mostly redundant. Hugo now automatically handles WebP conversion and 
+# responsive resizing (800w, 1200w, etc.) via the assets/ pipeline and 
+# the layouts/partials/responsive-image.html template.
+#
+# You don't need to run this manually anymore.
 
-TARGET_DIR="static/images"
+TARGET_DIR="assets/images"
 
 if [ ! -d "$TARGET_DIR" ]; then
     echo "Directory $TARGET_DIR not found. Run this from the project root."
