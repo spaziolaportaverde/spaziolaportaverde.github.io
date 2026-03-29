@@ -24,17 +24,17 @@ find "$TARGET_DIR" -type f \( -iname \*.jpg -o -iname \*.jpeg -o -iname \*.png -
     ext="${base##*.}"
     name="${base%.*}"
 
-    img_800="$dir/${name}-800w.${ext}"
-    img_1200="$dir/${name}-1200w.${ext}"
+    img_800="$dir/${name}-800w.webp"
+    img_1200="$dir/${name}-1200w.webp"
 
     if [ ! -f "$img_1200" ]; then
-        echo "Generating $img_1200"
-        convert "$img" -resize 1200x\> "$img_1200"
+        echo "Generating WebP $img_1200"
+        convert "$img" -resize 1200x\> -quality 85 "$img_1200"
     fi
 
     if [ ! -f "$img_800" ]; then
-        echo "Generating $img_800"
-        convert "$img" -resize 800x\> "$img_800"
+        echo "Generating WebP $img_800"
+        convert "$img" -resize 800x\> -quality 85 "$img_800"
     fi
 
 done
