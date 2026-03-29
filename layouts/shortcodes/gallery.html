@@ -11,7 +11,7 @@
         {{ $baseName := replaceRE "\\.[^.]+$" "" .Name }}
         {{/* .Name in resources includes the directory, e.g. images/opere/image.jpg */}}
         {{/* We want the base name without directory for the caption file lookup */}}
-        {{ $fileName := last 1 (split .Name "/") | index 0 }}
+        {{ $fileName := index (last 1 (split .Name "/")) 0 }}
         {{ $pureBaseName := replaceRE "\\.[^.]+$" "" $fileName }}
         
         {{ $captionFile := printf "content/%s/%s.txt" $contentDir $pureBaseName }}
