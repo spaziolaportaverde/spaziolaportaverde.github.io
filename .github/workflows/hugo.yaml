@@ -38,6 +38,24 @@ jobs:
       - name: Install ImageMagick
         run: sudo apt-get update && sudo apt-get install -y imagemagick
 
+      - name: Cache Hugo resources
+        uses: actions/cache@v4
+        with:
+          path: resources
+          key: ${{ runner.os }}-hugo-resources-${{ hashFiles('layouts/**', 'content/**', 'assets/**') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-resources-
+
+      - name: Cache Processed Images
+        uses: actions/cache@v4
+        with:
+          path: |
+            assets/images/**/*-800w.webp
+            assets/images/**/*-1200w.webp
+          key: ${{ runner.os }}-processed-images-${{ hashFiles('assets/images/**') }}
+          restore-keys: |
+            ${{ runner.os }}-processed-images-
+
       - name: Process Images On-The-Fly
         run: |
           chmod +x scripts/process_images.sh
