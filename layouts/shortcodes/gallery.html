@@ -7,18 +7,30 @@
 <div class="gallery-scroll">
   <div class="gallery-track">
     {{ range $files }}
-      {{ if findRE "\\.(jpg|jpeg|png|gif|webp)$" (lower .Name) }}
+      {{ if and (findRE "\\.(jpg|jpeg|png|gif|webp)$" (lower .Name)) (not (findRE "-(800|1200)w\\." (lower .Name))) }}
         {{ $baseName := replaceRE "\\.[^.]+$" "" .Name }}
         {{/* .Name in resources includes the directory, e.g. images/opere/image.jpg */}}
         {{/* We want the base name without directory for the caption file lookup */}}
         {{ $fileName := index (last 1 (split .Name "/")) 0 }}
         {{ $pureBaseName := replaceRE "\\.[^.]+$" "" $fileName }}
         
-        {{ $captionFile := printf "content/%s/%s.txt" $contentDir $pureBaseName }}
+        {{ $captionFile := "" }}
+        {{ $c1 := printf "content/%s/%s.txt" $contentDir $pureBaseName }}
+        {{ $c2 := printf "content/%s/%s.txt" $contentDir (replace $pureBaseName " " "_") }}
+        {{ $parentDir := replaceRE "/[^/]+/?$" "" $contentDir }}
+        {{ $c3 := printf "content/%s/%s.txt" $parentDir $pureBaseName }}
+        {{ $c4 := printf "content/%s/%s.txt" $parentDir (replace $pureBaseName " " "_") }}
+        
+        {{ if fileExists $c1 }}{{ $captionFile = $c1 }}
+        {{ else if fileExists $c2 }}{{ $captionFile = $c2 }}
+        {{ else if fileExists $c3 }}{{ $captionFile = $c3 }}
+        {{ else if fileExists $c4 }}{{ $captionFile = $c4 }}
+        {{ end }}
+        
         {{ $caption := "" }}
         {{ $altText := replaceRE "[-_]" " " $pureBaseName | title }}
         
-        {{ if fileExists $captionFile }}
+        {{ if and (ne $captionFile "") (fileExists $captionFile) }}
           {{ $caption = trim (readFile $captionFile) "\n" }}
           {{ $match := findRE "(?im)^(Titolo|Title):\\s*(.+)" $caption 1 }}
           {{ if gt (len $match) 0 }}
