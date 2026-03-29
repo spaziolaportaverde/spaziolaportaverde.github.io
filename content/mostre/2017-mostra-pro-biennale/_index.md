@@ -8,7 +8,8 @@ type: "collettiva"
 images:
 - premio.jpg
 draft: false
-theme: arte---
+theme: arte
+---
 
 Esposizione nell'ambito della Pro Biennale 2017.
 

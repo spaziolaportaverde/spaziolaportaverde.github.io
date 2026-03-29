@@ -8,7 +8,8 @@ type: "personale"
 images:
 - tgcom24_spoleto_arte.jpg
 draft: false
-theme: arte---
+theme: arte
+---
 
 Intervista su TGCom24.
 

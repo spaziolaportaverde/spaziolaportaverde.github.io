@@ -19,7 +19,8 @@ images:
 - magnolia.jpg
 - platano.jpg
 draft: false
-theme: natura---
+theme: natura
+---
 
 **PER AMORE DELLE PIANTE**  
 8 Novembre 2018

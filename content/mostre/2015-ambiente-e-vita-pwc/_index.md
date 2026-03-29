@@ -16,7 +16,8 @@ images:
 - dsc02827.jpg
 - dsc02847.jpg
 draft: false
-theme: ambiente---
+theme: ambiente
+---
 
 Dal 8 al 30 ottobre 2015  
 Spazio Espositivo PwC Milano Via Monte Rosa 91

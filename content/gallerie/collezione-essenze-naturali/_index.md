@@ -8,7 +8,8 @@ type: "galleria"
 images:
   - "danza-dell-acqua.jpg"
 draft: false
-theme: natura---
+theme: natura
+---
 
 La Collezione Essenze Naturali raccoglie le opere più significative di Gabriella Ventavoli dedicate al mondo vegetale e minerale, esplorando le connessioni profonde tra l'uomo e l'ambiente naturale.
 

@@ -8,7 +8,8 @@ type: "collettiva"
 images:
 - mostra.jpg
 draft: false
-theme: arte---
+theme: arte
+---
 
 La 1.a Biennale della Creatività, svolta a Verona dal 12 al 16 Febbraio 2014 ha raccolto negli ambienti della Fiera numerosi artisti contemporanei, ed ha rappresentato uno degli eventi espositivi più importanti del 2014.
 

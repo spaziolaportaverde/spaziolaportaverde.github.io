@@ -13,7 +13,8 @@ images:
 - dsc_3687.jpg
 - dsc_3910.jpg
 draft: false
-theme: vita---
+theme: vita
+---
 
 Da sempre il mio percorso artistico si connota nel sentire l'arte come impegno civile e morale, spaziando su tematiche legate all'ambiente, alla vita, alla salvaguardia delle risorse naturali.
 

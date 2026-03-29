@@ -8,7 +8,8 @@ type: "pubblicazione"
 images:
 - myart-2017-copertina.jpg
 draft: false
-theme: arte---
+theme: arte
+---
 
 Monografia MyArt 2017.
 

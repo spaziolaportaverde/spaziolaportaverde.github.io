@@ -11,7 +11,8 @@ images:
 - la-teresa.jpg
 
 draft: false
-theme: riconoscimento---
+theme: riconoscimento
+---
 
 ## Premio Biennale Sgarbi
 

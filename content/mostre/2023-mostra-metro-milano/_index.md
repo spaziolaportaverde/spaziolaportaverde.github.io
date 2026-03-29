@@ -11,7 +11,8 @@ images:
 - tabellone-pescatrici-perle.jpg
 - tabellone-venere-mare.jpg
 draft: false
-theme: arte---
+theme: arte
+---
 
 In concomitanza con la Mostra "Per amore del mare" che si svolge a partire dal 4 marzo 2023 nello Spazio Culturale di via Andrea Maria Ampere 102, numerose gigantografie delle opere esposte sono state installate nelle stazioni della Metro di Milano.
 

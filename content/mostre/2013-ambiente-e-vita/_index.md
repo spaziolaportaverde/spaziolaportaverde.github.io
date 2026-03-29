@@ -8,7 +8,8 @@ images:
   - amazzonia.jpg
 type: "personale"
 draft: false
-theme: ambiente---
+theme: ambiente
+---
 
 Attualmente lo spazio è dedicato alla Personale di Pittura dell'artista Gabriella Ventavoli, dal titolo **AMBIENTE E VITA** in cui sono esposte opere ispirate agli elementi fondamentali della nostra vita, quali l'aria e l'acqua, e all'attualissimo problema dell'inquinamento. Arte come impegno civile e morale, è il naturale presupposto di tutto il lavoro di Gabriella Ventavoli, che nelle opere esposte rivolge la sua attenzione al tema per eccellenza legato alla vita e alla sopravvivenza di tutta la specie umana: l'Ambiente.
 

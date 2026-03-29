@@ -8,7 +8,8 @@ type: "donazione"
 images:
 - danza_solidarieta.jpg
 draft: false
-theme: donazione---
+theme: donazione
+---
 
 L'artista Gabriella Ventavoli dona l'opera **La Danza della Solidarietà** alla Fondazione ATM di Milano.
 

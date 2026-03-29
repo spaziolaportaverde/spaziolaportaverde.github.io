@@ -14,7 +14,8 @@ images:
 - la-luce-al-tramonto.jpg
 - la-voce-del-sole.jpg
 draft: false
-theme: arte---
+theme: arte
+---
 
 ## Opere in Esposizione
 

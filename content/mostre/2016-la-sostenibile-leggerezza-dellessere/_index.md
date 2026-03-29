@@ -14,7 +14,8 @@ images:
 - img_0255.jpg
 - img_0257.jpg
 draft: false
-theme: vita---
+theme: vita
+---
 
 Il Centro Culturale "La Porta Verde", dove arte e poesia si incontrano, ha inaugurato una mostra dal suggestivo titolo "La sostenibile leggerezza dell'essere" in un tempo in cui si fa sempre più pesante l'esistenza umana.
 

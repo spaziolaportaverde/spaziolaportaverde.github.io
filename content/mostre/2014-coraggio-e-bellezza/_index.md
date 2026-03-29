@@ -8,7 +8,8 @@ type: "personale"
 images:
 - malala.jpg
 draft: false
-theme: vita---
+theme: vita
+---
 
 Nella galleria GRAAL di Pavia, dal 22 Marzo al 6 Aprile 2014, in concomitanza con il XXXIV Congresso Nazionale AIDM tenuto nei giorni 28, 29 e 30 marzo 2014, si è svolta una mostra personale della pittrice, dedicata al tema "Coraggio e Bellezza: Donne contro la Violenza".
 

@@ -8,7 +8,8 @@ type: "donazione"
 images:
 - pandemia.jpg
 draft: false
-theme: donazione---
+theme: donazione
+---
 
 L'opera "La Pandemia" di Gabriella Ventavoli entra nella Collezione di Arte Contemporanea dello Storico Liceo Statale di Brera a Milano.
 

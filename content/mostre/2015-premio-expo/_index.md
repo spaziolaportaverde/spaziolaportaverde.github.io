@@ -8,7 +8,8 @@ type: "riconoscimento"
 images:
 - targa-premo-expo.jpg
 draft: false
-theme: riconoscimento---
+theme: riconoscimento
+---
 
 È stato assegnato, per meriti artistici acquisiti con la pittura nella continua sensibilizzazione ai problemi relativi alla salute del pianeta, il riconoscimento
 

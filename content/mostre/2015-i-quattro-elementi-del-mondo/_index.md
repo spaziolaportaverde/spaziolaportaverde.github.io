@@ -8,7 +8,8 @@ type: "collettiva"
 images:
   - "il-mistero-dell-acqua.jpg"
 draft: false
-theme: natura---
+theme: natura
+---
 
 Il 24 Gennaio 2015 è stata inaugurata una mostra collettiva ispirata al tema dei componenti fondamentali del mondo, nei tempi antichi identificati con il Fuoco, l'Aria, l'Acqua e la Terra. La pittrice Gabriella Ventavoli ha presentato la sua interpretazione dell'elemento **Acqua**.
 

@@ -8,7 +8,8 @@ type: "personale"
 images:
   - "il-sonno-del-mare.jpg"
 draft: false
-theme: mare---
+theme: mare
+---
 
 Il 28 maggio 2014 è stata inaugurata una personale della pittrice Gabriella Ventavoli, dal titolo "ELEGIA DEL MARE", in cui vengono esposte numerose opere ispirate al tema del mare, della sua bellezza ma anche della sua fragilità non sempre rispettata nella corsa allo sfruttamento delle risorse naturali.
 

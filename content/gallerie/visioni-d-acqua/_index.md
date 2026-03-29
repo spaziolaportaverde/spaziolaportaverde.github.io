@@ -8,7 +8,8 @@ type: "galleria"
 images:
   - "il-sonno-del-mare.jpg"
 draft: false
-theme: mare---
+theme: mare
+---
 
 La collezione Visioni d'Acqua raccoglie le opere dedicate a questo elemento vitale, exploring its power, beauty, and the vital role it plays in sustaining life on Earth.
 

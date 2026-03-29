@@ -9,7 +9,8 @@ images:
 - circolo_stampa.jpg
 - premio1.jpg
 draft: false
-theme: riconoscimento---
+theme: riconoscimento
+---
 
 Un evento che si è svolto presso il Palazzo Bocconi di Milano in cui la pittrice viene premiata per l'impegno sempre mostrato verso il rispetto e la protezione della natura.
 

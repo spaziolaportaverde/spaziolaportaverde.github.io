@@ -8,7 +8,8 @@ type: "galleria"
 images:
   - "il-mare-sogna.jpg"
 draft: false
-theme: natura---
+theme: natura
+---
 
 La collezione Alfabeti della Natura esplora come gli elementi naturali possano essere letti come un linguaggio primordiale, un alfabeto di forme e colori che racconta la storia del nostro pianeta.
 

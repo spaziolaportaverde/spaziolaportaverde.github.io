@@ -8,7 +8,8 @@ type: "personale"
 images:
 - danza-nel-mare.jpg
 draft: false
-theme: mare---
+theme: mare
+---
 
 All'interno dello storico Palazzo Borghese di Firenze, all'interno del progetto **"Il Museo dei Musei"** ideato e diretto dal Prof. Carlo Franza, la mostra **"Tra mare e cielo. Bagliori tra cieli imperfetti"** ha riunito oltre cinquanta opere sul tema del mare e della luce di Gabriella Ventavoli.
 

@@ -12,7 +12,8 @@ images:
 - lidolo-eterno.jpg
 - madre-natura.jpg
 draft: false
-theme: arte---
+theme: arte
+---
 
 Nella splendida cornice della grande sala del **Palazzo Leti Sansi**, a Spoleto, si è svolta la videoproiezione delle opere esposte nelle varie ali del palazzo. La pittrice Gabriella Ventavoli era presente anche quest'anno, come nelle tre edizioni precedenti dell'evento, con tre opere di grande formato, accolte molto favorevolmente dalla critica.
 

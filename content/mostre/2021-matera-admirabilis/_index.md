@@ -13,7 +13,8 @@ images:
 - foto-2.jpg
 - foto-3.jpg
 draft: false
-theme: spiritualita---
+theme: spiritualita
+---
 
 Ha preso il via, all'interno del prestigio Hotel Plus Florence un nuovo progetto, dal titolo "Scenari" a cui ha partecipato l'artista Gabriella Ventavoli, con opere ispirate alla Madonna, "Mater Admirabilis", un percorso artistico internazionale ideato e diretto dall'illustre Storico dell'Arte di piano internazionale Prof. Carlo Franza.
 

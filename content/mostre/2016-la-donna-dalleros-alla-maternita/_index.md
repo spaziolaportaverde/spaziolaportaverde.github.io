@@ -19,7 +19,8 @@ images:
 - visitatori-2.jpg
 - visitatori-3.jpg
 draft: false
-theme: diritti---
+theme: diritti
+---
 
 L'artista Gabriella Ventavoli e il gruppo Noi Art hanno presentato numerose opere dedicate al complesso tema della femminilità.
 

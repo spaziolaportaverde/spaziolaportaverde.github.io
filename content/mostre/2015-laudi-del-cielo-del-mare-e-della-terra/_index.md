@@ -8,7 +8,8 @@ type: "personale"
 images:
   - "plus-berlin.jpg"
 draft: false
-theme: natura---
+theme: natura
+---
 
 Il 25 aprile 2015, a Berlino, nelle sale del prestigioso e dinamico "**Plus Berlin**", è stata allestita una personale di pittura dell'artista Gabriella Ventavoli, esponendo una panoramica di sue opere ispirate alla natura, e ai vari aspetti della realtà trasfigurati attraverso un'acuta sensibilità.
 

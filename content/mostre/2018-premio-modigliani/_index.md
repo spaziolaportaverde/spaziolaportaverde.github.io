@@ -12,7 +12,8 @@ images:
 - foto_3.jpg
 - corpo_sognato.jpg
 draft: false
-theme: riconoscimento---
+theme: riconoscimento
+---
 
 È ritornata a Spoleto Spoleto Arte, a cura di Vittorio Sgarbi, con un nuovo appuntamento artistico. Dal 13 ottobre al 10 novembre 2018 la mostra **Premio Modigliani** ha occupato infatti le stanze di **Palazzo Leti Sansi** (via Arco di Druso 37) e di **Casa Modigliani** presso Palazzo Montani (piazza Fontana 3).
 

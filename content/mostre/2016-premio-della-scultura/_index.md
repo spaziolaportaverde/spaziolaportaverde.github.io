@@ -8,7 +8,8 @@ type: "premio"
 images:
 - circolo_stampa.jpg
 draft: false
-theme: riconoscimento---
+theme: riconoscimento
+---
 
 ## Premio della Scultura 2016
 
