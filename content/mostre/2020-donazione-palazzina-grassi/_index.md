@@ -9,7 +9,7 @@ images:
 - bellezza_mare.jpg
 - vita_mare.jpg
 draft: false
----
+theme: donazione---
 
 L'artista Gabriella Ventavoli dona l'opera-Dittico **"La Bellezza dal Mare"** e **"La Vita dal Mare"** alla Palazzina Grassi di Venezia.
 

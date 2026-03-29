@@ -10,7 +10,7 @@ images:
 - israa.jpg
 - strage_innocenti.jpg
 draft: false
----
+theme: diritti---
 
 L'8 Marzo 2014, Festa della Donna, nello Spazio La Porta Verde si è tenuto un incontro con la partecipazione di diverse associazioni:
 

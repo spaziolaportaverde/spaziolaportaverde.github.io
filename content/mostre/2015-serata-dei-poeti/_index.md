@@ -11,7 +11,7 @@ images:
 - dsc02733.jpg
 - dsc02741.jpg
 draft: false
----
+theme: arte---
 
 In occasione della mostra dal titolo "Natura naturans" promossa dallo "Spazio La Porta Verde", un centro culturale vivacissimo in una città come Milano, é stata organizzata una serata di poesia dal titolo "Il Gusto della Poesia" che trova coinvolti poeti italiani, i quali durante la serata hanno declamato alcune loro poesie e presentato al pubblico una parte dei loro testi editi e inediti.
 

@@ -8,7 +8,7 @@ type: "media"
 images:
 - eccellenze_italiane_intervista.jpg
 draft: false
----
+theme: arte---
 
 Intervista per "Eccellenze Italiane 2023".
 

@@ -25,7 +25,7 @@ images:
 - il-potere-dello-sguardo.jpg
 - fiore-della-gioia.jpg
 draft: false
----
+theme: diritti---
 
 Viviamo in un mondo dove la violenza è divenuta come nebbia oscura che offusca la bellezza della vita sul nostro pianeta.
 

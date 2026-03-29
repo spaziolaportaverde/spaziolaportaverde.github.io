@@ -8,7 +8,7 @@ type: "media"
 images:
 - eccellenze_italiane_arte_per_la_vita.jpg
 draft: false
----
+theme: vita---
 
 Intervista per "Arte per la Vita: Eccellenze Italiane 2024".
 

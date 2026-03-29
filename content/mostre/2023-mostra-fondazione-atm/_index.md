@@ -12,7 +12,7 @@ images:
 - lanima-del-mare.jpg
 - locchio-del-mare.jpg
 draft: false
----
+theme: arte---
 
 ![Invito](/images/mostre/2023-mostra-fondazione-atm/invito.jpg)
 

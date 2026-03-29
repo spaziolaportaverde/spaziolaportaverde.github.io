@@ -8,7 +8,7 @@ type: "personale"
 images:
 - creativita.jpg
 draft: false
----
+theme: diritti---
 
 Il 22 Febbraio il Centro Culturale La Porta Verde, in continuità con il precedente evento del 18 Gennaio dedicato alla tutela dell'ambiente: foreste, aria, acqua, prosegue con una nuova proposta espositiva incentrata sul valore della vita, in opposizione alla violenza che oggi viene drammaticamente perpetrata nei confronti delle donne e dell'infanzia. 
 

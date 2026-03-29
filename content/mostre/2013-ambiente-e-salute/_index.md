@@ -8,7 +8,7 @@ images:
   - "palazzetto.jpg"
 type: "collettiva"
 draft: false
----
+theme: ambiente---
 
 Il 18 Ottobre 2013, in occasione delle 7.me Giornate Mediche dell'Ambiente, nelle quali ad Arezzo è stato promosso dalla sezione italiana dell'ISDE (International Society of Doctors for the Environment) un convegno sul tema: INQUINAMENTO ATMOSFERICO, Gabriella Ventavoli ha presentato nei locali del prestigio Palazzetto della Fraternita dei Laici una raccolta di opere ispirate all'ambiente e alle innumerevoli forme di aggressione e di inquinamento presenti nella società contemporanea.
 

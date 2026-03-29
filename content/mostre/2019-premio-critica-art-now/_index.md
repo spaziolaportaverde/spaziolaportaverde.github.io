@@ -10,7 +10,7 @@ images:
 - il-trionfo-della-natura.jpg
 - olocausto-della-natura.jpg
 draft: false
----
+theme: riconoscimento---
 
 ## Premio della Critica Art Now
 

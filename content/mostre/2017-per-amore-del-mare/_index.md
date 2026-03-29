@@ -10,7 +10,7 @@ images:
 - per-amore-del-mare.jpg
 - titolo.jpg
 draft: false
----
+theme: mare---
 
 Da sempre il mio percorso artistico si connota nel sentire l'arte come impegno civile e morale, spaziando su tematiche legate all'ambiente, alla vita, alla salvaguardia delle risorse naturali.
 

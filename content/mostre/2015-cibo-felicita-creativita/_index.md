@@ -13,7 +13,7 @@ images:
   - "presentazione-2.jpg"
   - "partecipanti.jpg"
 draft: false
----
+theme: vita---
 
 In occasione della mostra "**Natura naturans**" promossa dallo spazio culturale "**La Porta Verde**", il 19 giugno 2015 è stata organizzata una serata sul tema "**Cibo, Felicità, Creatività**", curata dal Prof. **Carlo Franza**.
 

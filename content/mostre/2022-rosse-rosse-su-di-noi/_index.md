@@ -10,7 +10,7 @@ images:
 - foto-6.jpg
 - foto-7.jpg
 draft: false
----
+theme: natura---
 
 Non ci siamo mai fermati nel tener desta la voce dell'arte e la creatività per alimentare la speranza nel bene e nel bello.
 

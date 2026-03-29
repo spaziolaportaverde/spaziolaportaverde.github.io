@@ -11,7 +11,7 @@ images:
 - attestato.jpg
 - il_mistero_del_mare.jpg
 draft: false
----
+theme: riconoscimento---
 
 ## Premio Biennale Sgarbi
 

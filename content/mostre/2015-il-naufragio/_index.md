@@ -15,7 +15,7 @@ images:
 - dsc02924.jpg
 - dsc02933.jpg
 draft: false
----
+theme: mare---
 
 L'esposizione curata dal Prof. Carlo Franza, illustre Storico dell'Arte Contemporanea, che firma anche il testo, dal titolo "Il naufragio tra viaggio e speranza" riunisce un grande telero e altre opere di Gabriella Ventavoli, che attiva da anni nell'arte contemporanea, si misura sul tema della natura, del mondo e dei 4 elementi che lo compongono.
 

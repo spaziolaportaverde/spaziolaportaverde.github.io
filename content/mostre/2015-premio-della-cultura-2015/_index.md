@@ -11,7 +11,7 @@ images:
 - la-giuria.jpg
 - artista-sulla-scala.jpg
 draft: false
----
+theme: riconoscimento---
 
 PALAZZO BOCCONI - MILANO  
 SALA DEGLI SPECCHI

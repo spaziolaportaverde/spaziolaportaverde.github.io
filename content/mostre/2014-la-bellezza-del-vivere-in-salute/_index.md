@@ -8,7 +8,7 @@ type: "collettiva"
 images:
   - "piazza.jpg"
 draft: false
----
+theme: ambiente---
 
 Il 24 maggio 2014, l'ISDE (International Society of Doctors for the Environment) di Trieste e l'associazione culturale "Rustico nido di rondine" hanno inaugurato una mostra di pittura ispirata al tema della bellezza del vivere, quando accompagnato ad ambienti sani che favoriscano una buona salute.
 

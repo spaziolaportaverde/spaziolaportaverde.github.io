@@ -8,7 +8,7 @@ type: "personale"
 images:
 - crocifissione.jpg
 draft: false
----
+theme: spiritualita---
 
 L'opera "Crocifissione dell'Umanità", acrilico su tela di cm 200x160, è stata realizzata dall'artista Gabriella Ventavoli, motivata dai tragici eventi di questi tempi.
 

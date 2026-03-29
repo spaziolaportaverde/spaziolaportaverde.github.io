@@ -13,7 +13,7 @@ images:
 - img_0291.jpg
 - img_0298.jpg
 draft: false
----
+theme: arte---
 
 ## Surrealismo Sensoriale
 

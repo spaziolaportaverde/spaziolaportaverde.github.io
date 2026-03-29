@@ -15,7 +15,7 @@ images:
 - mare-e-terra-in-armonia.jpg
 - oro-blu.jpg
 draft: false
----
+theme: mare---
 
 ## Opere in Esposizione
 

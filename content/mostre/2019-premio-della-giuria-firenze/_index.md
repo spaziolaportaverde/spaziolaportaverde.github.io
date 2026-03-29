@@ -8,7 +8,7 @@ type: "premio"
 images:
 - attestato.jpg
 draft: false
----
+theme: riconoscimento---
 
 **Premium International Florence Seven Stars - Edizione 2019**
 

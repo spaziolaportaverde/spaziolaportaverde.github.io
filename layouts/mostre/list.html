@@ -5,7 +5,8 @@
         <header class="page-header{{ if $bg }} page-header--with-bg{{ end }}"{{ if $bg }} style="background-image: url('{{ $bg }}'); background-size: cover; background-position: center; background-repeat: no-repeat;"{{ end }}>
             <h1>{{ .Title }}</h1>
         </header>
-        <div class="content">
+        {{ partial "theme-filter.html" (dict "pages" .Sections "gridId" "mostre-grid") }}
+        <div class="content" id="mostre-grid">
             {{ .Content }}
         </div>
     </div>

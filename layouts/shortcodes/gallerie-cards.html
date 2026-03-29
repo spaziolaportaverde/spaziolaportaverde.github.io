@@ -1,7 +1,7 @@
 <div class="mostre-cards-grid">
     {{ $gallerieSection := .Site.GetPage "/gallerie" }}
     {{ range $gallerieSection.Sections.ByDate.Reverse }}
-    <a href="{{ .Permalink }}" class="mostre-card">
+    <a href="{{ .Permalink }}" class="mostre-card"{{ with .Params.theme }} data-theme="{{ lower (trim . " ") }}"{{ end }}>
         <div class="mostre-card__image-wrapper">
             {{ $img := "" }}
             {{ if .Params.images }}

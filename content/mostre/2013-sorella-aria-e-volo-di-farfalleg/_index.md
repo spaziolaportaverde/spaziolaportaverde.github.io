@@ -11,7 +11,7 @@ images:
 - danza_aria.jpg
 - volo_farfalle.jpg
 draft: false
----
+theme: natura---
 
 Quest'anno, il 2013, è stato dedicato dall'Europa all'ARIA. Il 6 giugno presso lo Spazio La Porta Verde è stata inaugurata una mostra di opere dedicate a questo prezioso elemento, a cui non dedichiamo mai abbastanza attenzione.
 

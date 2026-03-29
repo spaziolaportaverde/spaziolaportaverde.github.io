@@ -1,4 +1,16 @@
 {{ define "main" }}
+{{ $bg := resources.Get "images/lo_spazio.jpeg" }}
+<style>
+    .hero {
+        --bg-img: url('{{ $bg.RelPermalink }}');
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), var(--bg-img);
+    }
+    @media (prefers-color-scheme: dark) {
+        .hero {
+            background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), var(--bg-img);
+        }
+    }
+</style>
 <section class="hero">
     <div class="hero-content">
         <h1>Spazio La Porta Verde</h1>

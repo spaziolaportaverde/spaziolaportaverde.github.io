@@ -12,7 +12,7 @@ images:
 - l-insostenibile-dinamismo-del-mare.jpg
 - venere-del-mare.jpg
 draft: false
----
+theme: mare---
 
 Il Centro Culturale "Spazio La Porta Verde" di Gabriella Ventavoli compie 10 anni, e li festeggia con una mostra, interamente dedicata al mare e alla sacralità della vita, visitabile a partire dal 4 marzo su appuntamento.
 

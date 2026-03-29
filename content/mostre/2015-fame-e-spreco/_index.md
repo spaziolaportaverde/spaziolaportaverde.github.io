@@ -8,7 +8,7 @@ type: "collettiva"
 images:
   - "la-fame-e-la-violenza.jpg"
 draft: false
----
+theme: ambiente---
 
 In occasione del grande evento EXPO a Milano la Galleria "**Sabrina Falzone**" ha presentato l'esposizione d'arte contemporanea sul tema "**Fame e Spreco**", legandosi al tema ufficiale dell'Expo Universale "*Nutrire il Pianeta, Energia per la Vita*".
 

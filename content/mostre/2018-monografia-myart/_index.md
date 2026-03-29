@@ -8,7 +8,7 @@ type: "pubblicazione"
 images:
 - myart.jpg
 draft: false
----
+theme: arte---
 
 Monografia MyArt 2018 - Progetto "Italiani".
 

@@ -356,3 +356,40 @@ document.addEventListener('DOMContentLoaded', function () {
         resetZoom();
     }
 });
+
+// ── Theme filter ──────────────────────────────────────────────────────────────
+document.querySelectorAll('.theme-filter').forEach(function (filterBar) {
+    const gridId = filterBar.dataset.grid;
+    const grid = gridId ? document.getElementById(gridId) : null;
+
+    filterBar.querySelectorAll('.theme-filter__btn').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+            const theme = btn.dataset.theme;
+
+            // Update active button
+            filterBar.querySelectorAll('.theme-filter__btn').forEach(function (b) {
+                b.classList.remove('active');
+            });
+            btn.classList.add('active');
+
+            // Show/hide cards
+            const cards = grid
+                ? grid.querySelectorAll('.mostre-card')
+                : document.querySelectorAll('.mostre-card');
+
+            cards.forEach(function (card) {
+                if (theme === '*') {
+                    card.classList.remove('theme-hidden');
+                } else {
+                    const cardTheme = (card.dataset.theme || '').toLowerCase().trim();
+                    if (cardTheme === theme) {
+                        card.classList.remove('theme-hidden');
+                    } else {
+                        card.classList.add('theme-hidden');
+                    }
+                }
+            });
+        });
+    });
+});
+

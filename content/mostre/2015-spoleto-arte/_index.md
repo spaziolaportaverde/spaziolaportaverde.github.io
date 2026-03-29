@@ -8,7 +8,7 @@ type: "collettiva"
 images:
 - logo.png
 draft: false
----
+theme: arte---
 
 Si riconferma anche per l'edizione 2015 il grande successo di "Spoleto Arte" a cura del Prof. Vittorio Sgarbi. Inaugurata Sabato 27 Giugno con un evento di forte risonanza mediatica in un affollatissimo Palazzo Leti Sansi, nel cuore di Spoleto.
 

@@ -8,7 +8,7 @@ type: "personale"
 images:
   - "vista-1.jpg"
 draft: false
----
+theme: natura---
 
 L'8 maggio 2015, nei locali dello spazio culturale "**La Porta Verde**", in concomitanza con l'apertura di EXPO 2015, si è inaugurata una mostra, dal titolo "**Natura Naturans**", ideale prolungamento di "L'Ultima Cena", svoltasi in Gennaio, in cui vengono trattati temi relativi a Madre Natura, alla sua importanza per noi umani, ma anche la delicatezza del suo equilibrio e la precarietà della situazione attuale.
 

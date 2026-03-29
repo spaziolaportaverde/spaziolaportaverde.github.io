@@ -1,0 +1,27 @@
+{{/* theme-filter.html
+     Usage: {{ partial "theme-filter.html" (dict "pages" .Pages "gridId" "mostre-grid") }}
+     Collects unique themes from .pages and renders filter buttons.
+     When a button is clicked, JS filters cards by data-theme attribute.
+*/}}
+{{ $pages := .pages }}
+{{ $gridId := .gridId | default "cards-grid" }}
+
+{{ $themes := slice }}
+{{ range $pages }}
+  {{ with .Params.theme }}
+    {{ $t := lower (trim . " ") }}
+    {{ if not (in $themes $t) }}
+      {{ $themes = $themes | append $t }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $themes = sort $themes }}
+
+{{ if gt (len $themes) 1 }}
+<div class="theme-filter" data-grid="{{ $gridId }}" role="group" aria-label="Filtra per tema">
+  <button class="theme-filter__btn active" data-theme="*" id="filter-tutti">Tutti</button>
+  {{ range $themes }}
+  <button class="theme-filter__btn" data-theme="{{ . }}" id="filter-{{ . }}">{{ . | title }}</button>
+  {{ end }}
+</div>
+{{ end }}

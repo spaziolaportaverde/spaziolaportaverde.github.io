@@ -8,7 +8,7 @@ type: "personale"
 images:
   - "l-ultima-cena-polittico.jpg"
 draft: false
----
+theme: spiritualita---
 
 Il 24 Gennaio 2015 è stata inaugurata una personale della pittrice Gabriella Ventavoli, dal titolo "L'ULTIMA CENA", curata dal Prof. Carlo Franza.
 

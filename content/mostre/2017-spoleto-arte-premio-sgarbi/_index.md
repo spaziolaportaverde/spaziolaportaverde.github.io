@@ -17,7 +17,7 @@ images:
 - la-vita-dal-mare.jpg
 - le-pescatrici-di-perle.jpg
 draft: false
----
+theme: riconoscimento---
 
 Nella splendida cornice della grande sala del Palazzo Leti Sansi, a Spoleto, si è svolta la videoproiezione delle opere esposte nelle varie ali del palazzo. La pittrice Gabriella Ventavoli era presente con sette opere di grande formato, accolte molto favorevolmente dalla critica, tanto da meritare l'ambito **Premio Sgarbi**.
 
