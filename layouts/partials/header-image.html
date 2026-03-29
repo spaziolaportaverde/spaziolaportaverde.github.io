@@ -11,9 +11,11 @@
     {{ $paths := slice 
         (printf "images/%s/istantanee/%s" $dir $firstImg)
         (printf "images/%s/galleria/%s" $dir $firstImg)
+        (printf "images/%s/opere/%s" $dir $firstImg)
         (printf "images/%s/%s" $dir $firstImg)
         (printf "images/%s/%s/istantanee/%s" $section $slug $firstImg)
         (printf "images/%s/%s/galleria/%s" $section $slug $firstImg)
+        (printf "images/%s/%s/opere/%s" $section $slug $firstImg)
         (printf "images/%s/%s" $section $firstImg)
         (printf "images/%s" $firstImg)
     }}
