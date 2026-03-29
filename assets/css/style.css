@@ -680,9 +680,9 @@ img {
     position: relative;
     margin: var(--spacing-lg) 0;
     padding: var(--spacing-lg) var(--spacing-md) var(--spacing-lg) calc(var(--spacing-lg) + 10px);
-    background: linear-gradient(135deg, var(--color-primary-dark) 0%, var(--color-primary) 100%);
+    background: linear-gradient(135deg, #f4f2ee 0%, #e8e6e1 100%);
     border-left: 6px solid var(--color-accent);
-    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.06);
     border-radius: 4px;
     overflow: hidden;
 }
@@ -730,7 +730,7 @@ img {
     font-style: italic;
     font-weight: 400;
     line-height: 1.9;
-    color: var(--color-white);
+    color: var(--color-text);
     position: relative;
     z-index: 1;
 }

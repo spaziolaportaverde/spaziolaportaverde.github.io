@@ -25,19 +25,8 @@ La Porta Verde rappresenta lo spazio artistico perfetto per ricondurre l'arte a 
 ... Non per questo, però, sarebbe assurdo considerare la Ventavoli una vorticista, perché nella sua pittura il vortice, inteso come groviglio di energia grafica e cromatica che si manifesta nel pieno del suo crepitio generatore, oppure come liberazione di dinamismi poietici...
 {{< /critic-review >}}
 
-## Opere in Esposizione
+##Opere esposte
+{{< gallery dir="images/mostre/2023-per-amore-del-mare/opere" >}}
 
-![Le Pescatrici di Perle](/images/mostre/2023-per-amore-del-mare/le-pescatrici-di-perle.jpg)
-**Le Pescatrici di Perle**
-
-![Fondo Marino](/images/mostre/2023-per-amore-del-mare/fondo-marino.jpg)
-**Fondo Marino**
-
-![Il Mistero del Mare](/images/mostre/2023-per-amore-del-mare/il-mistero-del-mare.jpg)
-**Il Mistero del Mare**
-
-![L'Insostenibile Dinamismo del Mare](/images/mostre/2023-per-amore-del-mare/l-insostenibile-dinamismo-del-mare.jpg)
-**L'Insostenibile Dinamismo del Mare**
-
-![Venere del Mare](/images/mostre/2023-per-amore-del-mare/venere-del-mare.jpg)
-**Venere del Mare**
+## Istantanee dell'evento
+{{< gallery dir="images/mostre/2023-per-amore-del-mare/istantanee" >}}
