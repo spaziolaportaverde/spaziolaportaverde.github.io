@@ -1,45 +1,47 @@
 {{ $src := .src }}
 {{ $alt := .alt | default "" }}
 {{ $class := .class | default "" }}
-{{ $sizes := .sizes | default "(max-width: 800px) 100vw, 800px" }}
+{{ $sizes := .sizes | default "(max-width: 800px) 100vw, 1200px" }}
 
-{{/* Clean URLs to safely isolate local paths irrespective of dev/prod domains */}}
-{{ $cleanSrc := $src }}
-{{ $baseURL := site.BaseURL }}
-{{ if hasPrefix $cleanSrc $baseURL }}
-    {{ $cleanSrc = strings.TrimPrefix $baseURL $cleanSrc }}
-{{ end }}
-{{ if hasPrefix $cleanSrc "http://localhost:1313/" }}
-    {{ $cleanSrc = replaceRE "^http://localhost:1313(/spaziolaportaverde\\.it)?/" "/" $cleanSrc }}
-{{ end }}
-{{ if hasPrefix $cleanSrc "/spaziolaportaverde.it/" }}
-    {{ $cleanSrc = strings.TrimPrefix "/spaziolaportaverde.it" $cleanSrc }}
-{{ end }}
+{{/* Clean up the source path to be relative to the assets directory */}}
+{{/* Most assets are moved to assets/images/... */}}
+{{ $cleanSrc := $src | strings.TrimPrefix "static/" | strings.TrimPrefix "/" }}
 
-{{ $srcset := "" }}
-{{ $isLocal := and (not (hasPrefix $cleanSrc "http")) (not (hasPrefix $cleanSrc "//")) }}
+{{/* Check if it's a local resource in assets */}}
+{{ $img := resources.Get $cleanSrc }}
 
-{{/* Do not generate srcset variants if the source is already a scaled variant */}}
-{{ if and $isLocal (findRE "-[0-9]+w\\." $cleanSrc) }}
-    {{ $isLocal = false }}
+{{/* If not found directly, try prefixing with images/ just in case */}}
+{{ if not $img }}
+    {{ $img = resources.Get (printf "images/%s" (strings.TrimPrefix "images/" $cleanSrc)) }}
 {{ end }}
 
-{{ if $isLocal }}
-    {{ $extSrc := replaceRE "^/+" "" $cleanSrc }}
-    {{ $ext := index (findRE "\\.[^.]+$" $extSrc) 0 | default "" }}
+{{ if $img }}
+    {{/* Process WebP variants */}}
+    {{ $webp800 := $img.Resize "800x webp" }}
+    {{ $webp1200 := $img.Resize "1200x webp" }}
+    {{ $webpOriginal := $img.Process "webp" }}
     
-    {{ if ne $ext "" }}
-        {{ $base := replace $cleanSrc $ext "" }}
-        {{ $src800 := printf "%s-800w%s" $base $ext }}
-        {{ $src1200 := printf "%s-1200w%s" $base $ext }}
-
-        {{ $srcset = printf "%s 800w, %s 1200w, %s 1920w" ($src800 | relURL) ($src1200 | relURL) ($cleanSrc | relURL) }}
-    {{ end }}
+    {{/* Process fallback variants (JPG/PNG) */}}
+    {{ $fallback800 := $img.Resize "800x" }}
+    {{ $fallback1200 := $img.Resize "1200x" }}
+    
+    <picture>
+        <source srcset="{{ $webp800.RelPermalink }} 800w, {{ $webp1200.RelPermalink }} 1200w, {{ $webpOriginal.RelPermalink }} {{ $img.Width }}w" 
+                type="image/webp" 
+                sizes="{{ $sizes }}">
+        <img src="{{ $fallback1200.RelPermalink }}" 
+             srcset="{{ $fallback800.RelPermalink }} 800w, {{ $fallback1200.RelPermalink }} 1200w, {{ $img.RelPermalink }} {{ $img.Width }}w" 
+             sizes="{{ $sizes }}" 
+             alt="{{ $alt }}" 
+             class="{{ $class }}" 
+             loading="lazy" 
+             decoding="async">
+    </picture>
+{{ else }}
+    {{/* Fallback for external or missing images */}}
+    <img src="{{ $src | relURL }}" 
+         alt="{{ $alt }}" 
+         class="{{ $class }}" 
+         loading="lazy" 
+         decoding="async">
 {{ end }}
-
-<img src="{{ if $isLocal }}{{ $cleanSrc | relURL }}{{ else }}{{ $src }}{{ end }}" 
-     {{ if $srcset }}srcset="{{ $srcset }}"{{ end }} 
-     sizes="{{ $sizes }}" 
-     alt="{{ $alt }}" 
-     class="{{ $class }}" 
-     loading="lazy">

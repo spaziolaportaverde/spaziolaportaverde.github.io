@@ -1,15 +1,23 @@
 {{ $dir := .Get "dir" }}
-{{ $files := readDir (printf "static/%s" $dir) }}
+{{/* Clean up the directory path to be relative to assets/ */}}
+{{ $assetDir := $dir | strings.TrimPrefix "static/" | strings.TrimPrefix "/" }}
+{{ $files := resources.Match (printf "%s/*" $assetDir) }}
 {{ $contentDir := replace $dir "images/" "" }}
+
 <div class="gallery-scroll">
   <div class="gallery-track">
     {{ range $files }}
-      {{ $isScaled := findRE "-[0-9]+w\\." .Name }}
-      {{ if and (not .IsDir) (findRE "\\.(jpg|jpeg|png|gif|webp)$" (lower .Name)) (not $isScaled) }}
+      {{ if findRE "\\.(jpg|jpeg|png|gif|webp)$" (lower .Name) }}
         {{ $baseName := replaceRE "\\.[^.]+$" "" .Name }}
-        {{ $captionFile := printf "content/%s/%s.txt" $contentDir $baseName }}
+        {{/* .Name in resources includes the directory, e.g. images/opere/image.jpg */}}
+        {{/* We want the base name without directory for the caption file lookup */}}
+        {{ $fileName := last 1 (split .Name "/") | index 0 }}
+        {{ $pureBaseName := replaceRE "\\.[^.]+$" "" $fileName }}
+        
+        {{ $captionFile := printf "content/%s/%s.txt" $contentDir $pureBaseName }}
         {{ $caption := "" }}
-        {{ $altText := replaceRE "[-_]" " " $baseName | title }}
+        {{ $altText := replaceRE "[-_]" " " $pureBaseName | title }}
+        
         {{ if fileExists $captionFile }}
           {{ $caption = trim (readFile $captionFile) "\n" }}
           {{ $match := findRE "(?im)^(Titolo|Title):\\s*(.+)" $caption 1 }}
@@ -21,9 +29,9 @@
             {{ if gt (len $first) 0 }}{{ $altText = $first }}{{ end }}
           {{ end }}
         {{ end }}
-        {{ $imgPath := printf "%s/%s" $dir .Name }}
+        
         <div class="gallery-item"{{ if $caption }} data-caption="{{ $caption | safeHTMLAttr }}"{{ end }}>
-          {{ partial "responsive-image.html" (dict "src" $imgPath "alt" $altText "class" "gallery-img" "sizes" "(max-width: 768px) 100vw, 50vw") }}
+          {{ partial "responsive-image.html" (dict "src" .Name "alt" $altText "class" "gallery-img" "sizes" "(max-width: 768px) 100vw, 50vw") }}
         </div>
       {{ end }}
     {{ end }}
