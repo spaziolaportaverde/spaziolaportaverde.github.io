@@ -9,14 +9,17 @@
             {{ $slug := .File.ContentBaseName }}
             {{ $path1 := printf "images/gallerie/%s/istantanee/%s" $slug $firstImg }}
             {{ $path2 := printf "images/gallerie/%s/galleria/%s" $slug $firstImg }}
-            {{ $path3 := printf "images/gallerie/%s/%s" $slug $firstImg }}
+            {{ $path3 := printf "images/gallerie/%s/opere/%s" $slug $firstImg }}
+            {{ $path4 := printf "images/gallerie/%s/%s" $slug $firstImg }}
 
-            {{ if (fileExists (printf "static/%s" $path1)) }}
+            {{ if (resources.Get $path1) }}
             {{ $img = $path1 }}
-            {{ else if (fileExists (printf "static/%s" $path2)) }}
+            {{ else if (resources.Get $path2) }}
             {{ $img = $path2 }}
-            {{ else if (fileExists (printf "static/%s" $path3)) }}
+            {{ else if (resources.Get $path3) }}
             {{ $img = $path3 }}
+            {{ else if (resources.Get $path4) }}
+            {{ $img = $path4 }}
             {{ else if (hasPrefix $firstImg "http") }}
             {{ $img = $firstImg }}
             {{ else if (hasPrefix $firstImg "/") }}
