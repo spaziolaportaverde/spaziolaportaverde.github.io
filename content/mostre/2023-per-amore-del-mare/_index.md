@@ -6,11 +6,10 @@ location: "Milano"
 year: 2023
 type: "personale"
 images:
-- le-pescatrici-di-perle.jpg
-- fondo-marino.jpg
 - il-mistero-del-mare.jpg
+- creature-dal-mare.jpg
+- fondo-marino.jpg
 - l-insostenibile-dinamismo-del-mare.jpg
-- il-listero-del-mare.jpg
 draft: false
 theme: mare
 ---
