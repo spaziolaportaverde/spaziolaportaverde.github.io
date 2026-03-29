@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         const item = currentGalleryItems[currentIndex];
         const img = item.querySelector('img');
-        lightboxImg.src = img.src;
+        lightboxImg.src = item.dataset.fullSrc || img.src;
         lightboxImg.alt = img.alt;
         const captionRaw = item.dataset.caption;
         

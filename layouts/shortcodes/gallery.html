@@ -42,7 +42,7 @@
           {{ end }}
         {{ end }}
         
-        <div class="gallery-item"{{ if $caption }} data-caption="{{ $caption | safeHTMLAttr }}"{{ end }}>
+        <div class="gallery-item" data-full-src="{{ .RelPermalink }}"{{ if $caption }} data-caption="{{ $caption | safeHTMLAttr }}"{{ end }}>
           {{ partial "responsive-image.html" (dict "src" .Name "alt" $altText "class" "gallery-img" "sizes" "(max-width: 768px) 100vw, 50vw") }}
         </div>
       {{ end }}
