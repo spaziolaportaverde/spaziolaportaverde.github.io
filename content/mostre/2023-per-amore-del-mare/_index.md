@@ -10,7 +10,7 @@ images:
 - fondo-marino.jpg
 - il-mistero-del-mare.jpg
 - l-insostenibile-dinamismo-del-mare.jpg
-- venere-del-mare.jpg
+- il-listero-del-mare.jpg
 draft: false
 theme: mare
 ---
@@ -25,7 +25,7 @@ La Porta Verde rappresenta lo spazio artistico perfetto per ricondurre l'arte a 
 ... Non per questo, però, sarebbe assurdo considerare la Ventavoli una vorticista, perché nella sua pittura il vortice, inteso come groviglio di energia grafica e cromatica che si manifesta nel pieno del suo crepitio generatore, oppure come liberazione di dinamismi poietici...
 {{< /critic-review >}}
 
-##Opere esposte
+## Opere esposte
 {{< gallery dir="images/mostre/2023-per-amore-del-mare/opere" >}}
 
 ## Istantanee dell'evento
