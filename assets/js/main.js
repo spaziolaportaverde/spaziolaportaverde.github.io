@@ -325,28 +325,85 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 
-    // Touch swipe support
+    // Touch and Gesture support
+    let lastTap = 0;
+    let touchStartY = 0;
+
     lightbox.addEventListener('touchstart', (e) => {
-        touchStartX = e.changedTouches[0].screenX;
-    }, { passive: true });
+        if (!lightbox.classList.contains('active')) return;
+        
+        const now = Date.now();
+        const firstTouch = e.touches[0];
+        touchStartX = firstTouch.clientX;
+        touchStartY = firstTouch.clientY;
+        
+        // Double tap to zoom
+        if (now - lastTap < 300) {
+            e.preventDefault();
+            if (scale > 1) {
+                resetZoom();
+            } else {
+                scale = 2;
+                applyZoom();
+            }
+            lastTap = 0;
+            return;
+        }
+        lastTap = now;
+
+        if (scale > 1) {
+            isDragging = true;
+            startPanX = touchStartX - panX;
+            startPanY = touchStartY - panY;
+            lightboxImg.classList.add('grabbing');
+        }
+    }, { passive: false });
+
+    lightbox.addEventListener('touchmove', (e) => {
+        if (!lightbox.classList.contains('active')) return;
+        
+        if (scale > 1 && isDragging) {
+            e.preventDefault(); // Prevent scrolling/swiping when zoomed
+            const touch = e.touches[0];
+            panX = touch.clientX - startPanX;
+            panY = touch.clientY - startPanY;
+            applyZoom(false);
+        }
+    }, { passive: false });
 
     lightbox.addEventListener('touchend', (e) => {
-        touchEndX = e.changedTouches[0].screenX;
-        handleSwipe();
+        if (!lightbox.classList.contains('active')) return;
+        
+        if (scale > 1 && isDragging) {
+            isDragging = false;
+            lightboxImg.classList.remove('grabbing');
+            applyZoom(true);
+            return;
+        }
+
+        touchEndX = e.changedTouches[0].clientX;
+        const touchEndY = e.changedTouches[0].clientY;
+        handleGesture(touchStartX, touchStartY, touchEndX, touchEndY);
     }, { passive: true });
 
-    function handleSwipe() {
-        const swipeThreshold = 50;
-        const diff = touchStartX - touchEndX;
+    function handleGesture(startX, startY, endX, endY) {
+        if (scale > 1) return; // Already handled by panning
 
-        if (Math.abs(diff) > swipeThreshold) {
-            if (diff > 0) {
-                // Swipe left - next image
+        const threshold = 50;
+        const diffX = startX - endX;
+        const diffY = startY - endY;
+
+        // horizontal swipe
+        if (Math.abs(diffX) > Math.abs(diffY) && Math.abs(diffX) > threshold) {
+            if (diffX > 0) {
                 showImage(currentIndex + 1);
             } else {
-                // Swipe right - previous image
                 showImage(currentIndex - 1);
             }
+        } 
+        // vertical swipe to close
+        else if (Math.abs(diffY) > Math.abs(diffX) && Math.abs(diffY) > threshold) {
+            closeLightbox();
         }
     }
 
