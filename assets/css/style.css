@@ -569,6 +569,26 @@ main {
         padding: var(--spacing-sm) 0;
     }
 
+    /* Reset transparent header styles for the mobile dropdown since it has a white background */
+    .site-header.transparent-capable:not(.scrolled) .nav-menu .nav-item a {
+        color: var(--color-text) !important;
+        text-shadow: none !important;
+    }
+
+    .site-header.transparent-capable:not(.scrolled) .nav-menu .nav-item a::after {
+        background: var(--color-primary) !important;
+    }
+
+    .site-header.transparent-capable:not(.scrolled) .nav-menu .nav-item:hover a,
+    .site-header.transparent-capable:not(.scrolled) .nav-menu .nav-item.active a {
+        color: var(--color-primary) !important;
+    }
+
+    .site-header.transparent-capable:not(.scrolled) .nav-menu .nav-item:hover a::after,
+    .site-header.transparent-capable:not(.scrolled) .nav-menu .nav-item.active a::after {
+        background: var(--color-primary) !important;
+    }
+
     .footer-content {
         grid-template-columns: 1fr;
         text-align: center;
