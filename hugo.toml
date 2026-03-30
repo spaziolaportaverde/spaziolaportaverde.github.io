@@ -1,4 +1,4 @@
-baseURL = 'https://previ.github.io/spaziolaportaverde.it/'
+baseURL = '/'
 languageCode = 'it-it'
 title = 'Spazio La Porta Verde'
 canonifyURLs = true
