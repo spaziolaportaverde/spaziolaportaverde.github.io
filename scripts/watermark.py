@@ -333,6 +333,15 @@ def main() -> int:
         log.error("Both --no-visible and --no-invisible specified — nothing to do.")
         return 2
 
+    # --- Mode from Environment (WM_MODE) ---
+    wm_mode = os.environ.get("WM_MODE", "both").strip().lower()
+    if wm_mode == "invisible":
+        args.no_visible = True
+    elif wm_mode == "visible":
+        args.no_invisible = True
+    elif wm_mode != "both" and wm_mode != "":
+        log.warning("Unknown WM_MODE %r, defaulting to 'both'", wm_mode)
+
     if not args.no_invisible and not _imwatermark_available:
         log.error(
             "invisible-watermark is not installed.\n"

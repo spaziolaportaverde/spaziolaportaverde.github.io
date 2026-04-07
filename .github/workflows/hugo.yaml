@@ -57,6 +57,7 @@ jobs:
       - name: Apply watermarks
         env:
           WM_INVISIBLE_ID: ${{ secrets.WM_INVISIBLE_ID }}
+          WM_MODE: ${{ vars.WM_MODE || 'both' }}
         run: |
           python scripts/watermark.py \
             --text       "© Gabriella Ventavoli" \
