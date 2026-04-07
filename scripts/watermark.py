@@ -376,7 +376,19 @@ def main() -> int:
     import tempfile
     ok = 0
     fail = 0
+    skipped = 0
     for src in sources:
+        # Check dimensions before processing to avoid errors on small images
+        try:
+            with Image.open(src) as tmp_img:
+                w, h = tmp_img.size
+            if w < 256 or h < 256:
+                log.info("  ⚠ Skipped %s: too small (%dx%d < 256x256)", src.name, w, h)
+                skipped += 1
+                continue
+        except Exception:
+            pass  # Let process_file handle and log the actual read failure
+
         if inplace:
             # Write to a sibling temp file, then atomically replace the original
             tmp_fd, tmp_path = tempfile.mkstemp(
@@ -413,7 +425,7 @@ def main() -> int:
             fail += 1
 
     # --- Summary ---
-    log.info("Done — %d succeeded, %d failed.", ok, fail)
+    log.info("Done — %d succeeded, %d failed, %d skipped.", ok, fail, skipped)
     return 0 if fail == 0 else 1
 
 

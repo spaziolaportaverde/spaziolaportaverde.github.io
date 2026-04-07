@@ -32,27 +32,31 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      # ImageMagick, Python deps and fonts in a single apt round-trip
-      - name: Install build dependencies
+      - name: Install system dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends \
             imagemagick \
             fonts-liberation
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        run: |
           pip install --quiet \
             "Pillow>=10.0.0" \
             "numpy>=1.24.0" \
             "invisible-watermark>=0.1.5"
 
       # Watermark source JPEGs in-place BEFORE Hugo and the image processing
-      # script consume them. Hugo will then generate its WebP/responsive
+      # pipeline consume them. Hugo will then generate its WebP/responsive
       # variants from the already-watermarked originals.
-      # The script skips files whose names already contain -800w, -1200w, _wm
-      # so re-runs are safe and cached derivative images are never touched.
       - name: Apply watermarks
         env:
           WM_INVISIBLE_ID: ${{ secrets.WM_INVISIBLE_ID }}
-        continue-on-error: true
         run: |
           python scripts/watermark.py \
             --text       "© Gabriella Ventavoli" \
@@ -63,7 +67,7 @@ jobs:
             --quality    88                       \
             --inplace                             \
             assets/images/ \
-            assets/images/   # ignored when --inplace is set, kept for clarity
+            assets/images/
 
       - name: Cache Hugo resources
         uses: actions/cache@v4
