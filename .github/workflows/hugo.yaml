@@ -60,7 +60,7 @@ jobs:
           WM_MODE: ${{ vars.WM_MODE || 'both' }}
         run: |
           python scripts/watermark.py \
-            --text       "© Gabriella Ventavoli" \
+            --text       "© Spazio La Porta Verde" \
             --opacity    45                       \
             --font-size  28                       \
             --angle      -30                      \
