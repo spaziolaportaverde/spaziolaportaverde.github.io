@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - main
   workflow_dispatch:
 
 permissions:
@@ -22,9 +22,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-          lfs: true        # Fetch LFS files
+          submodules: true
+          fetch-depth: 0
+          lfs: true
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -32,8 +32,43 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Install ImageMagick
-        run: sudo apt-get update && sudo apt-get install -y imagemagick
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            imagemagick \
+            fonts-liberation
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        run: |
+          pip install --quiet \
+            "Pillow>=10.0.0" \
+            "numpy>=1.24.0" \
+            "invisible-watermark>=0.1.5"
+
+      # Watermark source JPEGs in-place BEFORE Hugo and the image processing
+      # pipeline consume them. Hugo will then generate its WebP/responsive
+      # variants from the already-watermarked originals.
+      - name: Apply watermarks
+        env:
+          WM_INVISIBLE_ID: ${{ secrets.WM_INVISIBLE_ID }}
+          WM_MODE: ${{ vars.WM_MODE || 'both' }}
+        run: |
+          python scripts/watermark.py \
+            --text       "© Spazio La Porta Verde" \
+            --opacity    45                       \
+            --font-size  28                       \
+            --angle      -30                      \
+            --invisible  "${WM_INVISIBLE_ID}"     \
+            --quality    88                       \
+            --inplace                             \
+            assets/images/ \
+            assets/images/
 
       - name: Cache Hugo resources
         uses: actions/cache@v4
@@ -52,11 +87,6 @@ jobs:
           key: ${{ runner.os }}-processed-images-${{ hashFiles('assets/images/**') }}
           restore-keys: |
             ${{ runner.os }}-processed-images-
-
-      - name: Process Images On-The-Fly
-        run: |
-          chmod +x scripts/process_images.sh
-          ./scripts/process_images.sh
 
       - name: Build
         run: hugo --minify
