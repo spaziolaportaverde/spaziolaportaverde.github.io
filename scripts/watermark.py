@@ -262,7 +262,7 @@ def process_file(
             save_kwargs["exif"] = exif
 
         img.save(dst, **save_kwargs)
-        if inplace:
+        if dst.name.startswith(".wm_tmp_"):
             log.info("  ✓ Processed %s", src.name)
         else:
             log.info("  ✓ %s → %s", src.name, dst.name)
