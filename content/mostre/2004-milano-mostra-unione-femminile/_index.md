@@ -13,6 +13,9 @@ theme: donne
 
 Descrizione della mostra
 
-{{<gallery images="Africa.jpg,Amazzonia.jpg,Bosco.jpg,crocifissione-della-natura.jpg" >}}
+## Opere esposte (esempio)
+{{<gallery images="images/gallerie/esempio/galleria/opera-1.jpg,images/gallerie/esempio/galleria/opera-2.jpg,images/gallerie/esempio/galleria/opera-3.jpg" >}}
+
+## Istantanee della mostra
 
 {{<gallery dir="images/mostre/2004-milano-mostra-unione-femminile/istantanee" >}}
