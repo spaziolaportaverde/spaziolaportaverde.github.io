@@ -1,5 +1,38 @@
 ---
-title: "Trasfigurazioni Al Femminile"
+images:
+- 0001_Danzatrice.JPG
+- 0007_La speranza.JPG
+- 0010_La sposa afghana bilanciato.jpg
+- 0011_La sposa del guerriero.jpg
+- 0012_La partenza dl soldato.JPG
+- 0025_Maternità.JPG
+- 0026_Il dialogo.JPG
+- 0033_Burka.JPG
+- 0035_Torera 2.JPG
+- 0036_Il sogno.jpg
+- 0038_Armonia.JPG
+- 0039_Fanciulle al mare.JPG
+- 0043_Maternità araba.JPG
+- 0044_Donne nell_ombra.JPG
+- 0052_Creatività.JPG
+- 0079_Figure danzanti.JPG
+- 0085 Quando l_amore ferisce.jpg
+- 0091_Donna sul divano rosso.JPG
+- 0092_La torera 3.JPG
+- 0093_Il pianto di Olimpia.jpg
+- 0097_Maternità.JPG
+- 0116_torera1.jpg
+- 0123_Il velo della sposa.jpg
+- 0140_Canto di donna.jpg
+- 0143_Arabe.JPG
+- 0169_Le amiche DSC01916.JPG
+- 0172_DSC01919_Donna seduta.JPG
+- 0173_DSC01920_L_annunciazione.JPG
+- 0176_Maternità DSC01923.JPG
+- 0177_ Pietà 2.JPG
+- 0186_Malala.jpg
+- 0254_Venere 3000.JPG
+- 0346_.jpg
+title: Trasfigurazioni Al Femminile
 ---
-
 {{< gallery dir="images/gallerie/trasfigurazioni-al-femminile" >}}
