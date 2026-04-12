@@ -36,7 +36,7 @@ canonifyURLs = true
         weight = 40
     [[menu.main]]
         identifier = "mostre"
-        name = "Mostre"
+        name = "Mostre ed Eventi"
         url = "mostre/"
         weight = 50
     [[menu.main]]
@@ -44,11 +44,6 @@ canonifyURLs = true
         name = "Gallerie"
         url = "gallerie/"
         weight = 52
-    [[menu.main]]
-        identifier = "eventi"
-        name = "Eventi"
-        url = "eventi/"
-        weight = 55
     [[menu.main]]
         identifier = "contatti"
         name = "Contatti"

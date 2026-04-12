@@ -1,8 +1,8 @@
 ---
-title: "Mostre"
-description: "Le mostre personali e collettive di Gabriella Ventavoli"
+title: "Mostre ed Eventi"
+description: "Le mostre personali, collettive ed eventi di Gabriella Ventavoli"
 ---
 
-Le mostre personali e collettive organizzate dallo Spazio La Porta Verde.
+Le mostre personali, collettive ed eventi organizzati dallo Spazio La Porta Verde.
 
-{{< mostre-cards exclude="premio,riconoscimento,media" >}}
+{{< mostre-cards >}}
