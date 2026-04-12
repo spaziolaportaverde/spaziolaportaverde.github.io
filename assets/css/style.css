@@ -1098,10 +1098,9 @@ img {
 .lightbox-controls {
     position: absolute;
     top: 20px;
-    left: 50%;
-    transform: translateX(-50%);
+    right: 120px; /* Positioned to the left of the close button */
     display: flex;
-    gap: 15px;
+    gap: 10px;
     z-index: 10001;
 }
 

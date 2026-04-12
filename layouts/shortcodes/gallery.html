@@ -1,37 +1,68 @@
 {{ $dir := .Get "dir" }}
-{{/* Clean up the directory path to be relative to assets/ */}}
-{{ $assetDir := $dir | strings.TrimPrefix "static/" | strings.TrimPrefix "/" }}
-{{ $files := resources.Match (printf "%s/*" $assetDir) }}
-{{ $contentDir := replace $dir "images/" "" }}
+{{ $imagesParam := .Get "images" }}
+{{ $files := slice }}
+
+{{ if $dir }}
+  {{/* Clean up the directory path to be relative to assets/ */}}
+  {{ $assetDir := $dir | strings.TrimPrefix "static/" | strings.TrimPrefix "/" }}
+  {{ $files = resources.Match (printf "%s/*" $assetDir) }}
+{{ end }}
+
+{{ if $imagesParam }}
+  {{ $imageList := split $imagesParam "," }}
+  {{ range $img := $imageList }}
+    {{ $imgPath := trim $img " " }}
+    {{ $imgPath = $imgPath | strings.TrimPrefix "static/" | strings.TrimPrefix "/" }}
+    {{ $res := resources.Get $imgPath }}
+    {{ if $res }}
+      {{ $files = $files | append $res }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 
 <div class="gallery-scroll">
   <div class="gallery-track">
     {{ range $files }}
       {{ if and (findRE "\\.(jpg|jpeg|png|gif|webp)$" (lower .Name)) (not (findRE "-(800|1200)w\\." (lower .Name))) }}
-        {{ $baseName := replaceRE "\\.[^.]+$" "" .Name }}
         {{/* .Name in resources includes the directory, e.g. images/opere/image.jpg */}}
-        {{/* We want the base name without directory for the caption file lookup */}}
         {{ $fileName := index (last 1 (split .Name "/")) 0 }}
         {{ $pureBaseName := replaceRE "\\.[^.]+$" "" $fileName }}
-        
-        {{ $captionFile := "" }}
-        {{ $c1 := printf "content/%s/%s.txt" $contentDir $pureBaseName }}
-        {{ $c2 := printf "content/%s/%s.txt" $contentDir (replace $pureBaseName " " "_") }}
-        {{ $parentDir := replaceRE "/[^/]+/?$" "" $contentDir }}
-        {{ $c3 := printf "content/%s/%s.txt" $parentDir $pureBaseName }}
-        {{ $c4 := printf "content/%s/%s.txt" $parentDir (replace $pureBaseName " " "_") }}
-        
-        {{ if fileExists $c1 }}{{ $captionFile = $c1 }}
-        {{ else if fileExists $c2 }}{{ $captionFile = $c2 }}
-        {{ else if fileExists $c3 }}{{ $captionFile = $c3 }}
-        {{ else if fileExists $c4 }}{{ $captionFile = $c4 }}
-        {{ end }}
         
         {{ $caption := "" }}
         {{ $altText := replaceRE "[-_]" " " $pureBaseName | title }}
         
-        {{ if and (ne $captionFile "") (fileExists $captionFile) }}
-          {{ $caption = trim (readFile $captionFile) "\n" }}
+        {{/* 1. Try centralized database (data/captions.yaml) */}}
+        {{ if isset site.Data "captions" }}
+          {{ if isset site.Data.captions $pureBaseName }}
+            {{ $caption = index site.Data.captions $pureBaseName }}
+          {{ end }}
+        {{ end }}
+        
+        {{/* 2. Fallback to local .txt files */}}
+        {{ if eq $caption "" }}
+          {{ $imgDir := path.Dir .Name }}
+          {{ $contentDir := replace $imgDir "images/" "" }}
+          {{ $contentDir = replace $contentDir "images" "" | strings.TrimPrefix "/" }}
+          
+          {{ $captionFile := "" }}
+          {{ $c1 := printf "content/%s/%s.txt" $contentDir $pureBaseName }}
+          {{ $c2 := printf "content/%s/%s.txt" $contentDir (replace $pureBaseName " " "_") }}
+          {{ $parentDir := replaceRE "/[^/]+/?$" "" $contentDir }}
+          {{ $c3 := printf "content/%s/%s.txt" $parentDir $pureBaseName }}
+          {{ $c4 := printf "content/%s/%s.txt" $parentDir (replace $pureBaseName " " "_") }}
+          
+          {{ if fileExists $c1 }}{{ $captionFile = $c1 }}
+          {{ else if fileExists $c2 }}{{ $captionFile = $c2 }}
+          {{ else if fileExists $c3 }}{{ $captionFile = $c3 }}
+          {{ else if fileExists $c4 }}{{ $captionFile = $c4 }}
+          {{ end }}
+          
+          {{ if and (ne $captionFile "") (fileExists $captionFile) }}
+            {{ $caption = trim (readFile $captionFile) "\n" }}
+          {{ end }}
+        {{ end }}
+        
+        {{ if ne $caption "" }}
           {{ $match := findRE "(?im)^(Titolo|Title):\\s*(.+)" $caption 1 }}
           {{ if gt (len $match) 0 }}
             {{ $altText = trim (replaceRE "(?i)^(Titolo|Title):\\s*" "" (index $match 0)) "\r\n " }}
@@ -42,7 +73,7 @@
           {{ end }}
         {{ end }}
         
-        <div class="gallery-item" data-full-src="{{ .RelPermalink }}"{{ if $caption }} data-caption="{{ $caption | safeHTMLAttr }}"{{ end }}>
+        <div class="gallery-item" data-full-src="{{ .RelPermalink }}"{{ if ne $caption "" }} data-caption="{{ $caption | safeHTMLAttr }}"{{ end }}>
           {{ partial "responsive-image.html" (dict "src" .Name "alt" $altText "class" "gallery-img" "sizes" "(max-width: 768px) 100vw, 50vw") }}
         </div>
       {{ end }}
