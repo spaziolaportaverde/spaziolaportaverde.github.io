@@ -1,29 +1,19 @@
 ---
 title: "Ambiente e Salute"
-date: 2013-10-18
-description: "Mostra ispirata alle varie forme di contaminazione della natura"
+date: 2013-01-01
+description: "Mostra Ambiente e Salute a Arezzo, 2013."
 location: "Arezzo"
 year: 2013
+type: "personale"
 images:
-  - "palazzetto.jpg"
-type: "collettiva"
+- 1_DSC02190.JPG
+- 2_DSC02185.JPG
+- 3_DSC02186.JPG
 draft: false
 theme: ambiente
 ---
 
-Il 18 Ottobre 2013, in occasione delle 7.me Giornate Mediche dell'Ambiente, nelle quali ad Arezzo è stato promosso dalla sezione italiana dell'ISDE (International Society of Doctors for the Environment) un convegno sul tema: INQUINAMENTO ATMOSFERICO, Gabriella Ventavoli ha presentato nei locali del prestigio Palazzetto della Fraternita dei Laici una raccolta di opere ispirate all'ambiente e alle innumerevoli forme di aggressione e di inquinamento presenti nella società contemporanea.
+Ambiente e Salute a Arezzo, 2013.
 
-![Palazzetto della Fraternita](/images/mostre/2013-ambiente-e-salute/palazzetto.jpg)
-
-{{< critic-review author="Liletta Fornasari" >}}
-La 'pittura eterea' di Gabriella Ventavoli - Per comprendere il valore della pittura di Gabriella Ventavoli non si può prescindere da una obbligatoria considerazione iniziale relativa alla sua attività di medico e non a caso di medico ISDE. L'impegno da lei profuso in difesa dell'ambiente, da anni connesso all'analisi dell'interiorità umana, ha portato l'artista a creare un linguaggio caratterizzato da momenti di impalpabile sospensione attraverso l'uso molto bene pensato di fondi chiari.
-{{< /critic-review >}}
-
-## Galleria Opere
-
-{{< gallery dir="images/mostre/2013-ambiente-e-salute/galleria" >}}
-
-## Istantanee dell'Evento
-
-{{< gallery dir="images/mostre/2013-ambiente-e-salute/istantanee" >}}
-
+## Opere ed Istantanee
+{{< gallery dir="images/mostre/2013-ambiente-e-salute" >}}
