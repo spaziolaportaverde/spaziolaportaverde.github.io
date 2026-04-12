@@ -6,10 +6,10 @@ location: "Milano"
 year: 2023
 type: "personale"
 images:
-- il-mistero-del-mare.jpg
+- il-mistero-del-mare.jpeg
 - creature-dal-mare.jpg
-- fondo-marino.jpg
-- l-insostenibile-dinamismo-del-mare.jpg
+- fondo-marino.jpeg
+- l-insostenibile-dinamismo-del-mare.jpeg
 draft: false
 theme: mare
 ---

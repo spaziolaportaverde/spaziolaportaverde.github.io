@@ -5,7 +5,7 @@ description: "Mostra dedicata all'ecologia, in occasione dell'inaugurazione dell
 location: "Milano"
 year: 2013
 images:
-  - amazzonia.jpg
+  - amazzonia.jpeg
 type: "personale"
 draft: false
 theme: ambiente
@@ -25,67 +25,67 @@ Il progetto espositivo nasce e si sviluppa intorno a questi elementi principali.
 
 ## Opere in Esposizione
 
-![Africa](/images/mostre/2013-ambiente-e-vita/africa.jpg)
+![Africa](/images/mostre/2013-ambiente-e-vita/africa.jpeg)
 
 ### AFRICA
 
 La Terra è rappresentata dall'Africa, madre arcaica di straordinaria bellezza ed emblema di profonde sofferenze. L'Africa è raffigurata attraverso una figura femminile, distesa e sofferente ma che riesce ancora ad esprimere, pur nel dolore, la bellezza del continente stesso attraverso gli accesi colori delle vesti e l'innata eleganza tipica delle donne africane. L'universo femminile sa conservare anche in condizioni estreme l'armonia e la bellezza ma sa anche denunciare con forza la crudeltà nel porre in essere lotte cruente tra gruppi contrapposti mettendo a repentaglio la propria sopravvivenza.
 
-![Amazzonia](/images/mostre/2013-ambiente-e-vita/amazzonia.jpg)
+![Amazzonia](/images/mostre/2013-ambiente-e-vita/amazzonia.jpeg)
 
 ### AMAZZONIA
 
 L'Acqua è rappresentata dall'Amazzonia con il grande Rio delle Amazzoni e la foresta Amazzonica. La grande tela raffigura la foresta, bella e lussureggiante, il sinuoso percorso del Rio delle Amazzoni, creature che vivono in armonia tra loro, ma minacciate da uno sfruttamento indiscriminato e dal fuoco che appare minaccioso come elemento distruttivo della foresta, come reale e simbolico attacco alla natura.
 
-![Danza dell'aria](/images/mostre/2013-ambiente-e-vita/danza_dell_aria.jpg)
+![Danza dell'aria](/images/mostre/2013-ambiente-e-vita/danza_dell_aria.jpeg)
 
 ### DANZA DELL'ARIA
 
 L'Aria intesa come respiro vitale richiama l'attenzione sul respiro universale della terra, sulla necessità di salvaguardare l'atmosfera ed evitare i danni dell'inquinamento. Nelle opere proposte, la raffigurazione della leggerezza, come caratterizzazione dell'elemento aria, sarà contrapposta alla rappresentazione di spire scure e più gravi che vengono ad alterare equilibri vitali, mettendo l'accento sul problema dell'inquinamento.
 
-![La nostra madre terra](/images/mostre/2013-ambiente-e-vita/madre_terra.jpg)
+![La nostra madre terra](/images/mostre/2013-ambiente-e-vita/madre_terra.jpeg)
 
 ### LA NOSTRA MADRE TERRA
 
 La Terra è ancora rappresentata come grande madre, in cui l'atmosfera sembra ospitarla e proteggerla come se fosse un figlio nel suo grembo.
 
-![L'abbraccio delle piante](/images/mostre/2013-ambiente-e-vita/abbraccio_piante.jpg)
+![L'abbraccio delle piante](/images/mostre/2013-ambiente-e-vita/abbraccio_piante.jpeg)
 
 ### L'ABBRACCIO DELLE PIANTE
 
 In un'altra opera appare ancora protetta e abbracciata, questa volta dalle piante, creature indispensabili per la sua vivibilità.
 
-![Bosco](/images/mostre/2013-ambiente-e-vita/bosco.jpg)
+![Bosco](/images/mostre/2013-ambiente-e-vita/bosco.jpeg)
 
 ### FORESTA
 
 E le piante sono ancora il soggetto di un'opera, che ne mette in risalto il reciproco rispetto, condividendo le risorse essenziali come l'aria e la luce senza prevaricarsi, ma creando un insieme armonioso e rasserenante.
 
-![Incendio nella foresta](/images/mostre/2013-ambiente-e-vita/incendio_foresta.jpg)
+![Incendio nella foresta](/images/mostre/2013-ambiente-e-vita/incendio_foresta.jpeg)
 
 ### INCENDIO NELLA FORESTA
 
 Ma tale armonia è sempre più aggredita e distrutta, spesso per mano dell'uomo, che con il fuoco trasforma oasi di pace e serenità in inferni di paura distruggendo tesori millenari.
 
-![Oro blu](/images/mostre/2013-ambiente-e-vita/oro_blu.jpg)
+![Oro blu](/images/mostre/2013-ambiente-e-vita/oro_blu.jpeg)
 
 ### ACQUA: ORO BLU
 
 L'Acqua, più preziosa dell'oro per la nostra vita e quella di tutti gli esseri viventi, che scorre gioiosa nei ruscelli e maestosa nei grandi fiumi, danzando con volute eleganti nel frangersi delle onde.
 
-![Ghiacciaio ferito](/images/mostre/2013-ambiente-e-vita/ghiacciaio_ferito.jpg)
+![Ghiacciaio ferito](/images/mostre/2013-ambiente-e-vita/ghiacciaio_ferito.jpeg)
 
 ### GHIACCIAIO FERITO
 
 Ma l'inquinamento dell'aria e quindi l'aumento della sua temperatura per effetto serra aggredisce la sua più grande riserva naturale, i ghiacciai polari.
 
-![Inquinamento](/images/mostre/2013-ambiente-e-vita/inquinamento.jpg)
+![Inquinamento](/images/mostre/2013-ambiente-e-vita/inquinamento.jpeg)
 
 ### INQUINAMENTO
 
 E tra le violenze più subdole è l'inquinamento, che ferisce la terra, l'aria e l'acqua, avvelenando per secoli l'ambiente, in una vera "crocefissione della natura"
 
-![Crocifissione della natura](/images/mostre/2013-ambiente-e-vita/crocifissione_natura.jpg)
+![Crocifissione della natura](/images/mostre/2013-ambiente-e-vita/crocifissione_natura.jpeg)
 
 ### CROCEFISSIONE DELLA NATURA
 

@@ -6,9 +6,9 @@ location: "Milano"
 year: 2013
 type: "personale"
 images:
-- 1_DSC02117.JPG
-- 2_DSC02118.JPG
-- 3_DSC02132.JPG
+- 1_DSC02117.jpeg
+- 2_DSC02118.jpeg
+- 3_DSC02132.jpeg
 draft: false
 theme: ambiente
 ---

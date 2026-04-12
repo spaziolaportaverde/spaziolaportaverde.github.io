@@ -6,7 +6,7 @@ location: "Milano"
 year: 2019
 type: "collettiva"
 images:
-- DSC_0392.jpg
+- DSC_0392.jpeg
 draft: false
 theme: vita
 ---

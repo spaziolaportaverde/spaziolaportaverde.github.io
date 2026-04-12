@@ -1,38 +1,38 @@
 ---
 images:
-- 0001_Danzatrice.JPG
-- 0007_La speranza.JPG
-- 0010_La sposa afghana bilanciato.jpg
-- 0011_La sposa del guerriero.jpg
-- 0012_La partenza dl soldato.JPG
-- 0025_Maternità.JPG
-- 0026_Il dialogo.JPG
-- 0033_Burka.JPG
-- 0035_Torera 2.JPG
-- 0036_Il sogno.jpg
-- 0038_Armonia.JPG
-- 0039_Fanciulle al mare.JPG
-- 0043_Maternità araba.JPG
-- 0044_Donne nell_ombra.JPG
-- 0052_Creatività.JPG
-- 0079_Figure danzanti.JPG
-- 0085 Quando l_amore ferisce.jpg
-- 0091_Donna sul divano rosso.JPG
-- 0092_La torera 3.JPG
-- 0093_Il pianto di Olimpia.jpg
-- 0097_Maternità.JPG
-- 0116_torera1.jpg
-- 0123_Il velo della sposa.jpg
-- 0140_Canto di donna.jpg
-- 0143_Arabe.JPG
-- 0169_Le amiche DSC01916.JPG
-- 0172_DSC01919_Donna seduta.JPG
-- 0173_DSC01920_L_annunciazione.JPG
-- 0176_Maternità DSC01923.JPG
-- 0177_ Pietà 2.JPG
-- 0186_Malala.jpg
-- 0254_Venere 3000.JPG
-- 0346_.jpg
+- 0001_Danzatrice.jpeg
+- 0007_La_speranza.jpeg
+- 0010_La_sposa_afghana_bilanciato.jpeg
+- 0011_La_sposa_del_guerriero.jpeg
+- 0012_La_partenza_dl_soldato.jpeg
+- 0025_Maternità.jpeg
+- 0026_Il_dialogo.jpeg
+- 0033_Burka.jpeg
+- 0035_Torera_2.jpeg
+- 0036_Il_sogno.jpeg
+- 0038_Armonia.jpeg
+- 0039_Fanciulle_al_mare.jpeg
+- 0043_Maternità_araba.jpeg
+- 0044_Donne_nell_ombra.jpeg
+- 0052_Creatività.jpeg
+- 0079_Figure_danzanti.jpeg
+- 0085_Quando_l_amore_ferisce.jpeg
+- 0091_Donna_sul_divano_rosso.jpeg
+- 0092_La_torera_3.jpeg
+- 0093_Il_pianto_di_Olimpia.jpeg
+- 0097_Maternità.jpeg
+- 0116_torera1.jpeg
+- 0123_Il_velo_della_sposa.jpeg
+- 0140_Canto_di_donna.jpeg
+- 0143_Arabe.jpeg
+- 0169_Le_amiche_DSC01916.jpeg
+- 0172_DSC01919_Donna_seduta.jpeg
+- 0173_DSC01920_L_annunciazione.jpeg
+- 0176_Maternità_DSC01923.jpeg
+- 0177__Pietà_2.jpeg
+- 0186_Malala.jpeg
+- 0254_Venere_3000.jpeg
+- 0346_.jpeg
 title: Trasfigurazioni Al Femminile
 ---
 {{< gallery dir="images/gallerie/trasfigurazioni-al-femminile" >}}

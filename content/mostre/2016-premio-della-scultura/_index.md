@@ -6,7 +6,7 @@ location: "Milano - Palazzo Bocconi, Sala degli Specchi"
 year: 2016
 type: "premio"
 images:
-- circolo_stampa.jpg
+- circolo_stampa.jpeg
 draft: false
 theme: riconoscimento
 ---
@@ -23,7 +23,7 @@ L'evento si è svolto presso **Palazzo Bocconi - Milano, Sala degli Specchi** il
 
 ## Opere in Esposizione
 
-![Circolo Stampa](/images/mostre/2016-premio-della-scultura/circolo_stampa.jpg)
+![Circolo Stampa](/images/mostre/2016-premio-della-scultura/circolo_stampa.jpeg)
 Circolo Stampa
 
 Nota: Le immagini delle opere in mostra (IMG_0370 e IMG_0375) non sono più disponibili sul server originale.

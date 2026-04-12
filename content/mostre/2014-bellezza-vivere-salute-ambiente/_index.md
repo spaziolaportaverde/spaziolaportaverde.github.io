@@ -6,9 +6,9 @@ location: "Trieste"
 year: 2014
 type: "personale"
 images:
-- 1_DSC_0120.jpg
-- 2_DSC_0121.jpg
-- 3_DSC_0125.jpg
+- 1_DSC_0120.jpeg
+- 2_DSC_0121.jpeg
+- 3_DSC_0125.jpeg
 draft: false
 theme: ambiente
 ---

@@ -6,7 +6,7 @@ location: "Milano"
 year: 2015
 type: "personale"
 images:
-  - "vista-1.jpg"
+  - "vista-1.jpeg"
 draft: false
 theme: natura
 ---

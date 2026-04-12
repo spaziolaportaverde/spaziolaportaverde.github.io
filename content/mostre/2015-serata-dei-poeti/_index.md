@@ -6,9 +6,9 @@ location: "Milano"
 year: 2015
 type: "personale"
 images:
-- 1_DSC02736.JPG
-- 2_DSC02738.JPG
-- 3_DSC02739.JPG
+- 1_DSC02736.jpeg
+- 2_DSC02738.jpeg
+- 3_DSC02739.jpeg
 draft: false
 theme: vita
 ---

@@ -6,12 +6,12 @@ location: "Bassano del Grappa - Spazio Culturale Milano Art Gallery"
 year: 2016
 type: "collettiva"
 images:
-- bassano.jpg
-- locandina.jpg
-- img_0139.jpg
-- img_0282.jpg
-- img_0291.jpg
-- img_0298.jpg
+- bassano.jpeg
+- locandina.jpeg
+- img_0139.jpeg
+- img_0282.jpeg
+- img_0291.jpeg
+- img_0298.jpeg
 draft: false
 theme: arte
 ---

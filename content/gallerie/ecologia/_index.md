@@ -1,26 +1,26 @@
 ---
 images:
-- 0014_La nostra madre Terra 1.jpg
-- 0064_La forza del sole.jpg
-- 0069_L_anima del mare 1.jpg
-- 0070_L_anima del mare 2.jpg
-- 0071_In fuga dal fuoco.jpg
-- 0075_Siccità.jpg
-- 0081_Se l_aria brucia.jpg
-- 0087_Il sonno del mare.JPG
-- 0090_Fuoco nel bosco.jpg
-- 0144_Ghiacciaio ferito.JPG
-- 0150_Amazzonia.jpg
-- 0151_Il canto della foglia.jpg
-- 0153_Inquinamento.jpg
-- 0178_La forza degli alberi.JPG
-- 0179_Il fuoco nel bosco.JPG
-- 0180_DSC01927.JPG
-- 0181_DSC01928.JPG
-- 0184_Danza dell_aria.JPG
-- 0185_Oro blu.jpg
-- 0315_Africa - Foto.jpg
-- 351_Crocifissione della natura.JPG
+- 0014_La_nostra_madre_Terra_1.jpeg
+- 0064_La_forza_del_sole.jpeg
+- 0069_L_anima_del_mare_1.jpeg
+- 0070_L_anima_del_mare_2.jpeg
+- 0071_In_fuga_dal_fuoco.jpeg
+- 0075_Siccità.jpeg
+- 0081_Se_l_aria_brucia.jpeg
+- 0087_Il_sonno_del_mare.jpeg
+- 0090_Fuoco_nel_bosco.jpeg
+- 0144_Ghiacciaio_ferito.jpeg
+- 0150_Amazzonia.jpeg
+- 0151_Il_canto_della_foglia.jpeg
+- 0153_Inquinamento.jpeg
+- 0178_La_forza_degli_alberi.jpeg
+- 0179_Il_fuoco_nel_bosco.jpeg
+- 0180_DSC01927.jpeg
+- 0181_DSC01928.jpeg
+- 0184_Danza_dell_aria.jpeg
+- 0185_Oro_blu.jpeg
+- 0315_Africa_-_Foto.jpeg
+- 351_Crocifissione_della_natura.jpeg
 title: Ecologia
 ---
 {{< gallery dir="images/gallerie/ecologia" >}}

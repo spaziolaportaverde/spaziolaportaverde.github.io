@@ -5,7 +5,7 @@ date: 2024-01-01
 
 Roberto Previtera è informatico di professione e, prima ancora, appassionato di tutto ciò che si trova all'intersezione tra tecnologia, pensiero e società.
 
-![Roberto Previtera](images/chi-siamo/roberto-previtera.jpg)
+![Roberto Previtera](images/chi-siamo/roberto-previtera.jpeg)
 
 Il suo interesse per la scienza dell'informazione non si ferma al piano tecnico: Roberto guarda alla tecnologia con una doppia lente, quella dell'ingegnere che ne studia il funzionamento e quella del cittadino curioso degli effetti che essa produce nel mondo reale — nei rapporti umani, nelle istituzioni, nel modo in cui pensiamo e decidiamo.
 

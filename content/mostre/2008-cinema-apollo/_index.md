@@ -6,9 +6,9 @@ location: "Milano"
 year: 2008
 type: "personale"
 images:
-- 1_DSC01158.JPG
-- 2_DSC01160.JPG
-- 3_DSC01164.JPG
+- 1_DSC01158.jpeg
+- 2_DSC01160.jpeg
+- 3_DSC01164.jpeg
 draft: false
 theme: vita
 ---

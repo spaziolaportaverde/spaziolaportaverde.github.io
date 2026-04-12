@@ -6,9 +6,9 @@ location: "Milano"
 year: 2016
 type: "personale"
 images:
-- 1_IMG_0122.JPG
-- 2_IMG_0137.JPG
-- 3_IMG_0151.JPG
+- 1_IMG_0122.jpeg
+- 2_IMG_0137.jpeg
+- 3_IMG_0151.jpeg
 draft: false
 theme: vita
 ---

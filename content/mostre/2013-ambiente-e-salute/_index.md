@@ -6,9 +6,9 @@ location: "Arezzo"
 year: 2013
 type: "personale"
 images:
-- 1_DSC02190.JPG
-- 2_DSC02185.JPG
-- 3_DSC02186.JPG
+- 1_DSC02190.jpeg
+- 2_DSC02185.jpeg
+- 3_DSC02186.jpeg
 draft: false
 theme: ambiente
 ---

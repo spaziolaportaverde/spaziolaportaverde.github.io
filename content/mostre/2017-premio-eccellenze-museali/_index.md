@@ -6,10 +6,10 @@ location: "Palermo"
 year: 2017
 type: "premio"
 images:
-- locandina.jpg
-- presentazione.jpg
-- attestato.jpg
-- il_mistero_del_mare.jpg
+- locandina.jpeg
+- presentazione.jpeg
+- attestato.jpeg
+- il_mistero_del_mare.jpeg
 draft: false
 theme: riconoscimento
 ---
@@ -22,14 +22,14 @@ Il premio rappresenta un importante riconoscimento per gli artisti che si sono d
 
 ## Opere in Esposizione
 
-![Locandina](/images/mostre/2017-premio-eccellenze-museali/locandina.jpg)
+![Locandina](/images/mostre/2017-premio-eccellenze-museali/locandina.jpeg)
 LOCANDINA
 
-![Presentazione di Vittorio Sgarbi](/images/mostre/2017-premio-eccellenze-museali/presentazione.jpg)
+![Presentazione di Vittorio Sgarbi](/images/mostre/2017-premio-eccellenze-museali/presentazione.jpeg)
 PRESENTAZIONE DI VITTORIO SGARBI
 
-![Attestato](/images/mostre/2017-premio-eccellenze-museali/attestato.jpg)
+![Attestato](/images/mostre/2017-premio-eccellenze-museali/attestato.jpeg)
 ATTESTATO DI PARTECIPAZIONE
 
-![Il mistero del mare](/images/mostre/2017-premio-eccellenze-museali/il_mistero_del_mare.jpg)
+![Il mistero del mare](/images/mostre/2017-premio-eccellenze-museali/il_mistero_del_mare.jpeg)
 L'OPERA ESPOSTA: IL MISTERO DEL MARE

@@ -6,7 +6,7 @@ location: "Milano"
 year: 2014
 type: "personale"
 images:
-  - "il-sonno-del-mare.jpg"
+  - "il-sonno-del-mare.jpeg"
 draft: false
 theme: mare
 ---

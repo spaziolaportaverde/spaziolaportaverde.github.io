@@ -6,10 +6,10 @@ location: "Milano"
 year: 2015
 type: "riconoscimento"
 images:
-- circolo-stampa.jpg
-- targa-premo.jpg
-- la-giuria.jpg
-- artista-sulla-scala.jpg
+- circolo-stampa.jpeg
+- targa-premo.jpeg
+- la-giuria.jpeg
+- artista-sulla-scala.jpeg
 draft: false
 theme: riconoscimento
 ---

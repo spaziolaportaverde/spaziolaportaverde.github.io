@@ -6,12 +6,12 @@ location: "Milano"
 year: 2015
 type: "evento"
 images:
-  - "pittrice-luce.jpg"
-  - "pittrice-opere-natura.jpg"
-  - "pittrice-primavera-luce.jpg"
-  - "presentazione-1.jpg"
-  - "presentazione-2.jpg"
-  - "partecipanti.jpg"
+  - "pittrice-luce.jpeg"
+  - "pittrice-opere-natura.jpeg"
+  - "pittrice-primavera-luce.jpeg"
+  - "presentazione-1.jpeg"
+  - "presentazione-2.jpeg"
+  - "partecipanti.jpeg"
 draft: false
 theme: vita
 ---

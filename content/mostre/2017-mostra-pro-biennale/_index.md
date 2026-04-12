@@ -6,7 +6,7 @@ location: "Venezia"
 year: 2017
 type: "collettiva"
 images:
-- premio.jpg
+- premio.jpeg
 draft: false
 theme: arte
 ---
@@ -17,7 +17,7 @@ Esposizione nell'ambito della Pro Biennale 2017.
 
 La mostra si è tenuta a Venezia in occasione della Biennale d'Arte 2017, un appuntamento fondamentale per il mondo dell'arte contemporanea. Gli artisti selezionati hanno presentato opere in dialogo con il tema della Biennale.
 
-![Premio Pro Biennale](/images/mostre/2017-mostra-pro-biennale/premio.jpg)
+![Premio Pro Biennale](/images/mostre/2017-mostra-pro-biennale/premio.jpeg)
 
 ## Opere in Esposizione
 

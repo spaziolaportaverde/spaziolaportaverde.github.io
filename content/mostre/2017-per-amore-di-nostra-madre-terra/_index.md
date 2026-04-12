@@ -6,8 +6,8 @@ location: "Milano"
 year: 2017
 type: "personale"
 images:
-- telero1.jpg
-- telero2.jpg
+- telero1.jpeg
+- telero2.jpeg
 - telero3.jpg
 draft: false
 theme: natura
@@ -25,7 +25,7 @@ Tutta la narrazione per immagini si svolge su un telero di carta lungo 10+7 x 1,
 
 ## Opere Principali
 
-![Per Amore di Nostra Madre Terra 1](/images/mostre/2017-per-amore-di-nostra-madre-terra/telero1.jpg)
+![Per Amore di Nostra Madre Terra 1](/images/mostre/2017-per-amore-di-nostra-madre-terra/telero1.jpeg)
 
 - **Per Amore di Nostra Madre Terra 1**
 - **Per Amore di Nostra Madre Terra 2**

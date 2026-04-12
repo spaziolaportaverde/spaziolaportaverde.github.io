@@ -6,11 +6,11 @@ location: "Spoleto"
 year: 2018
 type: "premio"
 images:
-- palazzo.jpg
-- foto_1.jpg
-- foto_2.jpg
-- foto_3.jpg
-- corpo_sognato.jpg
+- palazzo.jpeg
+- foto_1.jpeg
+- foto_2.jpeg
+- foto_3.jpeg
+- corpo_sognato.jpeg
 draft: false
 theme: riconoscimento
 ---
@@ -30,17 +30,17 @@ L'artista **Gabriella Ventavoli** è tra gli artisti selezionati.
 
 ## Opere in Esposizione
 
-![Palazzo Leti Sansi](/images/mostre/2018-premio-modigliani/palazzo.jpg)
+![Palazzo Leti Sansi](/images/mostre/2018-premio-modigliani/palazzo.jpeg)
 Palazzo Leti Sansi - Sede della mostra
 
-![I partecipanti alla selezione degli artisti](/images/mostre/2018-premio-modigliani/foto_1.jpg)
+![I partecipanti alla selezione degli artisti](/images/mostre/2018-premio-modigliani/foto_1.jpeg)
 I partecipanti alla selezione degli artisti
 
-![L'attestato di selezione](/images/mostre/2018-premio-modigliani/foto_2.jpg)
+![L'attestato di selezione](/images/mostre/2018-premio-modigliani/foto_2.jpeg)
 L'attestato di selezione
 
-![Il Dr. Salvo Nugnes presenta l'attestato](/images/mostre/2018-premio-modigliani/foto_3.jpg)
+![Il Dr. Salvo Nugnes presenta l'attestato](/images/mostre/2018-premio-modigliani/foto_3.jpeg)
 Il Dr. Salvo Nugnes presenta l'attestato
 
-![Il corpo sognato (Omaggio a Modigliani)](/images/mostre/2018-premio-modigliani/corpo_sognato.jpg)
+![Il corpo sognato (Omaggio a Modigliani)](/images/mostre/2018-premio-modigliani/corpo_sognato.jpeg)
 L'opera selezionata: Il corpo sognato (Omaggio a Modigliani)

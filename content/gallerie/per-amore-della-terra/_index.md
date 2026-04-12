@@ -1,15 +1,15 @@
 ---
 images:
-- 0188_DSC02173_Natura e Bellezza.JPG
-- 0193_DSC02178_Madre Natura.JPG
-- 0222_La terra ci nutre.JPG
-- 0234_Il martirio della terra.jpg
-- 0236_Natura Naturans.jpg
-- 0348_Ultima cena.jpg
-- 361_Telero 2 ritagliatorid.JPG
-- 362_Telero 1 ritagliatorid.JPG
-- 365_La guerra del grano.jpg
-- 386_Il grano vero oro della Terra.jpg
+- 0188_DSC02173_Natura_e_Bellezza.jpeg
+- 0193_DSC02178_Madre_Natura.jpeg
+- 0222_La_terra_ci_nutre.jpeg
+- 0234_Il_martirio_della_terra.jpeg
+- 0236_Natura_Naturans.jpeg
+- 0348_Ultima_cena.jpeg
+- 361_Telero_2_ritagliatorid.jpeg
+- 362_Telero_1_ritagliatorid.jpeg
+- 365_La_guerra_del_grano.jpeg
+- 386_Il_grano_vero_oro_della_Terra.jpeg
 title: Per Amore Della Terra
 ---
 {{< gallery dir="images/gallerie/per-amore-della-terra" >}}

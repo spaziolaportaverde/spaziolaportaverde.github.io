@@ -6,12 +6,12 @@ location: "Firenze"
 year: 2021
 type: "personale"
 images:
-- pieta-nel-mare.jpg
-- madonna-del-mare.jpg
-- madonna-universale.jpg
-- foto-1.jpg
-- foto-2.jpg
-- foto-3.jpg
+- pieta-nel-mare.jpeg
+- madonna-del-mare.jpeg
+- madonna-universale.jpeg
+- foto-1.jpeg
+- foto-2.jpeg
+- foto-3.jpeg
 draft: false
 theme: spiritualita
 ---
@@ -20,13 +20,13 @@ Ha preso il via, all'interno del prestigio Hotel Plus Florence un nuovo progetto
 
 ## Opere in Esposizione
 
-![Pietà nel mare](/images/mostre/2021-matera-admirabilis/pieta-nel-mare.jpg)
+![Pietà nel mare](/images/mostre/2021-matera-admirabilis/pieta-nel-mare.jpeg)
 - **Pietà nel mare** - Acrilico su tela cm 50x70
 
-![Madonna del mare](/images/mostre/2021-matera-admirabilis/madonna-del-mare.jpg)
+![Madonna del mare](/images/mostre/2021-matera-admirabilis/madonna-del-mare.jpeg)
 - **Madonna del mare** - Acrilico su tela cm 50x70
 
-![Madonna universale](/images/mostre/2021-matera-admirabilis/madonna-universale.jpg)
+![Madonna universale](/images/mostre/2021-matera-admirabilis/madonna-universale.jpeg)
 - **Madonna universale** - Acrilico su tela cm 50x70
 
 Alcuni momenti della mostra:

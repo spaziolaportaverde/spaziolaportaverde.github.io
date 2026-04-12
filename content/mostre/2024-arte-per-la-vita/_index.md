@@ -6,7 +6,7 @@ location: "Milano"
 year: 2024
 type: "media"
 images:
-- eccellenze_italiane_arte_per_la_vita.jpg
+- eccellenze_italiane_arte_per_la_vita.jpeg
 draft: false
 theme: vita
 ---

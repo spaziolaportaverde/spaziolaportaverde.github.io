@@ -6,7 +6,7 @@ location: "Palermo"
 year: 2019
 type: "premio"
 images:
-- attestato.jpg
+- attestato.jpeg
 draft: false
 theme: riconoscimento
 ---
@@ -21,4 +21,4 @@ Il Premio Artista dell'Anno rappresenta un importante riconoscimento per gli art
 
 ## Immagini
 
-![Attestato](/images/mostre/2019-premio-artista-dellanno/attestato.jpg)
+![Attestato](/images/mostre/2019-premio-artista-dellanno/attestato.jpeg)

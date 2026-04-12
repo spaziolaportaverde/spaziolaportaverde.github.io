@@ -6,12 +6,12 @@ location: "Milano"
 year: 2021
 type: "personale"
 images:
-- il-trionfo-della-vita.jpg
-- dsc_3625.jpg
-- dsc_3656.jpg
-- dsc_3682.jpg
-- dsc_3687.jpg
-- dsc_3910.jpg
+- il-trionfo-della-vita.jpeg
+- dsc_3625.jpeg
+- dsc_3656.jpeg
+- dsc_3682.jpeg
+- dsc_3687.jpeg
+- dsc_3910.jpeg
 draft: false
 theme: vita
 ---
@@ -26,7 +26,7 @@ Ma l'infinita bellezza della Natura con le sue forze vitali trionferà ancora ne
 ## L'Opera Principale
 
 **Il Trionfo della Vita** - Acrilico su tela cm 140x500
-![Il Trionfo della Vita](/images/mostre/2021-il-trionfo-della-vita/il-trionfo-della-vita.jpg)
+![Il Trionfo della Vita](/images/mostre/2021-il-trionfo-della-vita/il-trionfo-della-vita.jpeg)
 
 Nell'opera "Il trionfo della vita" si celebra la forza inarrestabile della vita che dispiega la sua energia nelle ampie volute, nelle linee che si intrecciano in un caos apparente che è sorgente di creatività.
 
@@ -36,15 +36,15 @@ groviglio di energia grafica e cromatica che si manifesta nel pieno del suo crep
 
 ## Opere in Mostra
 
-![L'artista con il curatore dell'evento Salvo Nugnes e il Dr. Davide Mondo](/images/mostre/2021-il-trionfo-della-vita/dsc_3625.jpg)
+![L'artista con il curatore dell'evento Salvo Nugnes e il Dr. Davide Mondo](/images/mostre/2021-il-trionfo-della-vita/dsc_3625.jpeg)
 
-![L'artista commenta le opere](/images/mostre/2021-il-trionfo-della-vita/dsc_3656.jpg)
+![L'artista commenta le opere](/images/mostre/2021-il-trionfo-della-vita/dsc_3656.jpeg)
 
-![L'artista di fronte all'opera Sognando Amazzonia](/images/mostre/2021-il-trionfo-della-vita/dsc_3682.jpg)
+![L'artista di fronte all'opera Sognando Amazzonia](/images/mostre/2021-il-trionfo-della-vita/dsc_3682.jpeg)
 
-![L'artista di fronte all'opera principale Il trionfo della vita](/images/mostre/2021-il-trionfo-della-vita/dsc_3687.jpg)
+![L'artista di fronte all'opera principale Il trionfo della vita](/images/mostre/2021-il-trionfo-della-vita/dsc_3687.jpeg)
 
-![Le opere Fuoco e ghiaccio e La Pandemia](/images/mostre/2021-il-trionfo-della-vita/dsc_3910.jpg)
+![Le opere Fuoco e ghiaccio e La Pandemia](/images/mostre/2021-il-trionfo-della-vita/dsc_3910.jpeg)
 
 - **Sognando Amazzonia** - Sperando che Amazzonia, il polmone verde della terra rimanga tale: un paradiso di biodiversità
 - **Fuoco e Ghiaccio**

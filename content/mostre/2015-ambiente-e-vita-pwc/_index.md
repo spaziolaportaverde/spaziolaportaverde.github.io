@@ -6,9 +6,9 @@ location: "Milano"
 year: 2015
 type: "personale"
 images:
-- 1_DSC02830.JPG
-- 2_DSC02810.JPG
-- 3_DSC02823.JPG
+- 1_DSC02830.jpeg
+- 2_DSC02810.jpeg
+- 3_DSC02823.jpeg
 draft: false
 theme: ambiente
 ---

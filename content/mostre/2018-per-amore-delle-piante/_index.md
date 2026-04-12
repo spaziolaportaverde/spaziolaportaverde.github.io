@@ -6,18 +6,18 @@ location: "Milano"
 year: 2018
 type: "personale"
 images:
-- sognando-amazzonia.jpg
-- dav10023.jpg
-- dav10198.jpg
-- dav10284.jpg
-- olivo.jpg
-- pino.jpg
-- limone.jpg
-- castagno.jpg
-- melo.jpg
-- mimosa.jpg
-- magnolia.jpg
-- platano.jpg
+- sognando-amazzonia.jpeg
+- dav10023.jpeg
+- dav10198.jpeg
+- dav10284.jpeg
+- olivo.jpeg
+- pino.jpeg
+- limone.jpeg
+- castagno.jpeg
+- melo.jpeg
+- mimosa.jpeg
+- magnolia.jpeg
+- platano.jpeg
 draft: false
 theme: natura
 ---

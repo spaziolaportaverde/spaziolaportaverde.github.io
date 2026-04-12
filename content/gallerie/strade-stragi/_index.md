@@ -1,18 +1,18 @@
 ---
 images:
-- 0008_Strade Stragi 3.jpg
-- 0009_Strade Stragi 2.jpg
-- 0015_Strade Stragi 8.jpg
-- 0016_Strade Stragi 4.JPG
-- 0017_Strade Stragi 11.jpg
-- 0018_Strade Stragi 5.jpg
-- 0019_Strade Stragi 6.jpg
-- 0020_Strade Stragi 7.jpg
-- 0024_Strade Stragi 9.jpg
-- 0061_Strade Stragi 10.jpg
-- 0063_Strade Stragi 14.JPG
-- 0068_Strade Stragi 13.jpg
-- 0094_Annalisa.jpg
+- 0008_Strade_Stragi_3.jpeg
+- 0009_Strade_Stragi_2.jpeg
+- 0015_Strade_Stragi_8.jpeg
+- 0016_Strade_Stragi_4.jpeg
+- 0017_Strade_Stragi_11.jpeg
+- 0018_Strade_Stragi_5.jpeg
+- 0019_Strade_Stragi_6.jpeg
+- 0020_Strade_Stragi_7.jpeg
+- 0024_Strade_Stragi_9.jpeg
+- 0061_Strade_Stragi_10.jpeg
+- 0063_Strade_Stragi_14.jpeg
+- 0068_Strade_Stragi_13.jpeg
+- 0094_Annalisa.jpeg
 title: Strade Stragi
 ---
 {{< gallery dir="images/gallerie/strade-stragi" >}}

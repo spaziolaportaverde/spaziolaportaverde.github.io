@@ -6,9 +6,9 @@ location: "Milano"
 year: 2017
 type: "personale"
 images:
-- 1_IMG_0527.JPG
-- 2_IMG_0522.JPG
-- 3_IMG_0508.JPG
+- 1_IMG_0527.jpeg
+- 2_IMG_0522.jpeg
+- 3_IMG_0508.jpeg
 draft: false
 theme: mare
 ---

@@ -6,9 +6,9 @@ location: "Milano"
 year: 2015
 type: "personale"
 images:
-- 1_IMG_20150305_173839.jpg
-- 2_IMG_20150305_173934.jpg
-- 3_IMG_20150305_173943.jpg
+- 1_IMG_20150305_173839.jpeg
+- 2_IMG_20150305_173934.jpeg
+- 3_IMG_20150305_173943.jpeg
 draft: false
 theme: ambiente
 ---

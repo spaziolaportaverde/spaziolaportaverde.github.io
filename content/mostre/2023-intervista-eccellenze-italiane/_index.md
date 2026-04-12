@@ -6,7 +6,7 @@ location: "Milano"
 year: 2023
 type: "media"
 images:
-- eccellenze_italiane_intervista.jpg
+- eccellenze_italiane_intervista.jpeg
 draft: false
 theme: arte
 ---

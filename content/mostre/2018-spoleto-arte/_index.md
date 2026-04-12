@@ -6,11 +6,11 @@ location: "Spoleto"
 year: 2018
 type: "collettiva"
 images:
-- attestato.jpg
-- dichiarazione-critica.jpg
-- la-dea-dellacqua.jpg
-- lidolo-eterno.jpg
-- madre-natura.jpg
+- attestato.jpeg
+- dichiarazione-critica.jpeg
+- la-dea-dellacqua.jpeg
+- lidolo-eterno.jpeg
+- madre-natura.jpeg
 draft: false
 theme: arte
 ---
@@ -19,10 +19,10 @@ Nella splendida cornice della grande sala del **Palazzo Leti Sansi**, a Spoleto,
 
 ## Opere in Esposizione
 
-![Attestato](/images/mostre/2018-spoleto-arte/attestato.jpg)
+![Attestato](/images/mostre/2018-spoleto-arte/attestato.jpeg)
 Attestato di partecipazione
 
-![Dichiarazione critica](/images/mostre/2018-spoleto-arte/dichiarazione-critica.jpg)
+![Dichiarazione critica](/images/mostre/2018-spoleto-arte/dichiarazione-critica.jpeg)
 Dichiarazione critica
 
 Il Critico d'Arte **Prof. Vittorio Sgarbi** e il Presidente della mostra **Dr. Salvo Nugnes**, accanto ad uno dei quadri esposti alla mostra "SPOLETO ARTE 2018".
@@ -31,16 +31,16 @@ Il Critico d'Arte **Prof. Vittorio Sgarbi** e il Presidente della mostra **Dr. S
 
 ### La Dea dell'Acqua
 
-![La Dea dell'Acqua](/images/mostre/2018-spoleto-arte/la-dea-dellacqua.jpg)
+![La Dea dell'Acqua](/images/mostre/2018-spoleto-arte/la-dea-dellacqua.jpeg)
 
 ---
 
 ### L'Idolo Eterno
 
-![L'Idolo Eterno](/images/mostre/2018-spoleto-arte/lidolo-eterno.jpg)
+![L'Idolo Eterno](/images/mostre/2018-spoleto-arte/lidolo-eterno.jpeg)
 
 ---
 
 ### Madre Natura
 
-![Madre Natura](/images/mostre/2018-spoleto-arte/madre-natura.jpg)
+![Madre Natura](/images/mostre/2018-spoleto-arte/madre-natura.jpeg)

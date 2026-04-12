@@ -6,8 +6,8 @@ location: "Firenze"
 year: 2015
 type: "personale"
 images:
-- 1_IMG-20210531-WA0005.jpg
-- 2_IMG-20210531-WA0008.jpg
+- 1_IMG-20210531-WA0005.jpeg
+- 2_IMG-20210531-WA0008.jpeg
 draft: false
 theme: mare
 ---

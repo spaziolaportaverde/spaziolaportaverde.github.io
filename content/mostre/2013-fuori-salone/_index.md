@@ -6,9 +6,9 @@ location: "Milano"
 year: 2013
 type: "personale"
 images:
-- 1_DSC02102.JPG
-- 2_DSC02111.JPG
-- 3_DSC02110.JPG
+- 1_DSC02102.jpeg
+- 2_DSC02111.jpeg
+- 3_DSC02110.jpeg
 draft: false
 theme: vita
 ---

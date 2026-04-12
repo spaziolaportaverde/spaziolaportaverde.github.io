@@ -6,8 +6,8 @@ location: "Milano"
 year: 2023
 type: "premio"
 images:
-- targa.jpg
-- artista.jpg
+- targa.jpeg
+- artista.jpeg
 draft: false
 theme: riconoscimento
 ---
@@ -18,6 +18,6 @@ In occasione della XXXVa edizione del "Premio della Cultura/Premio delle Arti", 
 
 Il Premio della Cultura è un importante riconoscimento che viene assegnato ogni anno ad artisti, intellettuali e personalità che si sono distinte nel promuovere la cultura italiana.
 
-![Targa](/images/mostre/2023-premio-delle-arti/targa.jpg)
+![Targa](/images/mostre/2023-premio-delle-arti/targa.jpeg)
 
-![Gabriella Ventavoli](/images/mostre/2023-premio-delle-arti/artista.jpg)
+![Gabriella Ventavoli](/images/mostre/2023-premio-delle-arti/artista.jpeg)

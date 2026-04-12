@@ -6,9 +6,9 @@ location: "Spoleto"
 year: 2015
 type: "collettiva"
 images:
-- 1_DSC_0012.jpg
-- 2_DSC_0032.jpg
-- 3_DSC_0034.jpg
+- 1_DSC_0012.jpeg
+- 2_DSC_0032.jpeg
+- 3_DSC_0034.jpeg
 draft: false
 theme: vita
 ---

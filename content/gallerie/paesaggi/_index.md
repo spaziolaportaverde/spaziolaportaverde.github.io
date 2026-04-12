@@ -1,9 +1,9 @@
 ---
 images:
-- 0047_Porto 1.JPG
-- 0049_Porto 2.JPG
-- 0077 Il respiro delle palme.JPG
-- 0078 Danza nel bosco.JPG
+- 0047_Porto_1.jpeg
+- 0049_Porto_2.jpeg
+- 0077_Il_respiro_delle_palme.jpeg
+- 0078_Danza_nel_bosco.jpeg
 title: Paesaggi
 ---
 {{< gallery dir="images/gallerie/paesaggi" >}}

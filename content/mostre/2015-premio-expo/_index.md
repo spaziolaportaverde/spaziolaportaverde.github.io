@@ -6,7 +6,7 @@ location: "Milano"
 year: 2015
 type: "riconoscimento"
 images:
-- targa-premo-expo.jpg
+- targa-premo-expo.jpeg
 draft: false
 theme: riconoscimento
 ---
@@ -19,4 +19,4 @@ curato dal Prof. Carlo Franza, emerito critico d'arte.
 
 ## Galleria
 
-![Targa premio EXPO](/images/mostre/2015-premio-expo/targa-premo-expo.jpg)
+![Targa premio EXPO](/images/mostre/2015-premio-expo/targa-premo-expo.jpeg)

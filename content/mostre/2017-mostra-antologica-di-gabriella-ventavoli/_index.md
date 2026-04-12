@@ -6,21 +6,21 @@ location: "Piacenza"
 year: 2017
 type: "personale"
 images:
-- inaugurazione.jpg
-- poseidon.jpg
+- inaugurazione.jpeg
+- poseidon.jpeg
 draft: false
 theme: arte
 ---
 
 Il 22 Aprile 2017 a Piacenza, presso la Galleria Jelmoni, nel cuore della città, è stata inaugurata una mostra antologica della pittrice Gabriella Ventavoli, dal titolo "SELECTED WORKS", che raccoglie alcune opere rappresentative di un lungo periodo di attività.
 
-![Inaugurazione](/images/mostre/2017-mostra-antologica-di-gabriella-ventavoli/inaugurazione.jpg)
+![Inaugurazione](/images/mostre/2017-mostra-antologica-di-gabriella-ventavoli/inaugurazione.jpeg)
 
 ## Opere in Esposizione
 
 ### Opere Recenti
 
-![Poseidon e Armonia](/images/mostre/2017-mostra-antologica-di-gabriella-ventavoli/poseidon.jpg)
+![Poseidon e Armonia](/images/mostre/2017-mostra-antologica-di-gabriella-ventavoli/poseidon.jpeg)
 
 - **Poseidon e Armonia**
 - **Donna in blu**

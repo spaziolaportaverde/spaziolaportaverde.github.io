@@ -6,9 +6,9 @@ location: "Milano"
 year: 2014
 type: "collettiva"
 images:
-- 1_DSC02247.JPG
-- 2_DSC02253.JPG
-- 3_DSC02254.JPG
+- 1_DSC02247.jpeg
+- 2_DSC02253.jpeg
+- 3_DSC02254.jpeg
 draft: false
 theme: vita
 ---

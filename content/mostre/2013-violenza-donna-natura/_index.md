@@ -6,7 +6,7 @@ location: "Milano"
 year: 2013
 type: "personale"
 images:
-- africa.jpg
+- africa.jpeg
 draft: false
 theme: diritti
 ---

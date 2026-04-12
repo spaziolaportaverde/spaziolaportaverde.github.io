@@ -6,10 +6,10 @@ location: "Milano"
 year: 2023
 type: "personale"
 images:
-- tabellone-mistero-mare.jpg
-- tabellone-dinamismo-mare.jpg
-- tabellone-pescatrici-perle.jpg
-- tabellone-venere-mare.jpg
+- tabellone-mistero-mare.jpeg
+- tabellone-dinamismo-mare.jpeg
+- tabellone-pescatrici-perle.jpeg
+- tabellone-venere-mare.jpeg
 draft: false
 theme: arte
 ---
@@ -18,20 +18,20 @@ In concomitanza con la Mostra "Per amore del mare" che si svolge a partire dal 4
 
 ## Opere Installate
 
-![Il Mistero del Mare](/images/mostre/2023-mostra-metro-milano/tabellone-mistero-mare.jpg)
+![Il Mistero del Mare](/images/mostre/2023-mostra-metro-milano/tabellone-mistero-mare.jpeg)
 - **Il Mistero del Mare**
 
-![L'Insostenibile Dinamismo del Mare](/images/mostre/2023-mostra-metro-milano/tabellone-dinamismo-mare.jpg)
+![L'Insostenibile Dinamismo del Mare](/images/mostre/2023-mostra-metro-milano/tabellone-dinamismo-mare.jpeg)
 - **L'Insostenibile Dinamismo del Mare**
 
-![Le Pescatrici di Perle](/images/mostre/2023-mostra-metro-milano/tabellone-pescatrici-perle.jpg)
+![Le Pescatrici di Perle](/images/mostre/2023-mostra-metro-milano/tabellone-pescatrici-perle.jpeg)
 - **Le Pescatrici di Perle**
 
-![Venere del Mare](/images/mostre/2023-mostra-metro-milano/tabellone-venere-mare.jpg)
+![Venere del Mare](/images/mostre/2023-mostra-metro-milano/tabellone-venere-mare.jpeg)
 - **Venere del Mare**
 
 L'Artista a fianco di alcuni tabelloni
 
-![Tabellone con Artista 1](/images/mostre/2023-mostra-metro-milano/tabellone-artista-1.jpg)
-![Tabellone con Artista 2](/images/mostre/2023-mostra-metro-milano/tabellone-artista-2.jpg)
-![Tabellone con Artista 3](/images/mostre/2023-mostra-metro-milano/tabellone-artista-3.jpg)
+![Tabellone con Artista 1](/images/mostre/2023-mostra-metro-milano/tabellone-artista-1.jpeg)
+![Tabellone con Artista 2](/images/mostre/2023-mostra-metro-milano/tabellone-artista-2.jpeg)
+![Tabellone con Artista 3](/images/mostre/2023-mostra-metro-milano/tabellone-artista-3.jpeg)

@@ -6,9 +6,9 @@ location: "Milano"
 year: 2015
 type: "personale"
 images:
-- 1_DSC02916.JPG
-- 2_DSC02902.JPG
-- 3_DSC02901.JPG
+- 1_DSC02916.jpeg
+- 2_DSC02902.jpeg
+- 3_DSC02901.jpeg
 draft: false
 theme: mare
 ---

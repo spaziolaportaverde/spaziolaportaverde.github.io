@@ -6,7 +6,7 @@ location: "Berlino"
 year: 2015
 type: "personale"
 images:
-  - "plus-berlin.jpg"
+  - "plus-berlin.jpeg"
 draft: false
 theme: natura
 ---

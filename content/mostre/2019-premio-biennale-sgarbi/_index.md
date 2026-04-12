@@ -6,8 +6,8 @@ location: "Venezia"
 year: 2019
 type: "premio"
 images:
-- attestato-premio-biennale-sgarbi.jpg
-- calliope.jpg
+- attestato-premio-biennale-sgarbi.jpeg
+- calliope.jpeg
 - la-teresa.jpg
 
 draft: false
