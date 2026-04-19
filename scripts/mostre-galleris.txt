@@ -1,0 +1,277 @@
+# 2009-museo-scienza
+64 Ecologia
+153 Ecologia
+22 Immagini della violenza
+315 Ecologia
+68 Strade e stragi
+
+# 2013-ambiente-e-salute
+315 Ecologia
+191 Ecologia
+10 Ecologia
+180 Ecologia
+193 Per amore della terra
+14 Pe amore della terra
+181 Per amore delle piante
+185 Per amore del mare
+351 Ecologia
+
+# 2013-violenza-psicoanalisi
+0189 Trasfigurazioni al femminile
+0199 Ecologia
+0093 Trasfigurazioni al femminile
+0351 Ecologia
+
+# 2013-ambiente-vita
+0178 Ecologia
+0179 Ecologia
+0180 Ecologia
+0181 Ecologia
+0150 Ecologia
+0315 Ecologia
+0014 Ecologia
+0351 Ecologia
+
+# 2013-violenza-donne-infanzia
+0182 Immagini della violenza
+0150 Ecologia
+0315 Ecologia
+0007_Trasfigurazioni al femminile
+0021 Trasfigurazioni al femminile
+0254 Trasfigurazioni al femminile
+
+# 2013-sorella-aria-e-volo-di-farfalle
+0181 Ecologia
+0184 Ecologia
+0076 Ecologia
+0211 Ecologia
+
+# 2015-laudi-del-cielo-del-mare-e-della-terra
+0006 Immagini oniriche
+0099 Ferro e fuoco
+0179 Ecologia
+0184 Ecologia
+0181 Ecologia
+0087 Ecologia
+0152 Ecologia
+0201 Ecologia
+0058 Linee dinamiche
+0057 Linee dinamiche
+0141 Linee dinamiche
+
+# 2014-elegia-del-mare
+0087 Ecologia
+0192 Per amore del mare
+0213 Per amore del mare
+0207 Per amore del mare
+0214 Per amore del mare
+0209 Per amore del mare
+0152 Per amore del mare
+
+# 2014-la-donna-nell-arte-medicina-sociale
+0197 Immagini della violenza
+0226 Orrori della guerra
+0199 Ecologia
+0189 Trasfigurazioni al femminile
+
+# 2014-coraggio-e-bellezza
+0021 Trasfigurazioni al femminile
+0200 Orrori della guerra
+0056 Linee dinamiche
+0058 Linee dinamiche
+0059 Linee dinamiche
+0011 Trasfigurazioni al femminile
+0010 Trasfigurazioni al femminile
+0052 Trasfigurazioni al femminile
+0089 Omaggio alla bellezza
+0092 Trasfigurazioni al femminile
+0198 Trasfigurazioni al femminile
+
+# 2014-la-bellezza-del-vivere-salute-ambiente
+0150 Ecologia
+0212 Per amore del mare
+0153 Ecologia
+0199 Ecologia
+0193 Per amore della terra
+0199 Ecologia
+0193 Per amore della terra
+
+# 2014-biennale-della-creativita
+0107 Ritratti di uomini
+0109 Ritratti di uomini
+
+# 2015-tra-mare-e-cielo 
+0257 Per amore del mare
+0356 Madonne
+0357 Madonne
+0286 Per amore del mare
+0294 Per amore del mare
+
+# 2015-ambiente-e-vita-pwc
+0190 Ecologia
+0222 Per amore della terra
+0234 Per amore della terra
+0200 Orrori della guerra
+
+# 2015-fame-e-spreco
+0222 Per amore della terra
+0211 Ecologia
+0224 Per amore della terra
+0201 Per amore del mare
+0208 Per amore del mare
+0234 Per amore della terra
+0225 Orrori della guerra
+0147 Ecologia
+
+# 2015-i-quattro-elementi-del-mondo
+0233 Per amore dell'acqua
+0230 Per amore dell'acqua
+0232 Per amore dell'acqua
+0238 Per amore dell'acqua
+
+# 2015-il-naufragio
+0325 Per amore del mare
+0316 Immagini della violenza
+0348 Per amore della terra
+
+# 2015-natura-naturans
+0210 Per amore del mare
+0208 Per amore del mare
+0236 Per amore della terra
+0309 Per amore della terra
+0310 Linee dinamiche
+0222 Per amore della terra
+0348 Per amore della terra
+0235 Per amore delle piante
+0180 Ecologia
+0233 Per amore dell'acqua
+
+# 2015-lultima-cena
+0348 Per amore della terra
+0152 Per amore del mare
+0208 Per amore del mare
+0236 Per amore della terra
+0309 Per amore della terra
+0310 Linee dinamiche
+
+# 2016-spoleto-arte
+0348 Per amore della terra
+
+# 2016-surrealismo-sensoriale
+0064 Ecologia
+0184 Per amore dell'aria
+0262 Per amore dell'aria
+0237 Immagini oniriche
+0319 Ritratti di donne
+0264 Immagini oniriche
+0310 Linee dinamiche
+
+Mostra Riflessioni contemporanee
+0321 Per amore del mare
+0295 Per amore del mare
+0306 Per amore del mare
+0286 Per amore del mare
+
+# 2019-biennale-di-milano
+0215 Per amore del mare
+0327 Per amore del mare
+0326 Per amore del mare
+
+# 2017-per-amore-del-mare
+0334 Per amore del mare
+0399 Per amore del mare
+0402 Per amore del mare
+0404 Per amore del mare
+0406 Per amore del mare
+
+# 2017-mostra-antologica-di-gabriella-ventavoli    
+0054 Per amore del mare
+0407 Per amore della terra
+0057 Linee dinamiche
+0118 Ritratti di uomini
+0315 Ecologia
+
+# 2017-per-amore-di-nostra-madre-terra
+0361 Per amore della terra
+0362 Per amore della terra
+
+# 2017-per-amore-delle-piante
+0370-7 Per amore delle piante
+0370-8 Per amore delle piante
+0370-0 Per amore delle piante
+0370-4 Per amore delle piante
+0370-5 Per amore delle piante
+0370-6 Per amore delle piante
+0370-1 Per amore delle piante
+0370-3 Per amore delle piante
+0370-2 Per amore delle piante
+
+# 2017-mostra-pro-biennale
+0359 Per amore delle piante
+
+# 2017-la-donna-e-l-arte-contro-violenza
+0350_Ritratti di donne
+0337 Ecologia
+0085 Trasfigurazioni al femminile
+0250 Ritratti di donne
+
+# 2019-donazione-musei-vaticani
+0147 Ecologia
+
+# 2020-donazione-palazzina-grassi
+0207 Per amore del mare
+0327 Per amore del mare
+
+# 2021-matera-admirabilis
+0257 Per amore del mare
+0356 Madonne
+0357 Madonne
+0286 Per amore del mare
+0294 Per amore del mare
+
+2021-donazione-liceo-artistico-brera
+0408 Immagini oniriche
+
+Mostra collettiva Hack
+0364 Ecologia
+
+# 2021-il-trionfo-della-vita
+0364 Ecologia
+0360 Per amore della terra
+0372 Per amore della terra
+
+# 2022-rose-rosse-su-di-noi
+0369 Omaggio alla bellezza
+0364 Ecologia
+0353 Madonne
+
+# 2023-per-amore-del-mare
+0311 Per amore del mare
+0292 Per amore del mare
+0280 Per amore del mare
+0273 Per amore del mare
+0288 Per amore del mare
+
+# 2023-metropolitane
+0375 Per amore del mare
+0409 Per amore del mare
+0311 Per amore del mare
+
+# 2023-fondazione-atm
+0269 Per amore del mare
+0304 Per amore del mare
+0381 Per amore del mare
+0311 Per amore del mare
+0326 Per amore del mare
+
+# 2025-per-amore-delle-montagne
+0410 Ecologia
+0411 Per amore dell'acqua
+0412 Per amore dell'acqua
+0364 Ecologia
+
+# 2026-per-amore-delle-montagne-metropolitane
+0411 Per amore dell'acqua
+0412 Per amore dell'acqua
+0413 Per amore dell'acqua
+0414 Per amore dell'acqua
