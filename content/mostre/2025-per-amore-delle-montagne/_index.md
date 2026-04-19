@@ -5,8 +5,7 @@ description: "Mostra Per Amore delle Montagne a Milano, 2025."
 location: "Milano"
 year: 2025
 type: "personale"
-images:
-- 
+images: []
 draft: false
 theme: vita
 ---
