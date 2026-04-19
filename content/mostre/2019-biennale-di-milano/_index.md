@@ -13,5 +13,5 @@ theme: vita
 
 Biennale di Milano 2019 a Milano, 2019.
 
-## Opere ed Istantanee
+## Istantanee dell'evento
 {{< gallery dir="images/mostre/2019-biennale-di-milano" >}}

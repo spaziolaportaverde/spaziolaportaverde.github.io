@@ -30,3 +30,6 @@ Il 22 Aprile 2017 a Piacenza, presso la Galleria Jelmoni, nel cuore della città
 - **Canto di Donna**
 - **Madre Natura**
 - **Come le Onde**
+
+## Opere esposte
+{{< gallery images="images/gallerie/linee-dinamiche/0054_Fiore_marino.jpeg,images/gallerie/linee-dinamiche/0057_Dinamismo_3.jpeg,images/gallerie/ecologia/0315_Africa_-_Foto.jpeg" >}}

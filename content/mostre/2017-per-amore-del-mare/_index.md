@@ -15,5 +15,8 @@ theme: mare
 
 Per Amore del Mare 2017 a Milano, 2017.
 
-## Opere ed Istantanee
+## Istantanee dell'evento
 {{< gallery dir="images/mostre/2017-per-amore-del-mare" >}}
+
+## Opere esposte
+{{< gallery images="images/gallerie/per-amore-del-mare/0334_Per_amore_del_mare.jpeg" >}}

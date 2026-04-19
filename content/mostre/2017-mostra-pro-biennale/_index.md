@@ -22,3 +22,6 @@ La mostra si è tenuta a Venezia in occasione della Biennale d'Arte 2017, un app
 ## Opere in Esposizione
 
 Le opere presentate hanno esplorato temi legati all'identità, alla memoria e alla contemporaneità.
+
+## Opere esposte
+{{< gallery images="images/gallerie/per-amore-delle-piante/359_Il_trionfo_della_natura.jpeg" >}}

@@ -32,3 +32,5 @@ Ha preso il via, all'interno del prestigio Hotel Plus Florence un nuovo progetto
 Alcuni momenti della mostra:
 {{< gallery dir="images/mostre/2021-matera-admirabilis/istantanee" >}}
 
+## Opere esposte
+{{< gallery images="images/gallerie/madonne/356_Madonna_universale.jpeg,images/gallerie/madonne/357_Madonna_velata.jpeg" >}}

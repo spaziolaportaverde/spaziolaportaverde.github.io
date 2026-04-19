@@ -35,3 +35,6 @@ L'Artista a fianco di alcuni tabelloni
 ![Tabellone con Artista 1](/images/mostre/2023-mostra-metro-milano/tabellone-artista-1.jpeg)
 ![Tabellone con Artista 2](/images/mostre/2023-mostra-metro-milano/tabellone-artista-2.jpeg)
 ![Tabellone con Artista 3](/images/mostre/2023-mostra-metro-milano/tabellone-artista-3.jpeg)
+
+## Opere esposte
+{{< gallery images="images/gallerie/per-amore-del-mare/375_Venere.jpeg,images/gallerie/per-amore-del-mare/0311_Il_mistero_del_mare.jpeg" >}}

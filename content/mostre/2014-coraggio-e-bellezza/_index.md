@@ -15,7 +15,6 @@ Nella galleria GRAAL di Pavia, dal 22 Marzo al 6 Aprile 2014, in concomitanza co
 
 ![Malala](/images/mostre/2014-coraggio-e-bellezza/malala.jpeg)
 
-
 {{< critic-review author="Dr. Vicini" >}}
 Notevole è la ricchezza di spunti nell'opera di Gabriella Ventavoli. I suoi temi sono di forte impegno sociale e culturale: la violenza contro la donna e contro l'ambiente, la difesa della cultura e del diritto allo studio, l'emancipazione di tutti gli esseri umani attraverso la scuola.
 
@@ -27,3 +26,6 @@ Con Gabriella Ventavoli l'arte torna ad essere uno strumento profondo, capace di
 
 Qui troviamo un gesto chiaro, netto, pulitissimo, con colori che si dispiegano attraverso linee avvolgenti: filamenti cromatici che si svolgono e si sciolgono davanti agli occhi dello spettatore con leggerezza e grazia.
 {{< /critic-review >}}
+
+## Opere esposte
+{{< gallery images="images/gallerie/linee-dinamiche/0056_Dinamismo_4.jpeg,images/gallerie/linee-dinamiche/0058_Dinamismo_1_Ultima_frenata.jpeg,images/gallerie/linee-dinamiche/0059_Dinamismo_1_.jpeg,images/gallerie/trasfigurazioni-al-femminile/0011_La_sposa_del_guerriero.jpeg,images/gallerie/trasfigurazioni-al-femminile/0010_La_sposa_afghana_bilanciato.jpeg,images/gallerie/trasfigurazioni-al-femminile/0052_Creatività.jpeg,images/gallerie/omaggio-alla-bellezza/0089_La_danza_di_un_fiore.jpeg,images/gallerie/trasfigurazioni-al-femminile/0092_La_torera_3.jpeg" >}}

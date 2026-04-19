@@ -15,5 +15,5 @@ theme: ambiente
 
 Fame e Spreco a Milano, 2015.
 
-## Opere ed Istantanee
+## Istantanee dell'evento
 {{< gallery dir="images/mostre/2015-fame-e-spreco" >}}

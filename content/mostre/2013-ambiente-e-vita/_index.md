@@ -90,3 +90,6 @@ E tra le violenze più subdole è l'inquinamento, che ferisce la terra, l'aria e
 ### CROCEFISSIONE DELLA NATURA
 
 Altre opere, non esposte, sono visibili nella galleria virtuale.
+
+## Opere esposte
+{{< gallery images="images/gallerie/per-amore-delle-piante/0178_La_forza_degli_alberi.jpeg,images/gallerie/ecologia/0179_Il_fuoco_nel_bosco.jpeg,images/gallerie/per-amore-delle-piante/0180_Luce_sulla_foresta_(2).jpeg,images/gallerie/per-amore-delle-piante/0181_L_abbraccio_delle_piante_(2).jpeg,images/gallerie/per-amore-delle-piante/0150_Amazzonia.jpeg,images/gallerie/ecologia/0315_Africa_-_Foto.jpeg,images/gallerie/ecologia/0014_La_nostra_madre_Terra_1.jpeg,images/gallerie/ecologia/351_Crocifissione_della_natura.jpeg" >}}

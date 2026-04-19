@@ -29,3 +29,6 @@ Tutta la narrazione per immagini si svolge su un telero di carta lungo 10+7 x 1,
 
 - **Per Amore di Nostra Madre Terra 1**
 - **Per Amore di Nostra Madre Terra 2**
+
+## Opere esposte
+{{< gallery images="images/gallerie/per-amore-della-terra/361_Telero_2_ritagliatorid.jpeg,images/gallerie/per-amore-della-terra/362_Telero_1_ritagliatorid.jpeg" >}}

@@ -25,7 +25,7 @@ La Porta Verde rappresenta lo spazio artistico perfetto per ricondurre l'arte a 
 {{< /critic-review >}}
 
 ## Opere esposte
-{{< gallery dir="images/mostre/2023-per-amore-del-mare/opere" >}}
+{{< gallery images="images/gallerie/per-amore-del-mare/0311_Il_mistero_del_mare.jpeg" >}}
 
 ## Istantanee dell'evento
 {{< gallery dir="images/mostre/2023-per-amore-del-mare/istantanee" >}}

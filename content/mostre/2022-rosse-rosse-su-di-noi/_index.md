@@ -31,3 +31,6 @@ Sullo sfondo appare il grande dipinto "Il trionfo della vita", che dà l'avvio a
 ![Le morti bianche](/images/mostre/2022-rosse-rosse-su-di-noi/foto-7.jpeg)
 
 **Le morti bianche** - Opera che rappresenta il dolore che segna indelebilmente la vita di tanti.
+
+## Opere esposte
+{{< gallery images="images/gallerie/madonne/353_Madonna_velata.jpeg" >}}

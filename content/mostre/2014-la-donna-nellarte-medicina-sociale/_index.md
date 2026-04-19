@@ -15,5 +15,8 @@ theme: vita
 
 La Donna nell'Arte, nella Medicina e nel Sociale a Milano, 2014.
 
-## Opere ed Istantanee
+## Istantanee dell'evento
 {{< gallery dir="images/mostre/2014-la-donna-nellarte-medicina-sociale" >}}
+
+## Opere esposte
+{{< gallery images="images/gallerie/immagini-della-violenza/0197_Farfalla_ferita.jpeg,images/gallerie/orrori-della-guerra/0226_La_strage_degli_innocenti.jpeg" >}}

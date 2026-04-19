@@ -15,5 +15,8 @@ theme: vita
 
 La sostenibile leggerezza dell'essere a Milano, 2016.
 
-## Opere ed Istantanee
+## Istantanee dell'evento
 {{< gallery dir="images/mostre/2016-la-sostenibile-leggerezza-dellessere" >}}
+
+## Opere esposte
+{{< gallery images="images/gallerie/ecologia/0064_La_forza_del_sole.jpeg,images/gallerie/ecologia/0184_Danza_dell_aria.jpeg" >}}

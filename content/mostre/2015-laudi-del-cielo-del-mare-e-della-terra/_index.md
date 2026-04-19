@@ -27,6 +27,9 @@ Cielo e terra, puro e impuro, respiro e anima, pieno e vuoto, la Ventavoli riesc
 La pittrice interpella i poteri ultimi del segno e li sonda fino al limite di rottura dei simboli. A tanta altezza - o profondità - prende forma un paesaggio astrale, una visione di pura intensità e vibrazione. Scriveva Kokoschka nel saggio "sulla natura delle visioni": "L'immaginazione è natura, visione, é vita."
 {{< /critic-review >}}
 
+## Opere esposte
+{{< gallery images="images/mostre/2017-per-amore-del-mare/6_IMG_0534.jpeg,images/gallerie/ferro-e-fuoco/099_Angelo_nel_fuoco_2.jpeg,images/gallerie/ecologia/0179_Il_fuoco_nel_bosco.jpeg,images/gallerie/ecologia/0184_Danza_dell_aria.jpeg,images/gallerie/per-amore-delle-piante/0181_L_abbraccio_delle_piante_(2).jpeg,images/gallerie/per-amore-del-mare/0087_Il_sonno_del_mare.jpeg,images/gallerie/per-amore-del-mare/0152_La_febbre_del_mare.jpeg,images/gallerie/per-amore-del-mare/0201_La_sofferenza_del_mare.jpeg,images/gallerie/linee-dinamiche/0058_Dinamismo_1_Ultima_frenata.jpeg,images/gallerie/linee-dinamiche/0057_Dinamismo_3.jpeg" >}}
+
 ## Istantanee dell'Evento
 
 {{< gallery dir="images/mostre/2015-laudi-del-cielo-del-mare-e-della-terra/istantanee" >}}

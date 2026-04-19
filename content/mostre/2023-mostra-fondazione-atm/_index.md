@@ -32,3 +32,6 @@ theme: arte
 
 ![L'Occhio del Mare](/images/mostre/2023-mostra-fondazione-atm/locchio-del-mare.jpeg)
 **L'Occhio del Mare**
+
+## Opere esposte
+{{< gallery images="images/gallerie/per-amore-del-mare/381_Il_dinamismo_del_mare.jpeg,images/gallerie/per-amore-del-mare/0311_Il_mistero_del_mare.jpeg,images/gallerie/per-amore-del-mare/0326_La_sirena.jpeg" >}}

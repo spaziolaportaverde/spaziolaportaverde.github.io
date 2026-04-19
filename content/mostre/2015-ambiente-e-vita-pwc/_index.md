@@ -15,5 +15,8 @@ theme: ambiente
 
 Ambiente e Vita al PWC a Milano, 2015.
 
-## Opere ed Istantanee
+## Istantanee dell'evento
 {{< gallery dir="images/mostre/2015-ambiente-e-vita-pwc" >}}
+
+## Opere esposte
+{{< gallery images="images/gallerie/per-amore-della-terra/0222_La_terra_ci_nutre.jpeg,images/gallerie/per-amore-della-terra/0234_Il_martirio_della_terra.jpeg" >}}
