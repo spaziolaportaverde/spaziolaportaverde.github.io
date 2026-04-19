@@ -6,10 +6,10 @@ location: "Milano"
 year: 2023
 type: "personale"
 images:
-- il-mistero-del-mare.jpeg
-- creature-dal-mare.jpg
-- fondo-marino.jpeg
-- l-insostenibile-dinamismo-del-mare.jpeg
+- 0311_Il_mistero_del_mare.jpeg
+- 0312_Creature_dal_mare.jpeg
+- 0313_Fondo_marino.jpeg
+- 0314_L_insostenibile_dinamismo_del_mare.jpeg
 draft: false
 theme: mare
 ---
@@ -25,7 +25,7 @@ La Porta Verde rappresenta lo spazio artistico perfetto per ricondurre l'arte a 
 {{< /critic-review >}}
 
 ## Opere esposte
-{{< gallery images="images/gallerie/per-amore-del-mare/0311_Il_mistero_del_mare.jpeg" >}}
+{{< gallery images="images/gallerie/per-amore-del-mare/0311_Il_mistero_del_mare.jpeg,images/gallerie/per-amore-del-mare/0312_Creature_dal_mare.jpeg,images/gallerie/per-amore-del-mare/0313_Fondo_marino.jpeg,images/gallerie/per-amore-del-mare/0314_L_insostenibile_dinamismo_del_mare.jpeg" >}}
 
 ## Istantanee dell'evento
 {{< gallery dir="images/mostre/2023-per-amore-del-mare/istantanee" >}}

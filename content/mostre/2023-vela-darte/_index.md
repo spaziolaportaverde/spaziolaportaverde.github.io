@@ -8,36 +8,14 @@ type: "premio"
 images:
 - premio.jpeg
 - trofeo.jpeg
-- danze-nel-mare.jpeg
-- fiori-marini.jpeg
-- la-bellezza-dal-mare.jpeg
-- la-grande-onda.jpeg
-- mare-e-terra-in-armonia.jpeg
-- oro-blu.jpeg
 draft: false
 theme: mare
 ---
 
+## Istantanee dell'Evento
+
+{{< gallery dir="images/mostre/2023-vela-darte/istantanee" >}}
+
 ## Opere in Esposizione
 
-![Premio Vele d'Arte](/images/mostre/2023-vela-darte/premio.jpeg)
-
-![Trofeo](/images/mostre/2023-vela-darte/trofeo.jpeg)
-
-- **Danze nel Mare**
-![Danze nel Mare](/images/mostre/2023-vela-darte/danze-nel-mare.jpeg)
-
-- **Fiori Marini**
-![Fiori Marini](/images/mostre/2023-vela-darte/fiori-marini.jpeg)
-
-- **La Bellezza dal Mare**
-![La Bellezza dal Mare](/images/mostre/2023-vela-darte/la-bellezza-dal-mare.jpeg)
-
-- **La Grande Onda**
-![La Grande Onda](/images/mostre/2023-vela-darte/la-grande-onda.jpeg)
-
-- **Mare e Terra in Armonia**
-![Mare e Terra in Armonia](/images/mostre/2023-vela-darte/mare-e-terra-in-armonia.jpeg)
-
-- **Oro Blu**
-![Oro Blu](/images/mostre/2023-vela-darte/oro-blu.jpeg)
+{{< gallery images="images/opere/per-amore-del-mare/0257_Danze_nel_mare.jpeg,images/opere/per-amore-del-mare/0258_Fiori_marini.jpeg,images/opere/per-amore-del-mare/0259_La_bellezza_dal_mare.jpeg,images/opere/per-amore-del-mare/0260_La_grande_onda.jpeg,images/opere/per-amore-del-mare/0261_Mare_e_terra_in_armonia.jpeg,images/opere/per-amore-del-mare/0262_Oro_blu.jpeg" >}}

@@ -13,24 +13,16 @@ draft: false
 theme: natura
 ---
 
-Non ci siamo mai fermati nel tener desta la voce dell'arte e la creatività per alimentare la speranza nel bene e nel bello.
+{{< critic-review author="Gabriella Ventavoli" >}} Non ci siamo mai fermati nel tener desta la voce dell'arte e la creatività per alimentare la speranza nel bene e nel bello. {{< /critic-review >}}
 
 Quest'anno la mostra è dedicata al coraggio, alla forza delle donne, in particolare a quelle che hanno illuminato la storia. Il titolo della mostra si ispira alla canzone di Hildegard Knef, attrice e cantante tedesca del dopoguerra "...*non posso adattarmi... per me devono piovere rose rosse, nuovi miracoli mi devono accompagnare*", scelta da Angela Merkel nel congedarsi dal governo.
 
+## Istantanee evento
+
+{{< gallery dir="images/mostre/2022-rosse-rosse-su-di-noi/istantanee" >}}
+
 ## Opere in Esposizione
 
-**Rose rosse su di noi** - Acrilico su tela, cm 160x350, 2022
-![Rose rosse su di noi](/images/mostre/2022-rosse-rosse-su-di-noi/mosaico.jpeg)
-
-Sullo sfondo appare il grande dipinto "Il trionfo della vita", che dà l'avvio alle altre opere, come "Rose rosse su di noi", in cui l'artista ha voluto rappresentare la forza della donna in continuità con quello di Madre Terra come il coraggio nel guidare la carica vitale che sorge dal corpo e dalla mente.
-
-![La forza della tenerezza](/images/mostre/2022-rosse-rosse-su-di-noi/foto-6.jpeg)
-
-**La forza della tenerezza** - Opera che vince sulla violenza.
-
-![Le morti bianche](/images/mostre/2022-rosse-rosse-su-di-noi/foto-7.jpeg)
-
-**Le morti bianche** - Opera che rappresenta il dolore che segna indelebilmente la vita di tanti.
-
-## Opere esposte
 {{< gallery images="images/gallerie/madonne/353_Madonna_velata.jpeg" >}}
+
+

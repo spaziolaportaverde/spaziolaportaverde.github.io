@@ -19,11 +19,4 @@ Gabriella Ventavoli ha partecipato al Premio della Critica Art Now, un important
 
 ## Opere Proposte
 
-- **Sognando Amazzonia** - Opera dedicata alla foresta amazzonica e alla sua fragilità
-![Sognando Amazzonia](/images/mostre/2019-premio-critica-art-now/sognando-amazzonia.jpeg)
-
-- **Il Trionfo della Natura** - Celebrazione della bellezza naturale
-![Il Trionfo della Natura](/images/mostre/2019-premio-critica-art-now/il-trionfo-della-natura.jpeg)
-
-- **L'Olocausto della Natura** - Riflessione sulla distruzione ambientale
-![L'Olocausto della Natura](/images/mostre/2019-premio-critica-art-now/olocausto-della-natura.jpeg)
+{{< gallery images="images/gallerie/ecologia/0184_Danza_dell_aria.jpeg,images/gallerie/ecologia/0179_Il_fuoco_nel_bosco.jpeg,images/gallerie/ecologia/0180_Il_mare_in_fiamme.jpeg" >}}

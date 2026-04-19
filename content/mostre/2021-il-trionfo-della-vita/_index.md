@@ -34,18 +34,10 @@ Nell'opera "Il trionfo della vita" si celebra la forza inarrestabile della vita 
 groviglio di energia grafica e cromatica che si manifesta nel pieno del suo crepitio generatore
 {{< /critic-review >}}
 
+## Istantanee evento
+
+{{< gallery dir="images/mostre/2021-il-trionfo-della-vita/istantanee" >}}
+
 ## Opere in Mostra
 
-![L'artista con il curatore dell'evento Salvo Nugnes e il Dr. Davide Mondo](/images/mostre/2021-il-trionfo-della-vita/dsc_3625.jpeg)
-
-![L'artista commenta le opere](/images/mostre/2021-il-trionfo-della-vita/dsc_3656.jpeg)
-
-![L'artista di fronte all'opera Sognando Amazzonia](/images/mostre/2021-il-trionfo-della-vita/dsc_3682.jpeg)
-
-![L'artista di fronte all'opera principale Il trionfo della vita](/images/mostre/2021-il-trionfo-della-vita/dsc_3687.jpeg)
-
-![Le opere Fuoco e ghiaccio e La Pandemia](/images/mostre/2021-il-trionfo-della-vita/dsc_3910.jpeg)
-
-- **Sognando Amazzonia** - Sperando che Amazzonia, il polmone verde della terra rimanga tale: un paradiso di biodiversità
-- **Fuoco e Ghiaccio**
-- **La Pandemia**
+{{< gallery images="images/gallerie/per-amore-del-mare/381_Il_dinamismo_del_mare.jpeg,images/gallerie/per-amore-del-mare/0311_Il_mistero_del_mare.jpeg,images/gallerie/per-amore-del-mare/0326_La_sirena.jpeg" >}}

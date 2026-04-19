@@ -20,6 +20,7 @@ Premio della Giuria a Gabriella Ventavoli.
 L'evento si è tenuto a Firenze, città d'arte per eccellenza, e ha rappresentato un importante momento di incontro tra artisti, critici e appassionati d'arte.
 
 Gabriella Ventavoli ha ricevuto il Premio della Giuria per le sue opere che coniugano arte e impegno civile.
- ![Premio](/images/mostre/2019-premio-della-giuria-firenze/attestato.jpeg)
+![Premio](/images/mostre/2019-premio-della-giuria-firenze/attestato.jpeg)
 
- {{< gallery dir="images/mostre/2019-premio-della-giuria-firenze/istantanee" >}}
+## Istantanee evento
+{{< gallery dir="images/mostre/2019-premio-della-giuria-firenze/istantanee" >}}

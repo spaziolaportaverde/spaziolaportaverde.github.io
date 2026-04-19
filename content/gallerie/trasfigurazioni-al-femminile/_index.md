@@ -32,7 +32,7 @@ images:
 - 0177__Pietà_2.jpeg
 - 0186_Malala.jpeg
 - 0254_Venere_3000.jpeg
-- 0346_.jpeg
+- 0346_La_torera_4.jpeg
 title: Trasfigurazioni Al Femminile
 ---
 {{< gallery dir="images/gallerie/trasfigurazioni-al-femminile" >}}

@@ -19,7 +19,7 @@ images:
 - 0181_DSC01928.jpeg
 - 0184_Danza_dell_aria.jpeg
 - 0185_Oro_blu.jpeg
-- 0315_Africa_-_Foto.jpeg
+- 0315_Africa.jpeg
 - 351_Crocifissione_della_natura.jpeg
 title: Ecologia
 ---
