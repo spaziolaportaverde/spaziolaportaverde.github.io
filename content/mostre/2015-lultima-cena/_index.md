@@ -30,7 +30,7 @@ L'universalità dell'opera della Ventavoli è tale da permettere a ciascuno di n
 {{< gallery dir="images/mostre/2015-lultima-cena/galleria" >}}
 
 ## Opere esposte
-{{< gallery images="images/gallerie/per-amore-della-terra/0348_Ultima_cena.jpeg,images/gallerie/per-amore-del-mare/0152_La_febbre_del_mare.jpeg,images/gallerie/per-amore-del-mare/0208_La_vita_dal_mare_1.jpeg,images/gallerie/per-amore-della-terra/0236_Natura_Naturans.jpeg" >}}
+{{< gallery images="images/gallerie/per-amore-della-terra/0348_Ultima_cena.jpeg,images/gallerie/per-amore-del-mare/0152_La_febbre_del_mare.jpeg,images/gallerie/per-amore-del-mare/0208_La_vita_dal_mare_1.jpeg,images/gallerie/per-amore-della-terra/0236_Natura_Naturans.jpeg,images/gallerie/per-amore-della-terra/0309_Per_amore_della_terra.jpeg,images/gallerie/linee-dinamiche/0310_Linee_dinamiche.jpeg" >}}
 
 ## Istantanee dell'Inaugurazione
 

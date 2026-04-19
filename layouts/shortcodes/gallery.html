@@ -32,9 +32,9 @@
         {{ $altText := replaceRE "[-_]" " " $pureBaseName | title }}
         
         {{/* 1. Try centralized database (data/captions.yaml) */}}
-        {{ if isset site.Data "captions" }}
-          {{ if isset site.Data.captions $pureBaseName }}
-            {{ $caption = index site.Data.captions $pureBaseName }}
+        {{ if isset hugo.Data "captions" }}
+          {{ if isset hugo.Data.captions $pureBaseName }}
+            {{ $caption = index hugo.Data.captions $pureBaseName }}
           {{ end }}
         {{ end }}
         

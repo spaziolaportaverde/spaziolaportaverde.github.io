@@ -19,4 +19,4 @@ La violenza alla luce della psicoanalisi a Milano, 2013.
 {{< gallery dir="images/mostre/2013-violenza-psicoanalisi" >}}
 
 ## Opere esposte
-{{< gallery images="images/gallerie/trasfigurazioni-al-femminile/0093_Il_pianto_di_Olimpia.jpeg,images/gallerie/ecologia/351_Crocifissione_della_natura.jpeg" >}}
+{{< gallery images="images/gallerie/trasfigurazioni-al-femminile/0189_Trasfigurazioni_al_femminile.jpeg,images/gallerie/ecologia/0199_Ecologia.jpeg,images/gallerie/trasfigurazioni-al-femminile/0093_Il_pianto_di_Olimpia.jpeg,images/gallerie/ecologia/351_Crocifissione_della_natura.jpeg" >}}

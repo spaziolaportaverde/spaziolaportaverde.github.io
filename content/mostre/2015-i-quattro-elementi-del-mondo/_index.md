@@ -17,3 +17,7 @@ I Quattro Elementi del Mondo a Milano, 2015.
 
 ## Istantanee dell'evento
 {{< gallery dir="images/mostre/2015-i-quattro-elementi-del-mondo" >}}
+
+
+## Opere esposte
+{{< gallery images="images/gallerie/per-amore-dell-acqua/0233_Per_amore_dell_acqua.jpeg,images/gallerie/per-amore-dell-acqua/0230_Per_amore_dell_acqua.jpeg,images/gallerie/per-amore-dell-acqua/0232_Per_amore_dell_acqua.jpeg,images/gallerie/per-amore-dell-acqua/0238_Per_amore_dell_acqua.jpeg" >}}

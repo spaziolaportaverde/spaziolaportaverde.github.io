@@ -39,3 +39,7 @@ theme: arte
 
 - **La voce del sole**
 ![La voce del sole](/images/mostre/2016-spoleto-arte/la-voce-del-sole.jpeg)
+
+
+## Opere esposte
+{{< gallery images="images/gallerie/per-amore-della-terra/0348_Ultima_cena.jpeg" >}}

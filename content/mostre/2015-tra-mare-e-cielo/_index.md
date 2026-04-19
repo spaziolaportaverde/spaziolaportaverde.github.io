@@ -18,4 +18,4 @@ Tra Mare e Cielo a Firenze, 2015.
 {{< gallery dir="images/mostre/2015-tra-mare-e-cielo" >}}
 
 ## Opere esposte
-{{< gallery images="images/gallerie/madonne/356_Madonna_universale.jpeg,images/gallerie/madonne/357_Madonna_velata.jpeg" >}}
+{{< gallery images="images/gallerie/per-amore-del-mare/0257_Per_amore_del_mare.jpeg,images/gallerie/madonne/356_Madonna_universale.jpeg,images/gallerie/madonne/357_Madonna_velata.jpeg,images/gallerie/per-amore-del-mare/0286_Per_amore_del_mare.jpeg,images/gallerie/per-amore-del-mare/0294_Per_amore_del_mare.jpeg" >}}

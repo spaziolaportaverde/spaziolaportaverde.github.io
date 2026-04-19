@@ -36,3 +36,7 @@ L'opera rappresenta il grido di sofferenza di un albero crocifisso e il grido pe
 
 L'albero nasce, cresce e muore, rappresenta la vita nella sua ciclicità universale. Qui nel telero della Ventavoli si legge il grido di sofferenza di un albero crocifisso e il grido per una natura da salvare.
 {{< /critic-review >}}
+
+
+## Opere esposte
+{{< gallery images="images/gallerie/ecologia/0147_Ecologia.jpeg" >}}

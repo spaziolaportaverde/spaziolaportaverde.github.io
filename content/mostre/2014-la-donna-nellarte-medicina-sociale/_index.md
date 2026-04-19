@@ -19,4 +19,4 @@ La Donna nell'Arte, nella Medicina e nel Sociale a Milano, 2014.
 {{< gallery dir="images/mostre/2014-la-donna-nellarte-medicina-sociale" >}}
 
 ## Opere esposte
-{{< gallery images="images/gallerie/immagini-della-violenza/0197_Farfalla_ferita.jpeg,images/gallerie/orrori-della-guerra/0226_La_strage_degli_innocenti.jpeg" >}}
+{{< gallery images="images/gallerie/immagini-della-violenza/0197_Farfalla_ferita.jpeg,images/gallerie/orrori-della-guerra/0226_La_strage_degli_innocenti.jpeg,images/gallerie/ecologia/0199_Ecologia.jpeg,images/gallerie/trasfigurazioni-al-femminile/0189_Trasfigurazioni_al_femminile.jpeg" >}}

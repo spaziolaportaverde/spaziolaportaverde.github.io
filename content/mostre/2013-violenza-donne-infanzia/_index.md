@@ -24,3 +24,7 @@ L'artista é socia delle seguenti associazioni: ISDE (Associazione Medici per l'
 ## Galleria Opere
 
 {{< gallery dir="images/mostre/2013-violenza-donne-infanzia/galleria" >}}
+
+
+## Opere esposte
+{{< gallery images="images/gallerie/immagini-della-violenza/0182_Pietà_Pietà_per_il_soldato.jpeg,images/gallerie/per-amore-delle-piante/0150_Amazzonia.jpeg,images/gallerie/ecologia/0315_Africa.jpeg,images/gallerie/trasfigurazioni-al-femminile/0021_Trasfigurazioni_al_femminile.jpeg,images/gallerie/trasfigurazioni-al-femminile/0254_Venere_3000.jpeg" >}}

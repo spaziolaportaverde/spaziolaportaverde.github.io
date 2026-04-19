@@ -1,0 +1,23 @@
+---
+title: "Arte per la Vita: Intervista Eccellenze Italiane 2024"
+date: 2024-01-01
+description: "Intervista per Eccellenze Italiane 2024"
+location: "Milano"
+year: 2024
+type: "media"
+images:
+- eccellenze_italiane_arte_per_la_vita.jpeg
+draft: false
+theme: vita
+---
+
+Intervista per "Arte per la Vita: Eccellenze Italiane 2024".
+
+## Arte per la Vita
+
+Il progetto "Arte per la Vita" rappresenta la continuazione del percorso di Gabriella Ventavoli nel promuovere l'arte come strumento di sensibilizzazione verso temi fondamentali come l'ambiente, i diritti umani e la sacralità della vita.
+
+{{< youtube l-nneNFM9Rk >}}
+
+## Opere esposte
+{{< gallery images="images/gallerie/per-amore-dell-acqua/0411_Per_amore_dell_acqua.jpeg,images/gallerie/per-amore-dell-acqua/0412_Per_amore_dell_acqua.jpeg,images/gallerie/per-amore-dell-acqua/0413_Per_amore_dell_acqua.jpeg,images/gallerie/per-amore-dell-acqua/0414_Per_amore_dell_acqua.jpeg" >}}

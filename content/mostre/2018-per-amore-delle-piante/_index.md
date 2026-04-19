@@ -36,3 +36,6 @@ Le piante, immobili e silenziose, sono sede di processi dinamici straordinari. N
 ## Opere Esposte
 
 {{< gallery dir="images/mostre/2018-per-amore-delle-piante/galleria" >}}
+
+## Opere esposte
+{{< gallery images="images/gallerie/per-amore-delle-piante/0370-7_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-8_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-0_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-4_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-5_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-6_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-1_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-3_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-2_Per_amore_delle_piante.jpeg" >}}

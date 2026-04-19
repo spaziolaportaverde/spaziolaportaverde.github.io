@@ -24,4 +24,4 @@ Ha preso il via, all'interno del prestigio Hotel Plus Florence un nuovo progetto
 
 ## Opere esposte
 
-{{< gallery images="images/gallerie/madonne/356_Madonna_universale.jpeg,images/gallerie/madonne/357_Madonna_velata.jpeg" >}}
+{{< gallery images="images/gallerie/per-amore-del-mare/0257_Per_amore_del_mare.jpeg,images/gallerie/madonne/356_Madonna_universale.jpeg,images/gallerie/madonne/357_Madonna_velata.jpeg,images/gallerie/per-amore-del-mare/0286_Per_amore_del_mare.jpeg,images/gallerie/per-amore-del-mare/0294_Per_amore_del_mare.jpeg,images/gallerie/immagini-oniriche/0408_Immagini_oniriche.jpeg,images/gallerie/ecologia/0364_Ecologia.jpeg" >}}

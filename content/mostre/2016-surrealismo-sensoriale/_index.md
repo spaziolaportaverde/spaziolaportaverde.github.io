@@ -35,3 +35,7 @@ La tavolozza cromatica prende vita e si anima di luce e di energia vitale, che a
 {{< /critic-review >}}
 
 {{< gallery dir="images/mostre/2016-surrealismo-sensoriale" >}}
+
+
+## Opere esposte
+{{< gallery images="images/gallerie/ecologia/0064_La_forza_del_sole.jpeg,images/gallerie/ecologia/0184_Danza_dell_aria.jpeg,images/gallerie/per-amore-dell-aria/0262_Per_amore_dell_aria.jpeg,images/gallerie/immagini-oniriche/0237_Immagini_oniriche.jpeg,images/gallerie/ritratti-di-donne/0319_Ritratti_di_donne.jpeg,images/gallerie/immagini-oniriche/0264_Immagini_oniriche.jpeg,images/gallerie/linee-dinamiche/0310_Linee_dinamiche.jpeg,images/gallerie/per-amore-del-mare/0321_Per_amore_del_mare.jpeg,images/gallerie/per-amore-del-mare/0295_Per_amore_del_mare.jpeg,images/gallerie/per-amore-del-mare/0306_Per_amore_del_mare.jpeg,images/gallerie/per-amore-del-mare/0286_Per_amore_del_mare.jpeg" >}}

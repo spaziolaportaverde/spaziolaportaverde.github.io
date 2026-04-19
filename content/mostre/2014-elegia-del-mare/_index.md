@@ -56,7 +56,7 @@ Nel 2013 vince il Premio Berlino per la Critica d'Arte.
 {{< gallery dir="images/mostre/2014-elegia-del-mare/galleria" >}}
 
 ## Opere esposte
-{{< gallery images="images/gallerie/per-amore-del-mare/0087_Il_sonno_del_mare.jpeg,images/gallerie/per-amore-del-mare/0207_La_bellezza_dal_mare.jpeg,images/gallerie/per-amore-del-mare/0209_Mare_e_Terra_in_armonia.jpeg,images/gallerie/per-amore-del-mare/0152_La_febbre_del_mare.jpeg" >}}
+{{< gallery images="images/gallerie/per-amore-del-mare/0087_Il_sonno_del_mare.jpeg,images/gallerie/per-amore-del-mare/0192_Per_amore_del_mare.jpeg,images/gallerie/per-amore-del-mare/0213_Per_amore_del_mare.jpeg,images/gallerie/per-amore-del-mare/0207_La_bellezza_dal_mare.jpeg,images/gallerie/per-amore-del-mare/0214_Per_amore_del_mare.jpeg,images/gallerie/per-amore-del-mare/0209_Mare_e_Terra_in_armonia.jpeg,images/gallerie/per-amore-del-mare/0152_La_febbre_del_mare.jpeg" >}}
 
 ## Istantanee dell'Inaugurazione
 
