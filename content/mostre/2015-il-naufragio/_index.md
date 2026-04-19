@@ -15,8 +15,9 @@ theme: mare
 
 Il Naufragio a Milano, 2015.
 
-## Istantanee dell'evento
+## Immagini dell'Evento
 {{< gallery dir="images/mostre/2015-il-naufragio" >}}
 
 ## Opere esposte
-{{< gallery images="images/gallerie/per-amore-del-mare/0325_Il_naufragio.jpeg,images/gallerie/immagini-della-violenza/0316_Immagini_della_violenza.jpeg,images/gallerie/per-amore-della-terra/0348_Ultima_cena.jpeg" >}}
+{{< gallery images="images/gallerie/per-amore-del-mare/0325_Il_naufragio.jpeg,images/gallerie/per-amore-della-terra/0348_Ultima_cena.jpeg" >}}
+

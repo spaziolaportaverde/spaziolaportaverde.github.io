@@ -15,5 +15,5 @@ theme: vita
 
 La serata dei Poeti a Milano, 2015.
 
-## Istantanee dell'evento
+## Immagini dell'Evento
 {{< gallery dir="images/mostre/2015-serata-dei-poeti" >}}

@@ -25,3 +25,4 @@ Le opere presentate hanno esplorato temi legati all'identità, alla memoria e al
 
 ## Opere esposte
 {{< gallery images="images/gallerie/per-amore-delle-piante/359_Il_trionfo_della_natura.jpeg" >}}
+

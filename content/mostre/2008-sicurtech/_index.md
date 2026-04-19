@@ -13,7 +13,7 @@ theme: vita
 
 SICURTECH a Milano, 2008.
 
-## Istantanee dell'evento
+## Immagini dell'Evento
 {{< gallery dir="images/mostre/2008-sicurtech" >}}
 
 ## Opere esposte

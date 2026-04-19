@@ -21,7 +21,7 @@ Con l'osservazione da un punto di vista più esaustivo, la mostra personale di G
 
 {{< gallery dir="images/mostre/2013-violenza-donna-natura/galleria" >}}
 
-## Istantanee dell'Evento
+## Immagini dell'Evento
 
 {{< gallery dir="images/mostre/2013-violenza-donna-natura/istantanee" >}}
 

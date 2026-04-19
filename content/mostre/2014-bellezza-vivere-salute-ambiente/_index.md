@@ -15,7 +15,7 @@ theme: ambiente
 
 La bellezza del vivere in salute in ambiente sano a Trieste, 2014.
 
-## Istantanee dell'evento
+## Immagini dell'Evento
 {{< gallery dir="images/mostre/2014-bellezza-vivere-salute-ambiente" >}}
 
 ## Opere esposte

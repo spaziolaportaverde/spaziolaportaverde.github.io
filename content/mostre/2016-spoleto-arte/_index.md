@@ -43,3 +43,4 @@ theme: arte
 
 ## Opere esposte
 {{< gallery images="images/gallerie/per-amore-della-terra/0348_Ultima_cena.jpeg" >}}
+

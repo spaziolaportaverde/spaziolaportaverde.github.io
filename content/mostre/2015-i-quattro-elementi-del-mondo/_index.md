@@ -15,7 +15,7 @@ theme: ambiente
 
 I Quattro Elementi del Mondo a Milano, 2015.
 
-## Istantanee dell'evento
+## Immagini dell'Evento
 {{< gallery dir="images/mostre/2015-i-quattro-elementi-del-mondo" >}}
 
 

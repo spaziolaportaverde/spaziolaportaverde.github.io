@@ -15,5 +15,5 @@ theme: vita
 
 La Donna dall'Eros alla Maternità a Milano, 2016.
 
-## Istantanee dell'evento
+## Immagini dell'Evento
 {{< gallery dir="images/mostre/2016-la-donna-dalleros-alla-maternita" >}}

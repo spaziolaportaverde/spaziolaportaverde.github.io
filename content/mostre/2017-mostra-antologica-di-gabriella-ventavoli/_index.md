@@ -32,4 +32,5 @@ Il 22 Aprile 2017 a Piacenza, presso la Galleria Jelmoni, nel cuore della città
 - **Come le Onde**
 
 ## Opere esposte
-{{< gallery images="images/gallerie/linee-dinamiche/0054_Fiore_marino.jpeg,images/gallerie/per-amore-della-terra/0407_Per_amore_della_terra.jpeg,images/gallerie/linee-dinamiche/0057_Dinamismo_3.jpeg,images/gallerie/ritratti-di-uomini/0118_Ritratti_di_uomini.jpeg,images/gallerie/ecologia/0315_Africa.jpeg" >}}
+{{< gallery images="images/gallerie/linee-dinamiche/0054_Fiore_marino.jpeg,images/gallerie/linee-dinamiche/0057_Dinamismo_3.jpeg,images/gallerie/ecologia/0315_Africa.jpeg" >}}
+

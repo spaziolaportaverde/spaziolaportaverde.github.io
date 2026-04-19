@@ -15,5 +15,5 @@ theme: vita
 
 Fuori Salone a Milano, 2013.
 
-## Istantanee dell'evento
+## Immagini dell'Evento
 {{< gallery dir="images/mostre/2013-fuori-salone" >}}

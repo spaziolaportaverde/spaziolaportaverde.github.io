@@ -54,3 +54,6 @@ Nella splendida cornice della grande sala del Palazzo Leti Sansi, a Spoleto, si 
 ## Ospiti di Rilievo
 
 Livia Pomodoro presidente dell'accademia di Belle Arti di Brera, la scrittrice Sveva Casati Modigliani, l'attuale sottosegretaria di Stato Maria Elena Boschi, il presidente del "Festival dei Due Mondi" Fabrizio Cardarelli, l'Onorevole Lella Golfo, Alessandro Meluzzi, Paola Severini della Rai, Sonia Laura Tatò e Patrick Pugliese di Striscia la Notizia.
+
+## Opere esposte
+{{< gallery images="images/gallerie/trasfigurazioni-al-femminile/0085_Quando_l_amore_ferisce.jpeg,images/gallerie/ritratti-di-donne/0250_La_suonatrice_di_violino.jpeg" >}}

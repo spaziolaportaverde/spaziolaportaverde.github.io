@@ -29,4 +29,5 @@ Quest'anno la mostra è dedicata al coraggio, alla forza delle donne, in partico
 
 
 ## Opere esposte
-{{< gallery images="images/gallerie/omaggio-alla-bellezza/0369_Omaggio_alla_bellezza.jpeg,images/gallerie/ecologia/0364_Ecologia.jpeg,images/gallerie/madonne/353_Madonna_velata.jpeg" >}}
+{{< gallery images="images/gallerie/madonne/353_Madonna_velata.jpeg" >}}
+

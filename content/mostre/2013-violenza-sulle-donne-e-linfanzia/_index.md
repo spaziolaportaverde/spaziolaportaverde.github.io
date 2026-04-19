@@ -15,7 +15,7 @@ theme: vita
 
 Violenza sulle Donne e l'Infanzia a Milano, 2013.
 
-## Istantanee dell'evento
+## Immagini dell'Evento
 {{< gallery dir="images/mostre/2013-violenza-sulle-donne-e-linfanzia" >}}
 
 ## Opere esposte

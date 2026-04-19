@@ -90,4 +90,5 @@ E tra le violenze più subdole è l'inquinamento, che ferisce la terra, l'aria e
 Altre opere, non esposte, sono visibili nella galleria virtuale.
 
 ## Opere esposte
-{{< gallery images="images/gallerie/per-amore-delle-piante/0178_La_forza_degli_alberi.jpeg,images/gallerie/ecologia/0179_Il_fuoco_nel_bosco.jpeg,images/gallerie/per-amore-delle-piante/0180_Luce_sulla_foresta.jpeg,images/gallerie/per-amore-delle-piante/0181_L_abbraccio_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0150_Amazzonia.jpeg,images/gallerie/ecologia/0315_Africa.jpeg,images/gallerie/ecologia/0014_La_nostra_madre_Terra_1.jpeg,images/gallerie/ecologia/351_Crocifissione_della_natura.jpeg" >}}
+{{< gallery images="images/gallerie/ecologia/0178_La_forza_degli_alberi.jpeg,images/gallerie/ecologia/0179_Il_fuoco_nel_bosco.jpeg,images/gallerie/ecologia/0180_DSC01927.jpeg,images/gallerie/ecologia/0181_DSC01928.jpeg,images/gallerie/ecologia/0150_Amazzonia.jpeg,images/gallerie/ecologia/0315_Africa.jpeg,images/gallerie/ecologia/0014_La_nostra_madre_Terra_1.jpeg,images/gallerie/ecologia/351_Crocifissione_della_natura.jpeg" >}}
+

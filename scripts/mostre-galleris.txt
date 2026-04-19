@@ -1,20 +1,20 @@
 # 2009-museo-scienza
-64 Ecologia
-153 Ecologia
-22 Immagini della violenza
-315 Ecologia
-68 Strade e stragi
+0064 Ecologia
+0153 Ecologia
+0022 Immagini della violenza
+0315 Ecologia
+0068 Strade e stragi
 
 # 2013-ambiente-e-salute
-315 Ecologia
-191 Ecologia
-10 Ecologia
-180 Ecologia
-193 Per amore della terra
-14 Pe amore della terra
-181 Per amore delle piante
-185 Per amore del mare
-351 Ecologia
+0315 Ecologia
+0191 Ecologia
+0010 Ecologia
+0180 Ecologia
+0193 Per amore della terra
+0014 Pe amore della terra
+0181 Per amore delle piante
+0185 Per amore del mare
+0351 Ecologia
 
 # 2013-violenza-psicoanalisi
 0189 Trasfigurazioni al femminile

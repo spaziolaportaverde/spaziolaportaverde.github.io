@@ -12,7 +12,7 @@ draft: false
 theme: mare
 ---
 
-## Istantanee dell'Evento
+## Immagini dell'Evento
 
 {{< gallery dir="images/mostre/2023-vela-darte/istantanee" >}}
 

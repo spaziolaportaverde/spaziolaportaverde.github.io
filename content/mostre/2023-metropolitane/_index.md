@@ -20,4 +20,5 @@ In concomitanza con la Mostra "Per amore del mare" che si svolge a partire dal 4
 
 
 ## Opere esposte
-{{< gallery images="images/gallerie/per-amore-del-mare/375_Venere.jpeg,images/gallerie/per-amore-del-mare/0409_Per_amore_del_mare.jpeg,images/gallerie/per-amore-del-mare/0311_Il_mistero_del_mare.jpeg" >}}
+{{< gallery images="images/gallerie/per-amore-del-mare/375_Venere.jpeg,images/gallerie/per-amore-del-mare/0311_Il_mistero_del_mare.jpeg" >}}
+

@@ -27,3 +27,4 @@ Le due opere formano un dittico che celebra la bellezza e la sacralità del mare
 
 ## Opere esposte
 {{< gallery images="images/gallerie/per-amore-del-mare/0207_La_bellezza_dal_mare.jpeg,images/gallerie/per-amore-del-mare/0327_La_vita_dal_mare_2.jpeg" >}}
+

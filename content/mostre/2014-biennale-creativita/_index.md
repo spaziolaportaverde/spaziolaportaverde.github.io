@@ -23,4 +23,5 @@ La 1.a Biennale della Creatività, svolta a Verona dal 12 al 16 Febbraio 2014 ha
 L'artista ha ricevuto un lusinghiero attestato di ammissione.
 
 ## Opere esposte
-{{< gallery images="images/gallerie/ritratti-di-uomini/0107_Ritratti_di_uomini.jpeg,images/gallerie/ritratti-di-uomini/0109_Paternità.jpeg" >}}
+{{< gallery images="images/gallerie/ritratti-di-uomini/0109_Paternità.jpeg" >}}
+

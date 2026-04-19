@@ -12,7 +12,7 @@ theme: vita
 
 Profondo Rosa
 
-## Istantanee dell'evento
+## Immagini dell'Evento
 {{< gallery dir="images/mostre/2007-profondo-rosa/istantanee" >}}
 
 ## Opere esposte

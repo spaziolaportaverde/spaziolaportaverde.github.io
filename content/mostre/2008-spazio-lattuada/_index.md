@@ -15,7 +15,7 @@ theme: vita
 
 Spazio Lattuada a Milano, 2008.
 
-## Istantanee dell'evento
+## Immagini dell'Evento
 {{< gallery dir="images/mostre/2008-spazio-lattuada" >}}
 
 ## Opere esposte

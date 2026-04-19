@@ -25,10 +25,11 @@ La dott. Gabriella Ventavoli ha conferito due lauree: in scienze biologiche e in
 L'ambiente deve essere un valore, un luogo fisico e ideale della vita di tutti gli esseri umani, ma al quale gli uomini non sempre dimostrano la dovuta sensibilità ed attenzione.
 {{< /critic-review >}}
 
-## Istantanee dell'Evento
+## Immagini dell'Evento
 
 {{< gallery dir="images/mostre/2014-la-bellezza-del-vivere-in-salute/istantanee" >}}
 
 
 ## Opere esposte
-{{< gallery images="images/gallerie/per-amore-delle-piante/0150_Amazzonia.jpeg,images/gallerie/per-amore-del-mare/0212_Per_amore_del_mare.jpeg,images/gallerie/ecologia/0153_Inquinamento.jpeg,images/gallerie/ecologia/0199_Ecologia.jpeg,images/gallerie/per-amore-della-terra/0193_Madre_Natura.jpeg,images/gallerie/ecologia/0199_Ecologia.jpeg,images/gallerie/per-amore-della-terra/0193_Madre_Natura.jpeg" >}}
+{{< gallery images="images/gallerie/ecologia/0150_Amazzonia.jpeg,images/gallerie/ecologia/0153_Inquinamento.jpeg,images/gallerie/per-amore-della-terra/0193_Madre_Natura.jpeg,images/gallerie/per-amore-della-terra/0193_Madre_Natura.jpeg" >}}
+

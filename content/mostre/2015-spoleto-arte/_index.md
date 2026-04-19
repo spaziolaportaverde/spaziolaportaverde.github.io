@@ -15,5 +15,5 @@ theme: vita
 
 Spoleto Arte 2015 a Spoleto, 2015.
 
-## Istantanee dell'evento
+## Immagini dell'Evento
 {{< gallery dir="images/mostre/2015-spoleto-arte" >}}

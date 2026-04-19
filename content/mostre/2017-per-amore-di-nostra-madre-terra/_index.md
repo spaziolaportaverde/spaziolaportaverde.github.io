@@ -31,4 +31,6 @@ Tutta la narrazione per immagini si svolge su un telero di carta lungo 10+7 x 1,
 - **Per Amore di Nostra Madre Terra 2**
 
 ## Opere esposte
-{{< gallery images="images/gallerie/per-amore-della-terra/361_Telero_2_ritagliatorid.jpeg,images/gallerie/per-amore-della-terra/362_Telero_1_ritagliatorid.jpeg" >}}
+{{< gallery images="images/gallerie/per-amore-delle-piante/370_7_Magnolia.jpeg,images/gallerie/per-amore-delle-piante/370_8_Platano.jpeg,images/gallerie/per-amore-delle-piante/370_0_Sognando_Amazzonia.jpeg,images/gallerie/per-amore-delle-piante/370_4_Castagno.jpeg,images/gallerie/per-amore-delle-piante/370_5_Melo.jpeg,images/gallerie/per-amore-delle-piante/370_6_Mimosa.jpeg,images/gallerie/per-amore-delle-piante/370_1_Olivo.jpeg,images/gallerie/per-amore-delle-piante/370_3_Limone.jpeg,images/gallerie/per-amore-delle-piante/370_2_Pineta.jpeg" >}}
+
+
