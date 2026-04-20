@@ -11,7 +11,7 @@ images:
 - la-dea-dellacqua.jpeg
 - lidolo-eterno.jpeg
 - madre-natura.jpeg
-draft: false
+draft: true
 theme: arte
 ---
 

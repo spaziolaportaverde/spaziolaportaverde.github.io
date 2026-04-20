@@ -14,4 +14,4 @@ services:
       # Optional: set env vars for watermark script if needed
       - WM_INVISIBLE_ID=dev-id
     # Run the Hugo server with live reloading
-    command: hugo server --bind 0.0.0.0 --buildDrafts --buildFuture --disableFastRender --logLevel=info
+    command: hugo server --bind 0.0.0.0 --disableFastRender --logLevel=info

@@ -6,7 +6,7 @@ location: "Milano"
 year: 2015
 type: "personale"
 images:
-  - "l-ultima-cena-polittico.jpeg"
+  - 2_DSC02685.jpeg
 draft: false
 theme: spiritualita
 ---

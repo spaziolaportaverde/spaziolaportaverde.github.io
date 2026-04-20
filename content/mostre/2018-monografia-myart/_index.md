@@ -7,7 +7,7 @@ year: 2018
 type: "pubblicazione"
 images:
 - myart.jpg
-draft: false
+draft: true
 theme: arte
 ---
 
