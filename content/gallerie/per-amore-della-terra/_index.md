@@ -1,6 +1,6 @@
 ---
 images:
-- 0188_DSC02173_Natura_e_Bellezza.jpeg
+- 0188_Natura_e_Bellezza.jpeg
 - 0193_DSC02178_Madre_Natura.jpeg
 - 0222_La_terra_ci_nutre.jpeg
 - 0234_Il_martirio_della_terra.jpeg

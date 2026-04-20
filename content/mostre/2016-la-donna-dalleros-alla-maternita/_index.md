@@ -9,7 +9,7 @@ images:
 - 1_IMG_0122.jpeg
 - 2_IMG_0137.jpeg
 - 3_IMG_0151.jpeg
-draft: false
+draft: true
 theme: vita
 ---
 

@@ -7,7 +7,7 @@ year: 2020
 type: "personale"
 images:
 - tgcom24_spoleto_arte.jpeg
-draft: false
+draft: true
 theme: arte
 ---
 

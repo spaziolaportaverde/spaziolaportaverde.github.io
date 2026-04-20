@@ -7,8 +7,6 @@ year: 2017
 type: "personale"
 images:
 - 1_IMG_0527.jpeg
-- 2_IMG_0522.jpeg
-- 3_IMG_0508.jpeg
 draft: false
 theme: mare
 ---
@@ -16,7 +14,7 @@ theme: mare
 Per Amore del Mare 2017 a Milano, 2017.
 
 ## Immagini dell'Evento
-{{< gallery dir="images/mostre/2017-per-amore-del-mare" >}}
+{{< gallery dir="images/mostre/2017-per-amore-del-mare/istantanee" >}}
 
 ## Opere esposte
 {{< gallery images="images/gallerie/per-amore-del-mare/0334_Per_amore_del_mare.jpeg" >}}

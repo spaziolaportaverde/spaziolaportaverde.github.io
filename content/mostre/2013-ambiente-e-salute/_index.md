@@ -16,7 +16,7 @@ theme: ambiente
 Ambiente e Salute a Arezzo, 2013.
 
 ## Immagini dell'Evento
-{{< gallery dir="images/mostre/2013-ambiente-e-salute" >}}
+{{< gallery dir="images/mostre/2013-ambiente-e-salute/istantanee" >}}
 
 ## Opere esposte
 {{< gallery images="images/gallerie/ecologia/0315_Africa.jpeg,images/gallerie/trasfigurazioni-al-femminile/0010_La_sposa_afghana_bilanciato.jpeg,images/gallerie/ecologia/0180_DSC01927.jpeg,images/gallerie/per-amore-della-terra/0193_Madre_Natura.jpeg,images/gallerie/ecologia/0014_La_nostra_madre_Terra_1.jpeg,images/gallerie/ecologia/0181_DSC01928.jpeg,images/gallerie/ecologia/0185_Oro_blu.jpeg,images/gallerie/ecologia/351_Crocifissione_della_natura.jpeg" >}}

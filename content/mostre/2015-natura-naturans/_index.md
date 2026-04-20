@@ -23,23 +23,10 @@ Secondo il verso di Holderlin commentato da Heiddeger, gli uomini abitano poetic
 La natura offuscata, deturpata, resa malata, é preda di un demone che combatte nel presente. L'artista ha tentato, e vi é riuscita superbamente, di agitare questo combattimento, per meglio offrire un appoggio salvifico e un principio generativo in perenne incandescenza. Pane e vino diventano gli alimenti primari di una "natura naturans" visti che nei secoli e nei millenni le civiltà hanno intorno a questo cibo e bevanda inscenato riti e misteri...
 {{< /critic-review >}}
 
-## Opere in Esposizione
+## Immagini dell'Evento
 
-- **La bellezza dal mare**
-- **L'albero della vita**
-- **Madre Natura**
-- **Il martirio della Terra**
-- **L'ultima Foglia**
-- **Siccità**
-- **Le diverse forme dell'acqua**
-- **Natura Naturans**
-- **La Primavera**
-- **La Luce**
+{{< gallery dir="images/mostre/2015-natura-naturans/istantanee" >}}
 
 ## Opere esposte
 {{< gallery images="images/gallerie/per-amore-del-mare/0210_Se_il_mare_si_scalda.jpeg,images/gallerie/per-amore-del-mare/0208_La_vita_dal_mare_1.jpeg,images/gallerie/per-amore-della-terra/0236_Natura_Naturans.jpeg,images/gallerie/per-amore-della-terra/0222_La_terra_ci_nutre.jpeg,images/gallerie/per-amore-della-terra/0348_Ultima_cena.jpeg,images/gallerie/per-amore-delle-piante/0235_L_ultima_foglia.jpeg,images/gallerie/ecologia/0180_DSC01927.jpeg" >}}
 
-
-## Immagini dell'Evento
-
-{{< gallery dir="images/mostre/2015-natura-naturans/istantanee" >}}

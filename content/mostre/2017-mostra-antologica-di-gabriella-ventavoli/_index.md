@@ -18,19 +18,5 @@ Il 22 Aprile 2017 a Piacenza, presso la Galleria Jelmoni, nel cuore della città
 
 ## Opere in Esposizione
 
-### Opere Recenti
-
-![Poseidon e Armonia](/images/mostre/2017-mostra-antologica-di-gabriella-ventavoli/poseidon.jpeg)
-
-- **Poseidon e Armonia**
-- **Donna in blu**
-
-### Opere Precedenti
-- **Africa**
-- **Canto di Donna**
-- **Madre Natura**
-- **Come le Onde**
-
-## Opere esposte
-{{< gallery images="images/gallerie/linee-dinamiche/0054_Fiore_marino.jpeg,images/gallerie/linee-dinamiche/0057_Dinamismo_3.jpeg,images/gallerie/ecologia/0315_Africa.jpeg" >}}
+{{< gallery images="images/gallerie/per-amore-del-mare/0054_Come_le_onde.jpeg,images/gallerie/linee-dinamiche/0057_Dinamismo_3.jpeg,images/gallerie/ecologia/0315_Africa.jpeg,images/gallerie/ritratti-di-uomini/0118_Uomo_con_la_camicia.jpeg,images/gallerie/per-amore-della-terra/0407_Ninfa.jpeg" >}}
 

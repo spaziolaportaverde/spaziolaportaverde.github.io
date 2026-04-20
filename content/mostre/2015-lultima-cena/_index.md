@@ -25,14 +25,9 @@ Per dare forma a un austero rito conviviale, Gabriella Ventavoli ha dipinto terr
 L'universalità dell'opera della Ventavoli è tale da permettere a ciascuno di noi di leggere in essa la nostra storia, e la sua Ultima Cena non celebra solo un rito di addio, ma è anche capace di evocare simbolicamente la riunione di corpo e anima, dell'umano e divino, ovvero del cielo e della terra.
 {{< /critic-review >}}
 
-## Galleria Opere
+## Immagini dell'Evento
 
-{{< gallery dir="images/mostre/2015-lultima-cena/galleria" >}}
+{{< gallery dir="images/mostre/2015-lultima-cena/istantanee" >}}
 
 ## Opere esposte
 {{< gallery images="images/gallerie/per-amore-della-terra/0348_Ultima_cena.jpeg,images/gallerie/per-amore-del-mare/0152_La_febbre_del_mare.jpeg,images/gallerie/per-amore-del-mare/0208_La_vita_dal_mare_1.jpeg,images/gallerie/per-amore-della-terra/0236_Natura_Naturans.jpeg" >}}
-
-
-## Istantanee dell'Inaugurazione
-
-{{< gallery dir="images/mostre/2015-lultima-cena/istantanee" >}}

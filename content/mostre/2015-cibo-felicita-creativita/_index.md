@@ -30,9 +30,11 @@ Sarà bene ricordare prima questa frase di Erodoto: *"La felicità umana non sta
 Da sempre il percorso artistico di Gabriella Ventavoli, artista di chiara fama, si connatura nel sentire l'arte come impegno civile e morale, spaziando su tematiche legate all'ambiente, alla vita, alla salvaguardia del mondo e delle sue risorse naturali, a significare attraverso un piano via via ideale e colto i quattro elementi che da sempre hanno portato filosofi, poeti e pittori a scrivere, riflettere e dipingere, ovvero l'aria, l'acqua, la terra e il fuoco.
 {{< /critic-review >}}
 
-## Opere esposte
-{{< gallery images="images/gallerie/per-amore-della-terra/0222_La_terra_ci_nutre.jpeg,images/gallerie/per-amore-del-mare/0201_La_sofferenza_del_mare.jpeg,images/gallerie/per-amore-del-mare/0208_La_vita_dal_mare_1.jpeg,images/gallerie/per-amore-della-terra/0234_Il_martirio_della_terra.jpeg,images/gallerie/orrori-della-guerra/0225_La_cacciata_dal_paradiso.jpeg" >}}
 
 ## Immagini dell'Evento
 
 {{< gallery dir="images/mostre/2015-cibo-felicita-creativita/istantanee" >}}
+
+## Opere esposte
+{{< gallery images="images/gallerie/per-amore-della-terra/0222_La_terra_ci_nutre.jpeg,images/gallerie/per-amore-del-mare/0201_La_sofferenza_del_mare.jpeg,images/gallerie/per-amore-del-mare/0208_La_vita_dal_mare_1.jpeg,images/gallerie/per-amore-della-terra/0234_Il_martirio_della_terra.jpeg,images/gallerie/orrori-della-guerra/0225_La_cacciata_dal_paradiso.jpeg" >}}
+

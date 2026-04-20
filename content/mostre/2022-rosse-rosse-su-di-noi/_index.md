@@ -24,10 +24,3 @@ Quest'anno la mostra è dedicata al coraggio, alla forza delle donne, in partico
 ## Opere in Esposizione
 
 {{< gallery images="images/gallerie/madonne/353_Madonna_velata.jpeg" >}}
-
-
-
-
-## Opere esposte
-{{< gallery images="images/gallerie/madonne/353_Madonna_velata.jpeg" >}}
-

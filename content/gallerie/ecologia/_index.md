@@ -5,7 +5,7 @@ images:
 - 0069_L_anima_del_mare_1.jpeg
 - 0070_L_anima_del_mare_2.jpeg
 - 0071_In_fuga_dal_fuoco.jpeg
-- 0075_Siccità.jpeg
+- 0075_Siccita.jpeg
 - 0081_Se_l_aria_brucia.jpeg
 - 0087_Il_sonno_del_mare.jpeg
 - 0090_Fuoco_nel_bosco.jpeg

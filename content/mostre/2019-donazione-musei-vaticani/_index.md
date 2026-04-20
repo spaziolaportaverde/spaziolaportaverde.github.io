@@ -39,4 +39,4 @@ L'albero nasce, cresce e muore, rappresenta la vita nella sua ciclicità univers
 
 
 ## Opere esposte
-{{< gallery images="images/gallerie/ecologia/0147_Ecologia.jpeg" >}}
+{{< gallery images="images/gallerie/ecologia/0147_Crocifissione_della_natura_2.jpeg" >}}

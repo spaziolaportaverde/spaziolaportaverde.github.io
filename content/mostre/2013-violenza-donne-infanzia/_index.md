@@ -6,7 +6,7 @@ location: "Milano"
 year: 2013
 type: "personale"
 images:
-- creativita.jpeg
+- 2_DSC02083.jpeg
 draft: false
 theme: diritti
 ---
@@ -19,12 +19,11 @@ Le opere esposte rimandano alla raffigurazione del sentimento della pietas, per 
 
 Gabriella Ventavoli é medico psicanalista, pittrice, scrittrice e poetessa. L'artista riesce, con una straordinaria originalità, a coniugare un profondo e proprio lirismo espressivo con la realtà del mondo, nelle sue connotazioni più drammatiche. Interpretazione soggettiva e oggettività del reale si fondono nelle sue profonde opere, testimonianze dei drammi e delle emozioni dell'uomo. Nelle sue opere, di forte impatto emotivo, debolezze terrene e drammi umani sono trasfigurati attraverso forme danzanti e morbide, al contempo cariche di energia vitale. 
 
-L'artista é socia delle seguenti associazioni: ISDE (Associazione Medici per l'ambiente), AIDM (Associazione Italiana Donne Medico), e Bambini Ancora (attiva nella protezione dell'infanzia).
+L'artista è socia delle seguenti associazioni: ISDE (Associazione Medici per l'ambiente), AIDM (Associazione Italiana Donne Medico), e Bambini Ancora (attiva nella protezione dell'infanzia).
 
-## Galleria Opere
+## Immagini dell'Evento
 
-{{< gallery dir="images/mostre/2013-violenza-donne-infanzia/galleria" >}}
-
+{{< gallery dir="images/mostre/2013-violenza-donne-infanzia/istantanee" >}}
 
 ## Opere esposte
 {{< gallery images="images/gallerie/immagini-della-violenza/0182_Pietà_Pietà_per_il_soldato.jpeg,images/gallerie/ecologia/0150_Amazzonia.jpeg,images/gallerie/ecologia/0315_Africa.jpeg,images/gallerie/trasfigurazioni-al-femminile/0007_La_speranza.jpeg,images/gallerie/trasfigurazioni-al-femminile/0254_Venere_3000.jpeg" >}}

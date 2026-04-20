@@ -6,7 +6,7 @@ location: "Milano"
 year: 2013
 type: "personale"
 images:
-- africa.jpeg
+- dsc-0126.jpeg
 draft: false
 theme: diritti
 ---
@@ -17,14 +17,10 @@ Il 23 novembre 2013, in occasione delle manifestazioni a favore dell'eliminazion
 Con l'osservazione da un punto di vista più esaustivo, la mostra personale di Gabriella Ventavoli propone un nutrito corpus di opere, nel quale persino l'intensità della pennellata e la veemenza cromatica convergono a rafforzare il messaggio sociale.
 {{< /critic-review >}}
 
-## Galleria Opere
-
-{{< gallery dir="images/mostre/2013-violenza-donna-natura/galleria" >}}
-
 ## Immagini dell'Evento
 
 {{< gallery dir="images/mostre/2013-violenza-donna-natura/istantanee" >}}
 
 ## Opere Esposte
 
-Le opere in mostra comprendevano dipinti già presentati nella precedente esposizione "Violenza sulle donne e l'infanzia" (febbraio 2013), accompagnate da proiezioni di ulteriori lavori dell'artista e da commenti alle opere di Caravaggio e Michelangelo.
+Le opere in mostra comprendevano dipinti già presentati nella precedente esposizione [Violenza sulle donne e l'infanzia](/mostre/2013-violenza-donna-infanzia/) (febbraio 2013), accompagnate da proiezioni di ulteriori lavori dell'artista e da commenti alle opere di Caravaggio e Michelangelo.

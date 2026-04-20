@@ -6,7 +6,7 @@ location: "Milano"
 year: 2014
 type: "personale"
 images:
-  - "il-sonno-del-mare.jpeg"
+  - "dsc02379.jpeg"
 draft: false
 theme: mare
 ---
@@ -51,14 +51,10 @@ Ha vinto per il Giornalismo e la Critica d'Arte, il Premio Saint Vincent nel 199
 Nel 2013 vince il Premio Berlino per la Critica d'Arte.
 {{< /critic-review >}}
 
-## Galleria Opere
-
-{{< gallery dir="images/mostre/2014-elegia-del-mare/galleria" >}}
-
-## Opere esposte
-{{< gallery images="images/gallerie/ecologia/0087_Il_sonno_del_mare.jpeg,images/gallerie/per-amore-del-mare/0207_La_bellezza_dal_mare.jpeg,images/gallerie/per-amore-del-mare/0209_Mare_e_Terra_in_armonia.jpeg,images/gallerie/per-amore-del-mare/0152_La_febbre_del_mare.jpeg" >}}
-
-
-## Istantanee dell'Inaugurazione
+## Immagini dell'Evento
 
 {{< gallery dir="images/mostre/2014-elegia-del-mare/istantanee" >}}
+
+## Opere esposte
+
+{{< gallery images="images/gallerie/ecologia/0087_Il_sonno_del_mare.jpeg,images/gallerie/per-amore-del-mare/0207_La_bellezza_dal_mare.jpeg,images/gallerie/per-amore-del-mare/0209_Mare_e_Terra_in_armonia.jpeg,images/gallerie/per-amore-del-mare/0152_La_febbre_del_mare.jpeg" >}}

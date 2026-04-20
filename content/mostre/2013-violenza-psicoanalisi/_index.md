@@ -6,9 +6,7 @@ location: "Milano"
 year: 2013
 type: "personale"
 images:
-- 1_DSC_0055.jpeg
 - 2_DSC_0058.jpeg
-- 3_DSC_0061.jpeg
 draft: false
 theme: vita
 ---
@@ -16,7 +14,7 @@ theme: vita
 La violenza alla luce della psicoanalisi a Milano, 2013.
 
 ## Immagini dell'Evento
-{{< gallery dir="images/mostre/2013-violenza-psicoanalisi" >}}
+{{< gallery dir="images/mostre/2013-violenza-psicoanalisi/istantanee" >}}
 
 ## Opere esposte
 {{< gallery images="images/gallerie/trasfigurazioni-al-femminile/0093_Il_pianto_di_Olimpia.jpeg,images/gallerie/ecologia/351_Crocifissione_della_natura.jpeg" >}}

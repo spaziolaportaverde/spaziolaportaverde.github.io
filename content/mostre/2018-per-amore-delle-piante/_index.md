@@ -31,11 +31,7 @@ Le piante, immobili e silenziose, sono sede di processi dinamici straordinari. N
 
 ## Galleria
 
-{{< gallery dir="images/mostre/2018-per-amore-delle-piante" >}}
-
-## Opere Esposte
-
-{{< gallery dir="images/mostre/2018-per-amore-delle-piante/galleria" >}}
+{{< gallery dir="images/mostre/2018-per-amore-delle-piante/istantanee" >}}
 
 ## Opere esposte
-{{< gallery images="images/gallerie/per-amore-delle-piante/0370-7_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-8_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-0_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-4_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-5_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-6_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-1_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-3_Per_amore_delle_piante.jpeg,images/gallerie/per-amore-delle-piante/0370-2_Per_amore_delle_piante.jpeg" >}}
+{{< gallery images="images/gallerie/per-amore-delle-piante/370_7_Magnolia.jpeg,images/gallerie/per-amore-delle-piante/370_8_Platano.jpeg,images/gallerie/per-amore-delle-piante/370_0_Sognando_Amazzonia.jpeg,images/gallerie/per-amore-delle-piante/370_4_Castagno.jpeg,images/gallerie/per-amore-delle-piante/370_5_Melo.jpeg,images/gallerie/per-amore-delle-piante/370_6_Mimosa.jpeg,images/gallerie/per-amore-delle-piante/370_1_Olivo.jpeg,images/gallerie/per-amore-delle-piante/370_3_Limone.jpeg,images/gallerie/per-amore-delle-piante/370_2_Pineta.jpeg" >}}

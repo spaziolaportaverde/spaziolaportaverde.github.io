@@ -7,11 +7,6 @@ year: 2021
 type: "personale"
 images:
 - il-trionfo-della-vita.jpeg
-- dsc_3625.jpeg
-- dsc_3656.jpeg
-- dsc_3682.jpeg
-- dsc_3687.jpeg
-- dsc_3910.jpeg
 draft: false
 theme: vita
 ---
@@ -41,6 +36,3 @@ groviglio di energia grafica e cromatica che si manifesta nel pieno del suo crep
 ## Opere in Mostra
 
 {{< gallery images="images/gallerie/per-amore-del-mare/381_Il_dinamismo_del_mare.jpeg,images/gallerie/per-amore-del-mare/0311_Il_mistero_del_mare.jpeg,images/gallerie/per-amore-del-mare/0326_La_sirena.jpeg" >}}
-
-## Opere esposte
-{{< gallery images="images/gallerie/ecologia/0364_Ecologia.jpeg,images/gallerie/per-amore-della-terra/0360_Per_amore_della_terra.jpeg,images/gallerie/per-amore-della-terra/0372_Per_amore_della_terra.jpeg" >}}

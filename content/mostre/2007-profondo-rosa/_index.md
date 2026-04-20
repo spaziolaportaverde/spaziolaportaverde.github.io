@@ -1,9 +1,9 @@
 ---
 title: "Profondo Rosa"
-date: 2008-01-01
-description: "2007 Roè Volciano Mostra Profondo Rosa"
+date: 2007-01-01
+description: "Mostra a Roè Volciano - Profondo Rosa"
 location: "Roè Volciano"
-year: 2008
+year: 2007
 type: "personale"
 images:
 - 1_DSC00659.jpeg

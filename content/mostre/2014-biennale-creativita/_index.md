@@ -13,15 +13,11 @@ theme: arte
 
 La 1.a Biennale della Creatività, svolta a Verona dal 12 al 16 Febbraio 2014 ha raccolto negli ambienti della Fiera numerosi artisti contemporanei, ed ha rappresentato uno degli eventi espositivi più importanti del 2014.
 
-![Biennale della Creatività](/images/mostre/2014-biennale-della-creativita/mostra.jpeg)
-
-## Opere in Esposizione
-
-- **Verso la salvezza**
-- **L'abbraccio**
+![Biennale della Creatività](/images/mostre/2014-biennale-creativita/istantanee/mostra.jpeg)
 
 L'artista ha ricevuto un lusinghiero attestato di ammissione.
 
-## Opere esposte
-{{< gallery images="images/gallerie/ritratti-di-uomini/0109_Paternità.jpeg" >}}
+## Opere in Esposizione
+
+{{< gallery images="images/gallerie/ritratti-di-uomini/0109_Paternita.jpeg" >}}
 

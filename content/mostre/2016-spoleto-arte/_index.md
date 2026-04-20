@@ -13,7 +13,7 @@ images:
 - la-leggerezza-della-luce.jpeg
 - la-luce-al-tramonto.jpeg
 - la-voce-del-sole.jpeg
-draft: false
+draft: true
 theme: arte
 ---
 

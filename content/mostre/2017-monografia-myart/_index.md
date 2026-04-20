@@ -7,7 +7,7 @@ year: 2017
 type: "pubblicazione"
 images:
 - myart-2017-copertina.jpeg
-draft: false
+draft: true
 theme: arte
 ---
 

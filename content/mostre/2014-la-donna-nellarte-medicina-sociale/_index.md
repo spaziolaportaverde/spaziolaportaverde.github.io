@@ -6,9 +6,7 @@ location: "Milano"
 year: 2014
 type: "collettiva"
 images:
-- 1_DSC02247.jpeg
-- 2_DSC02253.jpeg
-- 3_DSC02254.jpeg
+- 4_DSC02244.jpeg
 draft: false
 theme: vita
 ---
@@ -16,7 +14,7 @@ theme: vita
 La Donna nell'Arte, nella Medicina e nel Sociale a Milano, 2014.
 
 ## Immagini dell'Evento
-{{< gallery dir="images/mostre/2014-la-donna-nellarte-medicina-sociale" >}}
+{{< gallery dir="images/mostre/2014-la-donna-nellarte-medicina-sociale/istantanee" >}}
 
 ## Opere esposte
 {{< gallery images="images/gallerie/immagini-della-violenza/0197_Farfalla_ferita.jpeg,images/gallerie/orrori-della-guerra/0226_La_strage_degli_innocenti.jpeg" >}}

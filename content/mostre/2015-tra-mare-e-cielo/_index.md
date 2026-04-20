@@ -15,8 +15,8 @@ theme: mare
 Tra Mare e Cielo a Firenze, 2015.
 
 ## Immagini dell'Evento
-{{< gallery dir="images/mostre/2015-tra-mare-e-cielo" >}}
+{{< gallery dir="images/mostre/2015-tra-mare-e-cielo/istantanee" >}}
 
 ## Opere esposte
-{{< gallery images="images/gallerie/madonne/356_Madonna_universale.jpeg,images/gallerie/madonne/357_Madonna_velata.jpeg" >}}
+{{< gallery images="images/gallerie/per-amore-del-mare/0257_Stella_blu.jpeg,images/gallerie/per-amore-del-mare/0286_Pieta_nel_mare.jpeg,images/gallerie/per-amore-del-mare/0294_Rocce_sul_mare.jpeg,images/gallerie/madonne/356_Madonna_universale.jpeg,images/gallerie/madonne/357_Madonna_velata.jpeg " >}}
 

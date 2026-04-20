@@ -5,7 +5,7 @@ description: "Mostra dedicata all'ecologia, in occasione dell'inaugurazione dell
 location: "Milano"
 year: 2013
 images:
-  - amazzonia.jpeg
+  - africa.jpeg
 type: "personale"
 draft: false
 theme: ambiente

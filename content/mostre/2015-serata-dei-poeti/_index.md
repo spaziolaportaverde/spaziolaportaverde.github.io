@@ -9,7 +9,7 @@ images:
 - 1_DSC02736.jpeg
 - 2_DSC02738.jpeg
 - 3_DSC02739.jpeg
-draft: false
+draft: true
 theme: vita
 ---
 
