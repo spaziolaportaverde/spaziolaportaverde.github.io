@@ -16,8 +16,14 @@
     {{ $res := resources.Get $imgPath }}
     {{ if $res }}
       {{ $files = $files | append $res }}
+    {{ else }}
+      {{ errorf "Gallery image not found: %q in page %s" $imgPath $.Page.File.Path }}
     {{ end }}
   {{ end }}
+{{ end }}
+
+{{ if and (not $files) (or $dir $imagesParam) }}
+  {{ errorf "No images found for gallery in %s (dir: %q, images: %q)" $.Page.File.Path $dir $imagesParam }}
 {{ end }}
 
 <div class="gallery-scroll">

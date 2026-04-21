@@ -15,7 +15,18 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     fonts-liberation \
     git \
     build-essential \
-    && rm -rf /var/lib/apt/lists/*
+    curl \
+    && ARCH=$(uname -m) && \
+    if [ "$ARCH" = "x86_64" ]; then \
+        LYCHEE_URL="https://github.com/lycheeverse/lychee/releases/download/v0.14.3/lychee-v0.14.3-x86_64-unknown-linux-gnu.tar.gz"; \
+    elif [ "$ARCH" = "aarch64" ] || [ "$ARCH" = "arm64" ]; then \
+        LYCHEE_URL="https://github.com/lycheeverse/lychee/releases/download/v0.14.3/lychee-v0.14.3-aarch64-unknown-linux-gnu.tar.gz"; \
+    fi && \
+    wget -O lychee.tar.gz "$LYCHEE_URL" && \
+    tar -xzf lychee.tar.gz && \
+    mv lychee /usr/local/bin/lychee && \
+    rm lychee.tar.gz && \
+    rm -rf /var/lib/apt/lists/*
 
 # Install Hugo Extended
 RUN ARCH=$(uname -m) && \

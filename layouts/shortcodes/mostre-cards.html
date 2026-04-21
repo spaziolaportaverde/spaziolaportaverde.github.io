@@ -53,6 +53,10 @@
             {{ else if (hasPrefix $firstImg "/") }}
             {{ $img = $firstImg | strings.TrimPrefix "/" }}
             {{ end }}
+
+            {{ if not $img }}
+            {{ errorf "Card image not found for %s: %q" .File.Path (index .Params.images 0) }}
+            {{ end }}
             {{ end }}
 
             {{ if $img }}
@@ -64,12 +68,16 @@
             {{ end }}
         </div>
         <div class="mostre-card__content">
+            {{ if or .Params.location .Params.year }}
             <div class="mostre-card__meta">
-                <span>{{ .Params.location | default "Milano" }}</span>
-                <span>{{ .Params.year | default (.Date.Format "2006") }}</span>
+                {{ if .Params.location }}<span>{{ .Params.location }}</span>{{ end }}
+                {{ if .Params.year }}<span>{{ .Params.year }}</span>{{ end }}
             </div>
+            {{ end }}
             <h3 class="mostre-card__title">{{ .Title }}</h3>
-            <p class="mostre-card__description">{{ .Description | default .Summary | truncate 150 }}</p>
+            {{ if .Params.description }}
+            <p class="mostre-card__description">{{ .Params.description | truncate 150 }}</p>
+            {{ end }}
             <div class="mostre-card__footer">Scopri di più</div>
         </div>
     </a>

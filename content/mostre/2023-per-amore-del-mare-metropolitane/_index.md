@@ -21,4 +21,4 @@ In concomitanza con la Mostra "Per amore del mare" che si svolge a partire dal 4
 
 ## Opere Esposte
 
-{{< gallery images="images/gallerie/per-amore-del-mare/375_Venere.jpeg,images/gallerie/per-amore-del-mare/0311_Il_mistero_del_mare.jpeg,images/gallerie/per-amore-del-mare/0312_Creature_dal_mare.jpeg,images/mostre/2023-per-amore-del-mare-metropolitane/tabelloni/tabellone-dinamismo-mare.jpeg,images/mostre/2023-per-amore-del-mare-metropolitane/tabelloni/tabellone-mistero-mare.jpeg,images/mostre/2023-per-amore-del-mare-metropolitane/tabelloni/tabellone-pescatrici-pele.jpeg,images/mostre/2023-per-amore-del-mare-metropolitane/tabelloni/tabellone-venere-mare.jpeg" >}}
+{{< gallery images="images/gallerie/per-amore-del-mare/375_Venere.jpeg,images/gallerie/per-amore-del-mare/0311_Il_mistero_del_mare.jpeg,images/mostre/2023-per-amore-del-mare-metropolitane/tabelloni/tabellone-dinamismo-mare.jpeg,images/mostre/2023-per-amore-del-mare-metropolitane/tabelloni/tabellone-mistero-mare.jpeg,images/mostre/2023-per-amore-del-mare-metropolitane/tabelloni/tabellone-pescatrici-perle.jpeg,images/mostre/2023-per-amore-del-mare-metropolitane/tabelloni/tabellone-venere-mare.jpeg" >}}

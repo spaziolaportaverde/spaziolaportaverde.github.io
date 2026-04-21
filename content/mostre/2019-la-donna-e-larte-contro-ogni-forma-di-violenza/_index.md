@@ -90,4 +90,4 @@ Forse non rimane molto tempo per arginare la catastrofe, ma le molte voci in fav
 ![Fiore della gioia](/images/mostre/2019-la-donna-e-larte-contro-ogni-forma-di-violenza/fiore-della-gioia.jpeg)
 
 ## Opere esposte
-{{< gallery images="images/gallerie/ecologia/0337_Ecologia.jpeg,images/gallerie/trasfigurazioni-al-femminile/0085_Quando_l_amore_ferisce.jpeg,images/gallerie/ritratti-di-donne/0250_La_suonatrice_di_violino.jpeg" >}}
+{{< gallery images="images/gallerie/ecologia/0337_Farfalla_ferita.jpeg,images/gallerie/trasfigurazioni-al-femminile/0085_Quando_l_amore_ferisce.jpeg,images/gallerie/ritratti-di-donne/0250_La_suonatrice_di_violino.jpeg" >}}

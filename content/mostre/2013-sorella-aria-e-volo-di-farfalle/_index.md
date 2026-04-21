@@ -19,5 +19,5 @@ Sorella aria e Volo di Farfalle a Milano, 2013.
 {{< gallery dir="images/mostre/2013-sorella-aria-e-volo-di-farfalle/istantanee" >}}
 
 ## Opere esposte
-{{< gallery images="images/gallerie/ecologia/0181_DSC01928.jpeg,images/gallerie/ecologia/0184_Danza_dell_aria.jpeg" >}}
+{{< gallery images="images/gallerie/ecologia/0181_L_abbraccio_delle_piante.jpeg,images/gallerie/ecologia/0184_Danza_dell_aria.jpeg" >}}
 

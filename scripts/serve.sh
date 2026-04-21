@@ -10,17 +10,20 @@ show_help() {
     echo "Options:"
     echo "  --build          Rebuild the Docker image before starting"
     echo "  --watermark      Run the watermark script before starting the server"
+    echo "  --validate       Build the site and validate all links and images"
     echo "  --help           Show this help message"
 }
 
 # Parse arguments
 BUILD=false
 WATERMARK=false
+VALIDATE=false
 
 while [[ "$#" -gt 0 ]]; do
     case $1 in
         --build) BUILD=true ;;
         --watermark) WATERMARK=true ;;
+        --validate) VALIDATE=true ;;
         --help) show_help; exit 0 ;;
         *) echo "Unknown parameter passed: $1"; show_help; exit 1 ;;
     esac
@@ -50,6 +53,17 @@ if [ "$WATERMARK" = true ]; then
         --inplace \
         assets/images/ \
         assets/images/
+fi
+
+# Run validation if requested
+if [ "$VALIDATE" = true ]; then
+    echo "Running validation..."
+    echo "1. Building site..."
+    docker compose run --rm website hugo --minify
+    echo "2. Validating links..."
+    # --offline skips external links for faster local check, or remove --offline for full check
+    docker compose run --rm website lychee --offline public/
+    exit $?
 fi
 
 # Start the Hugo server
