@@ -9,12 +9,6 @@ Lo spazio "LA PORTA VERDE" si trova a Milano, in via Ampére 102 nei pressi dell
 
 Le tre ampie vetrine rendono completamente visibile quanto esposto all'interno.
 
-Lo spazio si articola in **tre ambienti distinti**, ciascuno dedicato a diverse tipologie di eventi:
-
-- **Primo Ambiente** - Esposizioni permanenti
-- **Secondo Ambiente** - Mostre temporanee
-- **Terzo Ambiente** - Eventi speciali e conferenze
-
 ## Posizione
 
 Via Andrea Maria Ampére, 102
@@ -24,3 +18,5 @@ Via Andrea Maria Ampére, 102
 
 - **Metro**: Linea MM2 (verde) - fermata Lambrate o Piola
 - **Autobus**: Linee 62, 81
+
+{{< map q="Via Andrea Maria Ampere 102, 20131 Milano" >}}
