@@ -111,7 +111,7 @@ jobs:
       - name: Validate Links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress public/
+          args: --verbose --no-progress --base "file://${{ github.workspace }}/public" public/
           fail: true
           token: ${{ secrets.GITHUB_TOKEN }}
 
