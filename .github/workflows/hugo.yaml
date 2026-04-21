@@ -102,7 +102,7 @@ jobs:
       - name: Validate Links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress --exclude-mail public/
+          args: --verbose --no-progress public/
           fail: true
           token: ${{ secrets.GITHUB_TOKEN }}
 
