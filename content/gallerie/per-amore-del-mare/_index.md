@@ -23,7 +23,7 @@ images:
 - 0328_Le_pescatrici_di_perle.jpeg
 - 0334_Per_amore_del_mare.jpeg
 - 375_Venere_DSC03138.jpeg
-- 381_Il_dinamismo_del_mare.jpeg
+- 0381_Il_dinamismo_del_mare.jpeg
 title: Per Amore Del Mare
 ---
 {{< gallery dir="images/gallerie/per-amore-del-mare" >}}

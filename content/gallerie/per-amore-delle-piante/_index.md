@@ -3,7 +3,7 @@ images:
 - 0150_Amazzonia.jpeg
 - 0151_Il_canto_della_foglia.jpeg
 - 0178_La_forza_degli_alberi.jpeg
-- 0180_DSC01927_Luce_sulla_foresta.jpeg
+- 0180_Luce_sulla_foresta_Luce_sulla_foresta.jpeg
 - 0181_L_abbraccio_delle_piante_L_abbraccio_delle_piante.jpeg
 - 0221_L_albero_della_vita.jpeg
 - 0235_L_ultima_foglia.jpeg

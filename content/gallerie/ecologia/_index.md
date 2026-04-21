@@ -15,7 +15,7 @@ images:
 - 0153_Inquinamento.jpeg
 - 0178_La_forza_degli_alberi.jpeg
 - 0179_Il_fuoco_nel_bosco.jpeg
-- 0180_DSC01927.jpeg
+- 0180_Luce_sulla_foresta.jpeg
 - 0181_L_abbraccio_delle_piante.jpeg
 - 0184_Danza_dell_aria.jpeg
 - 0185_Oro_blu.jpeg

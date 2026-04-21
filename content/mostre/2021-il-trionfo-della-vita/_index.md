@@ -35,4 +35,4 @@ groviglio di energia grafica e cromatica che si manifesta nel pieno del suo crep
 
 ## Opere in Mostra
 
-{{< gallery images="images/gallerie/per-amore-del-mare/381_Il_dinamismo_del_mare.jpeg,images/gallerie/per-amore-del-mare/0311_Il_mistero_del_mare.jpeg,images/gallerie/per-amore-del-mare/0326_La_sirena.jpeg" >}}
+{{< gallery images="images/gallerie/per-amore-del-mare/0381_Il_dinamismo_del_mare.jpeg,images/gallerie/per-amore-del-mare/0311_Il_mistero_del_mare.jpeg,images/gallerie/per-amore-del-mare/0326_La_sirena.jpeg" >}}

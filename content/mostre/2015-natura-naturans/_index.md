@@ -28,5 +28,5 @@ La natura offuscata, deturpata, resa malata, é preda di un demone che combatte 
 {{< gallery dir="images/mostre/2015-natura-naturans/istantanee" >}}
 
 ## Opere esposte
-{{< gallery images="images/gallerie/per-amore-del-mare/0210_Se_il_mare_si_scalda.jpeg,images/gallerie/per-amore-del-mare/0208_La_vita_dal_mare_1.jpeg,images/gallerie/per-amore-della-terra/0236_Natura_Naturans.jpeg,images/gallerie/per-amore-della-terra/0222_La_terra_ci_nutre.jpeg,images/gallerie/per-amore-della-terra/0348_Ultima_cena.jpeg,images/gallerie/per-amore-delle-piante/0235_L_ultima_foglia.jpeg,images/gallerie/ecologia/0180_DSC01927.jpeg" >}}
+{{< gallery images="images/gallerie/per-amore-del-mare/0210_Se_il_mare_si_scalda.jpeg,images/gallerie/per-amore-del-mare/0208_La_vita_dal_mare_1.jpeg,images/gallerie/per-amore-della-terra/0236_Natura_Naturans.jpeg,images/gallerie/per-amore-della-terra/0222_La_terra_ci_nutre.jpeg,images/gallerie/per-amore-della-terra/0348_Ultima_cena.jpeg,images/gallerie/per-amore-delle-piante/0235_L_ultima_foglia.jpeg,images/gallerie/ecologia/0180_Luce_sulla_foresta.jpeg" >}}
 
