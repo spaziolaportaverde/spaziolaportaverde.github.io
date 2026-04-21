@@ -56,7 +56,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: assets/images
-          key: ${{ runner.os }}-watermarked-originals-${{ hashFiles('assets/images/**') }}
+          key: ${{ runner.os }}-watermarked-originals-${{ hashFiles('assets/images/**/*.jpg', 'assets/images/**/*.jpeg', 'assets/images/**/*.png', 'assets/images/**/*.JPG', 'assets/images/**/*.JPEG', 'assets/images/**/*.PNG') }}
 
       # Watermark source JPEGs in-place BEFORE Hugo and the image processing
       # pipeline consume them. Hugo will then generate its WebP/responsive
@@ -82,7 +82,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: resources
-          key: ${{ runner.os }}-hugo-resources-${{ hashFiles('layouts/**', 'content/**', 'assets/**') }}
+          key: ${{ runner.os }}-hugo-resources-${{ hashFiles('layouts/**', 'content/**', 'assets/css/**', 'assets/js/**', 'assets/images/**/*.jpg', 'assets/images/**/*.jpeg', 'assets/images/**/*.png', 'assets/images/**/*.JPG', 'assets/images/**/*.JPEG', 'assets/images/**/*.PNG') }}
           restore-keys: |
             ${{ runner.os }}-hugo-resources-
 
@@ -92,7 +92,7 @@ jobs:
           path: |
             assets/images/**/*-800w.webp
             assets/images/**/*-1200w.webp
-          key: ${{ runner.os }}-processed-images-${{ hashFiles('assets/images/**') }}
+          key: ${{ runner.os }}-processed-images-${{ hashFiles('assets/images/**/*.jpg', 'assets/images/**/*.jpeg', 'assets/images/**/*.png', 'assets/images/**/*.JPG', 'assets/images/**/*.JPEG', 'assets/images/**/*.PNG') }}
           restore-keys: |
             ${{ runner.os }}-processed-images-
 
