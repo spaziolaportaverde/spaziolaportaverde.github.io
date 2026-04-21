@@ -24,7 +24,7 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
-          lfs: true
+          lfs: false  # LFS is fetched manually below to allow watermark caching
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -51,21 +51,31 @@ jobs:
             "numpy>=1.24.0" \
             "invisible-watermark>=0.1.5"
 
-      # Compute a stable hash of the images directory from git's object tree.
-      # This is based on the committed state and does NOT change when the
-      # watermark script modifies the files in-place, solving the restore/save
-      # hash mismatch that caused the cache to always miss.
+      # Compute a stable hash of the committed images tree.
+      # Uses git's object database so the key is identical before and after
+      # watermarking (which modifies files on disk but not the git tree).
       - name: Compute image git hash
         id: image-hash
         run: |
           echo "hash=$(git ls-tree -r HEAD -- assets/images/ | sha256sum | cut -d' ' -f1)" >> $GITHUB_OUTPUT
 
+      # Restore watermarked images from cache.
+      # On a HIT: assets/images has watermarked images → skip LFS pull and watermark.
+      # On a MISS: assets/images has only LFS pointer files → pull and watermark below.
       - name: Cache watermarked images
         id: cache-watermark
         uses: actions/cache@v4
         with:
           path: assets/images
-          key: ${{ runner.os }}-watermarked-originals-${{ steps.image-hash.outputs.hash }}
+          key: ${{ runner.os }}-watermarked-${{ steps.image-hash.outputs.hash }}
+          restore-keys: |
+            ${{ runner.os }}-watermarked-
+          save-always: true
+
+      # Only pull LFS images if the watermark cache missed
+      - name: Fetch images from LFS
+        if: steps.cache-watermark.outputs.cache-hit != 'true'
+        run: git lfs pull
 
       # Watermark source JPEGs in-place BEFORE Hugo and the image processing
       # pipeline consume them. Hugo will then generate its WebP/responsive
@@ -94,24 +104,15 @@ jobs:
           key: ${{ runner.os }}-hugo-resources-${{ hashFiles('layouts/**', 'content/**', 'assets/css/**', 'assets/js/**', 'assets/images/**/*.jpg', 'assets/images/**/*.jpeg', 'assets/images/**/*.png', 'assets/images/**/*.JPG', 'assets/images/**/*.JPEG', 'assets/images/**/*.PNG') }}
           restore-keys: |
             ${{ runner.os }}-hugo-resources-
-
-      - name: Cache Processed Images
-        uses: actions/cache@v4
-        with:
-          path: |
-            assets/images/**/*-800w.webp
-            assets/images/**/*-1200w.webp
-          key: ${{ runner.os }}-processed-images-${{ steps.image-hash.outputs.hash }}
-          restore-keys: |
-            ${{ runner.os }}-processed-images-
-
       - name: Build
         run: hugo --minify
 
-      - name: Validate Links
+      - name: Validate External Links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress --base "file://${{ github.workspace }}/public" public/
+          # Only check external http/https links. Internal links are validated
+          # during the Hugo build (missing pages and images cause errorf failures).
+          args: --verbose --no-progress --scheme https --scheme http public/
           fail: true
           token: ${{ secrets.GITHUB_TOKEN }}
 
