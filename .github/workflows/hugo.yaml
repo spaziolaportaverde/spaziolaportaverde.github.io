@@ -107,12 +107,20 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Validate External Links
+      # Serve the built site locally so lychee can resolve root-relative links
+      # (e.g. /css/style.css, /images/...) as proper http:// URLs.
+      - name: Serve site locally
+        run: |
+          cd public && python3 -m http.server 8080 &
+          sleep 2  # Give the server time to start
+
+      - name: Validate Links
         uses: lycheeverse/lychee-action@v2
         with:
-          # Only check external http/https links. Internal links are validated
-          # during the Hugo build (missing pages and images cause errorf failures).
-          args: --verbose --no-progress --scheme https --scheme http public/
+          # Only follow http:// links (the local server). This validates all
+          # internal pages, images, and CSS without touching external https://
+          # sites (Instagram, Pinterest, etc.) which block automated crawlers.
+          args: --verbose --no-progress --scheme http http://localhost:8080/
           fail: true
           token: ${{ secrets.GITHUB_TOKEN }}
 
