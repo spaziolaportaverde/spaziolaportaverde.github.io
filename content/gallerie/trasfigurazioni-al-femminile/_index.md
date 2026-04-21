@@ -14,7 +14,7 @@ images:
 - 0039_Fanciulle_al_mare.jpeg
 - 0043_Maternità_araba.jpeg
 - 0044_Donne_nell_ombra.jpeg
-- 0052_Creatività.jpeg
+- 0052_Creativita.jpeg
 - 0079_Figure_danzanti.jpeg
 - 0085_Quando_l_amore_ferisce.jpeg
 - 0091_Donna_sul_divano_rosso.jpeg

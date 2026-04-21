@@ -1,6 +1,6 @@
 ---
 images:
-- 0246_Maternità.jpeg
+- 0246_Maternita.jpeg
 - 0247_Giovane_donna.jpeg
 - 0248_L_orientale.jpeg
 - 0249_La_nuotatrice.jpeg
