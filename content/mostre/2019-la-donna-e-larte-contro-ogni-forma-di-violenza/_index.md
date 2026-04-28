@@ -34,6 +34,10 @@ Ci stiamo abituando a convivere col ripetersi dell'aggressione al corpo e alla m
 
 Forse non rimane molto tempo per arginare la catastrofe, ma le molte voci in favore dell'amore e dunque della protezione della comune casa di tutti gli esseri umani, sembra poco ascoltata.
 
+## Istantanee evento
+
+{{< gallery dir="images/mostre/2019-la-donna-e-larte-contro-ogni-forma-di-violenza/istantanee" >}}
+
 ## Opere in Esposizione
 
 ![Locandina](/images/mostre/2019-la-donna-e-larte-contro-ogni-forma-di-violenza/locandina.jpeg)

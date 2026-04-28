@@ -16,9 +16,11 @@ L'artista Gabriella Ventavoli dona l'opera-Dittico **"La Bellezza dal Mare"** e 
 
 La donazione rappresenta un gesto di grande generosità verso la città di Venezia, che l'artista considera come un luogo simbolo della fragilità e della bellezza del mare.
 
-## Le Opere esposte
+## Immagini dell'evento
 
-Le due opere formano un dittico che celebra la bellezza e la sacralità del mare, tema ricorrente nel percorso artistico di Gabriella Ventavoli.
+{{< gallery dir="images/mostre/2020-donazione-palazzina-grassi/istantanee" >}}
+
+## Opere esposte
 
 {{< gallery images="images/gallerie/per-amore-del-mare/0207_La_bellezza_dal_mare.jpeg,images/gallerie/per-amore-del-mare/0327_La_vita_dal_mare_2.jpeg" >}}
 

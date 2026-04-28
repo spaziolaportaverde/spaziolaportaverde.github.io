@@ -18,6 +18,3 @@ theme: riconoscimento
 
 Gabriella Ventavoli ha partecipato al Premio Biennale Sgarbi, un importante riconoscimento che si tiene in occasione della Biennale d'Arte di Venezia.
 
-## Opere in Esposizione
-
-{{< gallery dir="images/mostre/2019-premio-biennale-sgarbi" >}}

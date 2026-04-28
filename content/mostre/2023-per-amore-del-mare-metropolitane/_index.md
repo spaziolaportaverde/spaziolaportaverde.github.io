@@ -13,8 +13,6 @@ theme: arte
 
 In concomitanza con la Mostra "Per amore del mare" che si svolge a partire dal 4 marzo 2023 nello Spazio Culturale di via Andrea Maria Ampere 102, numerose gigantografie delle opere esposte sono state installate nelle stazioni della Metro di Milano.
 
-![mistero_mare](/images/mostre/2023-per-amore-del-mare-metropolitane/mistero_mare.jpeg)
-
 ## Immagini dell'evento
 
 {{< gallery dir="images/mostre/2023-per-amore-del-mare-metropolitane/istantanee" >}}
