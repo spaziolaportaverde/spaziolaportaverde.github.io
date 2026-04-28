@@ -1,7 +1,7 @@
 ---
-title: "Matera Admirabilis"
+title: "Mater Admirabilis"
 date: 2021-05-01
-description: "Mostra nell'ambito del progetto Scenari all'Hotel Plus Florence"
+description: "Esposizione nell'ambito del progetto Scenari all'Hotel Plus Florence"
 location: "Firenze"
 year: 2021
 type: "personale"
@@ -10,7 +10,7 @@ images:
 - madonna-del-mare.jpeg
 - madonna-universale.jpeg
 - foto-1.jpeg
-- foto-2.jpeg
+- foto-2.jpeg   
 - foto-3.jpeg
 draft: false
 theme: spiritualita
@@ -20,7 +20,7 @@ Ha preso il via, all'interno del prestigio Hotel Plus Florence un nuovo progetto
 
 ## Istantanee evento
 
-{{< gallery dir="images/mostre/2021-matera-admirabilis/istantanee" >}}
+{{< gallery dir="images/mostre/2021-mater-admirabilis/istantanee" >}}
 
 ## Opere esposte
 
