@@ -866,7 +866,7 @@ img {
 }
 
 .mostre-card__content {
-    padding: var(--spacing-md);
+    padding: var(--spacing-xs) var(--spacing-md) var(--spacing-md);
     display: flex;
     flex-direction: column;
     flex-grow: 1;

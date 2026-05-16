@@ -13,4 +13,4 @@ Un Rinascimento Verde, dunque, in cui la distanza dall'ambiente primordiale, cul
 
 Il centro, ospitato nello spazio omonimo, si esprimerà attraverso mostre tematiche, conferenze, al fine di sollecitare e rinforzare l'interesse verso un effettivo miglioramento della condizione umana nel pieno rispetto dell'ambiente.
 
-Dopo il primo evento dedicato all'ambiente, farà seguito un'esposizione di opere aventi come tema la violenza contro le donne e i bambini.
+Dopo il primo evento dedicato all'ambiente, ha fatto seguito un'esposizione di opere aventi come tema la violenza contro le donne e i bambini e molto altro.

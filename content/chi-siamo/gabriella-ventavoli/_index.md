@@ -11,7 +11,7 @@ Sin dal 1976 Gabriella Ventavoli opera nell'ambito della pittura, avendo all'att
 
 ## Un Impegno Civile e Morale
 
-Grazie alla sua empatica sensibilità e alla propria dedizione alle tematiche sociali e ambientali nel campo pittorico, Ventavoli si è distinta per il grande impegno civile e morale. Vantando quasi un quarantennio di fiorente attività artistica in Italia, tra mostre personali e collettive, è riuscita, con una straordinaria originalità, a coniugare un profondo lirismo espressivo con realtà attuale del mondo, sovente drammatica.
+Grazie alla sua empatica sensibilità e alla propria dedizione alle tematiche sociali e ambientali nel campo pittorico, Ventavoli si è distinta per il grande impegno civile e morale. Vantando quasi un cinquantennio di fiorente attività artistica in Italia, tra mostre personali e collettive, è riuscita, con una straordinaria originalità, a coniugare un profondo lirismo espressivo con realtà attuale del mondo, sovente drammatica.
 
 Eppure, attraverso il gesto pittorico, è stata in grado di stemperare i toni tragici dei temi indagati conferendo sia una particolare delicatezza alla gamma cromatica adottata, sia una sorprendente morbidezza al segno.
 
