@@ -138,7 +138,7 @@
   Tecnica: Acrilico su tela 
 
   Dimensioni: 150x100 cm'
-0025_Maternità: 'Titolo: Maternità
+0025_Maternita: 'Titolo: Maternità
 
   Autore: Gabriella Ventavoli
 
@@ -194,7 +194,7 @@
   Tecnica: Acrilico su forex
 
   Dimensioni: 150x100 cm'
-0043_Maternità araba: 'Titolo: Maternità Araba
+0043_Maternita araba: 'Titolo: Maternità Araba
 
   Autore: Gabriella Ventavoli
 
@@ -473,7 +473,7 @@
   Tecnica: Acrilico su tela 
 
   Dimensioni: 150x100 cm'
-0097_Maternità: 'Titolo: Maternità
+0097_Maternita: 'Titolo: Maternità
 
   Autore: Gabriella Ventavoli
 
@@ -506,7 +506,7 @@
 
   Tecnica: Acrlico su legno
 
-  Dimensioni: 90x70 cm'
+  Dimensioni: 70x90 cm'
 0110_Sogno: 'Titolo: Sogno
 
   Autore: Gabriella Ventavoli
@@ -820,21 +820,21 @@
   Tecnica: Acrilico su tela
 
   Dimensioni: 150x100 cm'
-0174_DSC01921_Sensualità: 'Titolo: Sensualità
+0174_Sensualita: 'Titolo: Sensualità
 
   Autore: Gabriella Ventavoli
 
   Tecnica: Acrilico su forex
 
   Dimensioni: 150x100 cm'
-0176_Maternità DSC01923: 'Titolo: Maternità
+0176_Maternita: 'Titolo: Maternità
 
   Autore: Gabriella Ventavoli
 
   Tecnica: Acrilico su tela
 
   Dimensioni: 150x100 cm'
-0177_ Pietà 2: 'Titolo: Pietà 2
+0177_Pieta_2: 'Titolo: Pieta 2
 
   Autore: Gabriella Ventavoli
 
@@ -868,14 +868,14 @@
   Tecnica: Acrilico su tela 
 
   Dimensioni: 150x100 cm'
-0182_Pietà_Pietà per il soldato: 'Titolo: Pietà Pietà Per Il Soldato
+0182_Pieta_per_il_soldato: 'Titolo: Pietà Per Il Soldato
 
   Autore: Gabriella Ventavoli
 
   Tecnica: Acrilico su tela
 
   Dimensioni: 150x100 cm'
-0183_Pietà per le vittime innocenti 1: 'Titolo: Pietà Per Le Vittime Innocenti 1
+0183_Pieta_per_le_vittime_innocenti_1: 'Titolo: Pietà Per Le Vittime Innocenti 1
 
   Autore: Gabriella Ventavoli
 
@@ -1424,7 +1424,6 @@
 
   Dimensioni: 100x150 cm'
 0364_La_forza_della_vita: 'Titolo: La Forza Della Vita'
-0182_Pieta_per_il_soldato: 'Titolo: Pieta Per Il Soldato'
 0084_Identità_negate: 'Titolo: Identità negate
 
   Autore: Gabriella Ventavoli
@@ -1481,7 +1480,13 @@
   Tecnica: Acrilico su tela
 
   Dimensioni: 100x70 cm'
-0286_Pieta_nel_mare: 'Titolo: Pieta Nel Mare'
+0286_Pieta_nel_mare: 'Titolo: Pieta Nel Mare
+
+  Autore: Gabriella Ventavoli
+
+  Tecnica: Acrilico su tela
+
+  Dimensioni: 120x120 cm'
 0288_L_occhio_del_mare: 'Titolo: L''occhio del mare
 
   Autore: Gabriella Ventavoli
@@ -1655,8 +1660,14 @@
 
   Dimensioni: 70x90 cm'
 0043_Maternità_araba: 'Titolo: Maternità Araba'
-0177_Pieta_2: 'Titolo: Pietà 2'
-0075_Siccità: 'Titolo: Siccità
+0177_Pieta_2: 'Titolo: Pietà 2
+
+  Autore: Gabriella Ventavoli
+
+  Tecnica: Acrilico su tela
+
+  Dimensioni: 120x120 cm'
+0075_Siccita: 'Titolo: Siccità
 
   Autore: Gabriella Ventavoli
 
@@ -1755,7 +1766,7 @@
   Tecnica: Acrilico su tela
 
   Dimensioni: 100x150 cm'
-0183_Pietà_per_le_vittime_innocenti: 'Titolo: Pietà per le vittime innocenti
+0183_Pieta_per_le_vittime_innocenti: 'Titolo: Pietà per le vittime innocenti
 
   Autore: Gabriella Ventavoli
 
@@ -1902,7 +1913,7 @@
   Tecnica: Acrilico su tela
 
   Dimensioni: 100x70 cm'
-0286_Pietà_nel_mare: 'Titolo: Pietà nel mare
+0286_Pieta_nel_mare: 'Titolo: Pietà nel mare
 
   Autore: Gabriella Ventavoli
 

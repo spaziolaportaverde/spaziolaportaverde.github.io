@@ -6,8 +6,8 @@ images:
 - 0234_Il_martirio_della_terra.jpeg
 - 0236_Natura_Naturans.jpeg
 - 0348_Ultima_cena.jpeg
-- 361_Telero_2_ritagliatorid.jpeg
-- 362_Telero_1_ritagliatorid.jpeg
+- 361_Telero_2.jpeg
+- 362_Telero_1.jpeg
 - 365_La_guerra_del_grano.jpeg
 - 386_Il_grano_vero_oro_della_Terra.jpeg
 title: Per Amore Della Terra

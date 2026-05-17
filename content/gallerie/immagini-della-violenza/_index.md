@@ -12,8 +12,8 @@ images:
 - 0162_Lo_strazio_del_corpo.jpeg
 - 0168_La_minaccia_2.jpeg
 - 0171_Angelo_caduto.jpeg
-- 0182_Pieta_Pietà_per_il_soldato.jpeg
-- 0183_Pietaa_per_le_vittime_innocenti_1.jpeg
+- 0182_Pieta_per_il_soldato.jpeg
+- 0183_Pieta_per_le_vittime_innocenti_1.jpeg
 - 0197_Farfalla_ferita.jpeg
 title: Immagini Della Violenza
 ---

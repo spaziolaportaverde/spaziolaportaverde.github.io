@@ -5,14 +5,14 @@ images:
 - 0010_La_sposa_afghana_bilanciato.jpeg
 - 0011_La_sposa_del_guerriero.jpeg
 - 0012_La_partenza_dl_soldato.jpeg
-- 0025_Maternità.jpeg
+- 0025_Maternita.jpeg
 - 0026_Il_dialogo.jpeg
 - 0033_Burka.jpeg
 - 0035_Torera_2.jpeg
 - 0036_Il_sogno.jpeg
 - 0038_Armonia.jpeg
 - 0039_Fanciulle_al_mare.jpeg
-- 0043_Maternità_araba.jpeg
+- 0043_Maternitaa_araba.jpeg
 - 0044_Donne_nell_ombra.jpeg
 - 0052_Creativita.jpeg
 - 0079_Figure_danzanti.jpeg
@@ -20,7 +20,7 @@ images:
 - 0091_Donna_sul_divano_rosso.jpeg
 - 0092_La_torera_3.jpeg
 - 0093_Il_pianto_di_Olimpia.jpeg
-- 0097_Maternità.jpeg
+- 0097_Maternitaa.jpeg
 - 0116_torera1.jpeg
 - 0123_Il_velo_della_sposa.jpeg
 - 0140_Canto_di_donna.jpeg
@@ -28,8 +28,8 @@ images:
 - 0169_Le_amiche_DSC01916.jpeg
 - 0172_DSC01919_Donna_seduta.jpeg
 - 0173_DSC01920_L_annunciazione.jpeg
-- 0176_Maternità_DSC01923.jpeg
-- 0177__Pietà_2.jpeg
+- 0176_Maternita.jpeg
+- 0177_Pieta_2.jpeg
 - 0186_Malala.jpeg
 - 0254_Venere_3000.jpeg
 - 0346_La_torera_4.jpeg
