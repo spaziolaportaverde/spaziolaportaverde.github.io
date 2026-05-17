@@ -257,13 +257,6 @@
   Tecnica: Acrilico su tela
 
   Dimensioni: 150x100 cm'
-0054_Fiore_marino: 'Titolo: Fiore marino
-
-  Autore: Gabriella Ventavoli
-
-  Tecnica: Acrilico su tela
-
-  Dimensioni: 150x100 cm'
 0056_Dinamismo_4: 'Titolo: Dinamismo 4
 
   Autore: Gabriella Ventavoli
@@ -424,7 +417,7 @@
 
   Tecnica: Acrilico su tela
 
-  Dimensioni: 150x100 cm'
+  Dimensioni: 100x150 cm'
 0087_Il_sonno_del_mare: 'Titolo: Il sonno del mare
 
   Autore: Gabriella Ventavoli
@@ -944,7 +937,7 @@
 
   Tecnica: Acrilico su tela
 
-  Dimensioni: 150x100 cm'
+  Dimensioni: 100x150 cm'
 0208_La_vita_dal_mare_1: 'Titolo: La Vita Dal Mare 1
 
   Autore: Gabriella Ventavoli
@@ -1000,7 +993,7 @@
 
   Tecnica: Acrilico su tela
 
-  Dimensioni: 100x150 cm'
+  Dimensioni: 150x100 cm'
 0234_Il_martirio_della_terra: 'Titolo: Il martirio della Terra
 
   Autore: Gabriella Ventavoli
@@ -1089,7 +1082,7 @@
 
   Tecnica: Acrilico su tela
 
-  Dimensioni: 500x70 cm'
+  Dimensioni: 50x70 cm'
 0311_Il_mistero_del_mare: 'Titolo: Il mistero del mare
 
   Autore: Gabriella Ventavoli
@@ -1209,14 +1202,14 @@
   Tecnica: Acrilico su tela
 
   Dimensioni: 50x70 cm'
-354__Madonna_del_mare: 'Titolo: Madonna Del Mare
+354_Madonna_del_mare: 'Titolo: Madonna Del Mare
 
   Autore: Gabriella Ventavoli
 
   Tecnica: Acrilico su tela
 
   Dimensioni: 70x50 cm'
-355__Madonna_Della_Robbia: 'Titolo: Madonna Della Robbia
+355_Madonna_Della_Robbia: 'Titolo: Madonna Della Robbia
 
   Autore: Gabriella Ventavoli
 
@@ -1230,7 +1223,7 @@
   Tecnica: Acrilico su tela
 
   Dimensioni: 50x70 cm'
-357_Madonna_velata: 'Titolo: Madonna Velata
+357_Madonna_velata_2: 'Titolo: Madonna Velata 2
 
   Autore: Gabriella Ventavoli
 
@@ -1394,7 +1387,6 @@
   Tecnica: Matite su carta 
 
   Dimensioni: 33x24 cm'
-0180_Il_mare_in_fiamme: 'Titolo: Il Mare In Fiamme'
 0187_Inquinamento_2: 'Titolo: Inquinamento 2
 
   Autore: Gabriella Ventavoli
@@ -1629,7 +1621,13 @@
   Tecnica: Acrilico su tela 
 
   Dimensioni: 150x100 cm'
-'0309_La primavera': 'Titolo: La Primavera'
+0309_La_primavera: 'Titolo: La Primavera
+  
+  Autore: Gabriella Ventavoli
+
+  Tecnica: Acrilico su carta 
+
+  Dimensioni: 150x100 cm'
 0407_Ninfa: 'Titolo: Ninfa
 
   Autore: Gabriella Ventavoli
@@ -1637,7 +1635,6 @@
   Tecnica: Acrilico su carta 
 
   Dimensioni: 100x190 cm'
-'360_Fuoco e ghiaccio': 'Titolo: Fuoco E Ghiaccio'
 372_La_terra_dei_fuochi: 'Titolo: La terra dei fuochi
 
   Autore: Gabriella Ventavoli
@@ -1821,7 +1818,7 @@
   Tecnica: Acrilico su tela
 
   Dimensioni: 150x100 cm'
-0059_Dinamismo_2: 'Titolo: Dinamismo 2
+0060_Dinamismo_2: 'Titolo: Dinamismo 2
 
   Autore: Gabriella Ventavoli
 
@@ -1842,7 +1839,7 @@
   Tecnica: Acrilico su legno
 
   Dimensioni: 90x70 cm'
-0310_La leggerezza_della_luce: 'Titolo: La leggerezza della luce
+0310_La_leggerezza_della_luce: 'Titolo: La leggerezza della luce
 
   Autore: Gabriella Ventavoli
 
@@ -1863,7 +1860,7 @@
   Tecnica: Acrilico su tela
 
   Dimensioni: 50x70 cm'
-0357_Madonna_velata_2: 'Titolo: Madonna velata 2
+0357_Madonna_velata: 'Titolo: Madonna velata
 
   Autore: Gabriella Ventavoli
 

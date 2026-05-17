@@ -19,4 +19,4 @@ Gabriella Ventavoli ha partecipato al Premio della Critica Art Now, un important
 
 ## Opere Proposte
 
-{{< gallery images="images/gallerie/ecologia/0184_Danza_dell_aria.jpeg,images/gallerie/ecologia/0179_Il_fuoco_nel_bosco.jpeg,images/gallerie/ecologia/0180_Il_mare_in_fiamme.jpeg" >}}
+{{< gallery images="images/gallerie/ecologia/0184_Danza_dell_aria.jpeg,images/gallerie/ecologia/0179_Il_fuoco_nel_bosco.jpeg" >}}
