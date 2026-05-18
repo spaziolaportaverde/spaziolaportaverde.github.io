@@ -25,4 +25,4 @@ Nel 2013 ha attivato un centro culturale, "La Porta Verde", dove si sono sussegu
 
 ## Hanno scritto di lei
 
-Enzo Battarra, Bruno Pollaci, Giorgio Seveso, Maria Teresa Briotti, Andrea Maria Pero, Liletta Fornasari, Carlo Franza, Vittorio Sgarbi.
+Enzo Battarra, Bruno Pollaci, Sandro Serradifalco, Giorgio Seveso, Maria Teresa Briotti, Andrea Maria Pero, Liletta Fornasari, Carlo Franza, Vittorio Sgarbi.
